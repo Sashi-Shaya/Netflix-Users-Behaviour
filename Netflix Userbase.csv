@@ -1,0 +1,2449 @@
+User ID,Subscription Type,Monthly Revenue,Join Date,Join Month,Last Logging Date,Last Logging Month,Active / Inactive,Country,Age,Age Group,Gender
+1,Basic,10,1/15/2022,Jan,10/6/2023,Oct,Active,United States,28,25-30,Male
+4,Standard,12,10/7/2022,Oct,6/26/2023,Jun,Inactive,Australia,51,50-55,Female
+6,Premium,15,3/18/2022,Mar,6/27/2023,Jun,Inactive,France,29,25-30,Female
+9,Standard,12,10/20/2022,Oct,6/23/2023,Jun,Inactive,Spain,37,35-40,Male
+11,Basic,10,5/16/2022,May,6/22/2023,Jun,Inactive,United States,31,30-35,Female
+14,Basic,10,1/8/2022,Jan,6/26/2023,Jun,Inactive,Australia,27,25-30,Male
+16,Premium,15,7/4/2022,Jul,6/27/2023,Jun,Inactive,France,36,35-40,Male
+17,Basic,10,1/24/2022,Jan,6/25/2023,Jun,Inactive,Brazil,30,25-30,Female
+22,Basic,10,7/22/2022,Jul,6/28/2023,Jun,Inactive,Canada,34,30-35,Male
+24,Standard,12,3/4/2022,Mar,6/26/2023,Jun,Inactive,Australia,31,30-35,Male
+26,Premium,15,12/1/2022,Dec,6/27/2023,Jun,Inactive,France,29,25-30,Male
+27,Basic,10,8/29/2022,Aug,6/25/2023,Jun,Inactive,Brazil,47,45-50,Female
+29,Premium,15,12/19/2022,Dec,6/23/2023,Jun,Inactive,Spain,36,35-40,Female
+32,Basic,10,7/7/2022,Jul,6/28/2023,Jun,Inactive,Canada,37,35-40,Male
+33,Standard,12,1/21/2022,Jan,6/27/2023,Jun,Inactive,United Kingdom,41,40-45,Female
+34,Standard,12,5/25/2022,May,6/26/2023,Jun,Inactive,Australia,29,25-30,Male
+36,Premium,15,1/3/2022,Jan,6/27/2023,Jun,Inactive,France,35,30-35,Male
+37,Basic,10,9/14/2022,Sep,6/25/2023,Jun,Inactive,Brazil,45,40-45,Female
+39,Premium,15,12/28/2022,Dec,6/23/2023,Jun,Inactive,Spain,27,25-30,Female
+42,Basic,10,6/15/2022,Jun,6/28/2023,Jun,Inactive,Canada,40,35-40,Male
+43,Standard,12,7/2/2022,Jul,6/27/2023,Jun,Inactive,United Kingdom,36,35-40,Female
+44,Standard,12,4/26/2022,Apr,6/26/2023,Jun,Inactive,Australia,29,25-30,Male
+46,Premium,15,2/23/2022,Feb,6/27/2023,Jun,Inactive,France,34,30-35,Male
+47,Basic,10,5/10/2022,May,6/25/2023,Jun,Inactive,Brazil,39,35-40,Female
+49,Premium,15,10/11/2022,Oct,6/23/2023,Jun,Inactive,Spain,28,25-30,Female
+52,Basic,10,8/29/2022,Aug,6/28/2023,Jun,Inactive,Canada,37,35-40,Male
+53,Standard,12,1/13/2022,Jan,6/27/2023,Jun,Inactive,United Kingdom,41,40-45,Female
+54,Standard,12,6/30/2022,Jun,6/26/2023,Jun,Inactive,Australia,29,25-30,Male
+56,Premium,15,3/15/2022,Mar,6/27/2023,Jun,Inactive,France,36,35-40,Male
+57,Basic,10,1/10/2022,Jan,6/25/2023,Jun,Inactive,Brazil,46,45-50,Female
+59,Premium,15,3/12/2022,Mar,6/23/2023,Jun,Inactive,Spain,27,25-30,Female
+62,Basic,10,3/8/2022,Mar,6/28/2023,Jun,Inactive,Canada,37,35-40,Male
+63,Standard,12,2/23/2022,Feb,6/27/2023,Jun,Inactive,United Kingdom,41,40-45,Female
+64,Standard,12,6/20/2022,Jun,6/26/2023,Jun,Inactive,Australia,29,25-30,Male
+66,Premium,15,1/30/2022,Jan,6/27/2023,Jun,Inactive,France,29,25-30,Male
+67,Basic,10,9/18/2022,Sep,6/25/2023,Jun,Inactive,Brazil,47,45-50,Female
+69,Premium,15,12/23/2022,Dec,6/23/2023,Jun,Inactive,Spain,36,35-40,Female
+71,Basic,10,1/26/2022,Jan,6/20/2023,Jun,Inactive,United States,27,25-30,Male
+72,Basic,10,11/10/2022,Nov,6/22/2023,Jun,Inactive,Canada,31,30-35,Female
+73,Standard,12,9/27/2022,Sep,6/26/2023,Jun,Inactive,United Kingdom,28,25-30,Female
+74,Premium,13,12/14/2022,Dec,6/25/2023,Jun,Inactive,Australia,41,40-45,Female
+75,Basic,13,5/28/2022,May,6/26/2023,Jun,Inactive,Germany,28,25-30,Female
+77,Premium,15,12/25/2022,Dec,6/23/2023,Jun,Inactive,Brazil,45,40-45,Female
+78,Standard,15,11/18/2022,Nov,6/28/2023,Jun,Inactive,Mexico,49,45-50,Male
+79,Standard,15,3/12/2022,Mar,6/25/2023,Jun,Inactive,Spain,43,40-45,Female
+80,Basic,12,8/11/2022,Aug,6/22/2023,Jun,Inactive,Italy,43,40-45,Male
+82,Standard,12,7/12/2022,Jul,6/28/2023,Jun,Inactive,Canada,35,30-35,Male
+83,Basic,10,10/20/2022,Oct,6/26/2023,Jun,Inactive,United Kingdom,46,45-50,Female
+86,Basic,11,4/3/2022,Apr,6/25/2023,Jun,Inactive,France,29,25-30,Female
+88,Standard,12,9/27/2022,Sep,6/28/2023,Jun,Inactive,Mexico,47,45-50,Male
+89,Basic,15,10/20/2022,Oct,6/26/2023,Jun,Inactive,Spain,39,35-40,Male
+91,Premium,11,3/10/2022,Mar,6/23/2023,Jun,Inactive,United States,39,35-40,Male
+92,Basic,14,5/1/2022,May,6/28/2023,Jun,Inactive,Canada,39,35-40,Male
+93,Standard,12,5/2/2022,May,6/26/2023,Jun,Inactive,United Kingdom,35,30-35,Male
+94,Premium,12,3/19/2022,Mar,6/25/2023,Jun,Inactive,Australia,44,40-45,Male
+95,Basic,11,2/28/2022,Feb,6/25/2023,Jun,Inactive,Germany,34,30-35,Male
+96,Premium,14,7/26/2022,Jul,6/24/2023,Jun,Inactive,France,32,30-35,Male
+97,Basic,10,5/3/2022,May,6/24/2023,Jun,Inactive,Brazil,29,25-30,Female
+98,Standard,13,7/3/2022,Jul,6/28/2023,Jun,Inactive,Mexico,31,30-35,Female
+101,Premium,11,10/17/2022,Oct,6/24/2023,Jun,Inactive,United States,46,45-50,Female
+102,Basic,12,3/29/2022,Mar,6/28/2023,Jun,Inactive,Canada,31,30-35,Male
+103,Standard,13,4/4/2022,Apr,6/26/2023,Jun,Inactive,United Kingdom,36,35-40,Male
+104,Premium,10,8/6/2022,Aug,6/25/2023,Jun,Inactive,Australia,38,35-40,Male
+105,Basic,11,4/3/2022,Apr,6/27/2023,Jun,Inactive,Germany,46,45-50,Female
+106,Premium,10,3/18/2022,Mar,6/24/2023,Jun,Inactive,France,49,45-50,Female
+107,Basic,14,7/3/2022,Jul,6/24/2023,Jun,Inactive,Brazil,29,25-30,Female
+108,Standard,12,5/24/2022,May,6/25/2023,Jun,Inactive,Mexico,27,25-30,Female
+111,Premium,14,7/14/2022,Jul,6/27/2023,Jun,Inactive,United States,40,35-40,Male
+112,Basic,10,1/6/2022,Jan,6/28/2023,Jun,Inactive,Canada,33,30-35,Female
+113,Standard,15,7/5/2022,Jul,6/26/2023,Jun,Inactive,United Kingdom,37,35-40,Male
+114,Premium,10,11/18/2022,Nov,6/25/2023,Jun,Inactive,Australia,48,45-50,Male
+115,Basic,11,5/4/2022,May,6/25/2023,Jun,Inactive,Germany,50,45-50,Female
+116,Premium,14,5/19/2022,May,6/23/2023,Jun,Inactive,France,45,40-45,Female
+118,Standard,12,7/8/2022,Jul,6/27/2023,Jun,Inactive,Mexico,33,30-35,Male
+119,Standard,11,9/20/2022,Sep,6/25/2023,Jun,Inactive,Spain,44,40-45,Female
+120,Basic,10,10/18/2022,Oct,6/25/2023,Jun,Inactive,Italy,30,25-30,Female
+121,Premium,15,3/10/2022,Mar,6/24/2023,Jun,Inactive,United States,27,25-30,Male
+122,Basic,11,3/5/2022,Mar,6/28/2023,Jun,Inactive,Canada,51,50-55,Male
+123,Standard,13,5/25/2022,May,6/26/2023,Jun,Inactive,United Kingdom,49,45-50,Female
+124,Premium,15,5/11/2022,May,6/25/2023,Jun,Inactive,Australia,43,40-45,Male
+125,Basic,12,8/21/2022,Aug,6/24/2023,Jun,Inactive,Germany,42,40-45,Male
+126,Premium,13,9/21/2022,Sep,6/23/2023,Jun,Inactive,France,45,40-45,Male
+128,Standard,12,6/10/2022,Jun,6/27/2023,Jun,Inactive,Mexico,48,45-50,Male
+129,Standard,13,5/11/2022,May,6/23/2023,Jun,Inactive,Spain,38,35-40,Male
+131,Premium,15,6/10/2022,Jun,6/23/2023,Jun,Inactive,United States,47,45-50,Male
+132,Basic,15,6/24/2022,Jun,6/28/2023,Jun,Inactive,Canada,48,45-50,Female
+133,Standard,13,6/24/2022,Jun,6/26/2023,Jun,Inactive,United Kingdom,47,45-50,Male
+134,Premium,15,5/11/2022,May,6/25/2023,Jun,Inactive,Australia,32,30-35,Male
+135,Basic,13,7/18/2022,Jul,6/26/2023,Jun,Inactive,Germany,47,45-50,Female
+136,Premium,12,9/13/2022,Sep,6/26/2023,Jun,Inactive,France,41,40-45,Female
+137,Basic,12,10/8/2022,Oct,6/22/2023,Jun,Inactive,Brazil,49,45-50,Male
+138,Standard,15,9/21/2022,Sep,6/23/2023,Jun,Inactive,Mexico,28,25-30,Male
+140,Basic,12,2/5/2022,Feb,6/23/2023,Jun,Inactive,Italy,43,40-45,Female
+141,Premium,12,11/5/2022,Nov,6/27/2023,Jun,Inactive,United States,42,40-45,Male
+142,Basic,14,10/6/2022,Oct,6/22/2023,Jun,Inactive,Canada,28,25-30,Male
+143,Standard,14,8/31/2022,Aug,6/24/2023,Jun,Inactive,United Kingdom,30,25-30,Female
+144,Premium,10,8/17/2022,Aug,6/26/2023,Jun,Inactive,Australia,33,30-35,Male
+145,Basic,11,5/5/2022,May,6/26/2023,Jun,Inactive,Germany,35,30-35,Female
+146,Basic,10,6/10/2022,Jun,6/25/2023,Jun,Inactive,France,38,35-40,Male
+147,Basic,12,8/11/2022,Aug,6/24/2023,Jun,Inactive,Brazil,49,45-50,Female
+148,Standard,15,11/27/2022,Nov,6/28/2023,Jun,Inactive,Mexico,39,35-40,Female
+149,Premium,13,11/17/2022,Nov,6/27/2023,Jun,Inactive,Spain,46,45-50,Female
+150,Basic,10,12/15/2022,Dec,6/23/2023,Jun,Inactive,Italy,47,45-50,Female
+151,Basic,15,12/12/2022,Dec,6/25/2023,Jun,Inactive,United States,30,25-30,Female
+152,Premium,14,11/23/2022,Nov,6/27/2023,Jun,Inactive,Canada,33,30-35,Female
+153,Standard,11,12/25/2022,Dec,6/24/2023,Jun,Inactive,United Kingdom,47,45-50,Male
+155,Basic,14,11/18/2022,Nov,6/27/2023,Jun,Inactive,Germany,28,25-30,Male
+156,Premium,15,8/19/2022,Aug,6/25/2023,Jun,Inactive,France,47,45-50,Male
+157,Standard,14,9/27/2022,Sep,6/24/2023,Jun,Inactive,Brazil,30,25-30,Male
+158,Basic,13,10/19/2022,Oct,6/28/2023,Jun,Inactive,Mexico,47,45-50,Female
+159,Standard,10,12/21/2022,Dec,6/26/2023,Jun,Inactive,Spain,51,50-55,Female
+160,Premium,15,10/27/2022,Oct,6/25/2023,Jun,Inactive,Italy,39,35-40,Male
+161,Basic,10,10/23/2022,Oct,6/24/2023,Jun,Inactive,United States,45,40-45,Male
+162,Premium,15,4/19/2022,Apr,6/25/2023,Jun,Inactive,Canada,31,30-35,Male
+163,Standard,11,5/4/2022,May,6/26/2023,Jun,Inactive,United Kingdom,29,25-30,Male
+164,Basic,11,11/3/2022,Nov,6/26/2023,Jun,Inactive,Australia,42,40-45,Female
+165,Standard,14,5/25/2022,May,6/25/2023,Jun,Inactive,Germany,49,45-50,Male
+166,Premium,13,4/16/2022,Apr,6/26/2023,Jun,Inactive,France,42,40-45,Male
+167,Basic,13,7/4/2022,Jul,6/24/2023,Jun,Inactive,Brazil,29,25-30,Male
+168,Standard,10,11/12/2022,Nov,6/28/2023,Jun,Inactive,Mexico,29,25-30,Male
+171,Premium,11,4/29/2022,Apr,6/24/2023,Jun,Inactive,United States,35,30-35,Female
+172,Basic,12,4/27/2022,Apr,6/26/2023,Jun,Inactive,Canada,39,35-40,Female
+173,Standard,15,3/6/2022,Mar,6/25/2023,Jun,Inactive,United Kingdom,40,35-40,Male
+174,Standard,14,4/23/2022,Apr,6/25/2023,Jun,Inactive,Australia,39,35-40,Female
+175,Basic,10,4/22/2022,Apr,6/26/2023,Jun,Inactive,Germany,47,45-50,Female
+176,Premium,13,12/4/2022,Dec,6/25/2023,Jun,Inactive,France,37,35-40,Female
+177,Basic,15,5/23/2022,May,6/26/2023,Jun,Inactive,Brazil,27,25-30,Female
+178,Standard,13,10/19/2022,Oct,6/26/2023,Jun,Inactive,Mexico,49,45-50,Female
+179,Premium,10,3/12/2022,Mar,6/26/2023,Jun,Inactive,Spain,30,25-30,Female
+180,Basic,14,9/26/2022,Sep,6/25/2023,Jun,Inactive,Italy,36,35-40,Male
+181,Premium,15,6/16/2022,Jun,6/27/2023,Jun,Inactive,United States,33,30-35,Male
+182,Basic,13,5/16/2022,May,6/25/2023,Jun,Inactive,Canada,30,25-30,Female
+183,Standard,15,5/26/2022,May,6/26/2023,Jun,Inactive,United Kingdom,36,35-40,Female
+184,Standard,13,4/26/2022,Apr,6/25/2023,Jun,Inactive,Australia,28,25-30,Female
+185,Basic,11,12/5/2022,Dec,6/25/2023,Jun,Inactive,Germany,47,45-50,Female
+186,Premium,12,1/3/2022,Jan,6/25/2023,Jun,Inactive,France,33,30-35,Female
+187,Basic,13,10/7/2022,Oct,6/24/2023,Jun,Inactive,Brazil,49,45-50,Female
+188,Standard,15,7/16/2022,Jul,6/27/2023,Jun,Inactive,Mexico,44,40-45,Female
+189,Premium,13,2/9/2022,Feb,6/26/2023,Jun,Inactive,Spain,47,45-50,Male
+190,Basic,11,9/18/2022,Sep,6/26/2023,Jun,Inactive,Italy,37,35-40,Female
+191,Premium,10,8/7/2022,Aug,6/25/2023,Jun,Inactive,United States,46,45-50,Male
+192,Basic,14,6/26/2022,Jun,6/27/2023,Jun,Inactive,Canada,50,45-50,Female
+193,Standard,11,5/8/2022,May,6/25/2023,Jun,Inactive,United Kingdom,50,45-50,Male
+194,Standard,14,8/19/2022,Aug,6/27/2023,Jun,Inactive,Australia,37,35-40,Male
+195,Basic,11,8/26/2022,Aug,6/24/2023,Jun,Inactive,Germany,50,45-50,Female
+196,Premium,13,9/6/2022,Sep,6/24/2023,Jun,Inactive,France,45,40-45,Female
+197,Basic,14,9/27/2022,Sep,6/23/2023,Jun,Inactive,Brazil,45,40-45,Male
+198,Standard,10,10/18/2022,Oct,6/27/2023,Jun,Inactive,Mexico,49,45-50,Female
+199,Premium,14,10/31/2022,Oct,6/25/2023,Jun,Inactive,Spain,39,35-40,Female
+200,Basic,11,10/13/2022,Oct,6/25/2023,Jun,Inactive,Italy,45,40-45,Female
+201,Premium,11,4/7/2022,Apr,6/27/2023,Jun,Inactive,United States,49,45-50,Female
+202,Basic,12,6/26/2022,Jun,6/27/2023,Jun,Inactive,Canada,31,30-35,Female
+203,Standard,13,7/31/2022,Jul,6/24/2023,Jun,Inactive,United Kingdom,42,40-45,Female
+204,Standard,12,7/27/2022,Jul,6/24/2023,Jun,Inactive,Australia,37,35-40,Male
+205,Basic,12,7/30/2022,Jul,6/25/2023,Jun,Inactive,Germany,30,25-30,Male
+206,Premium,11,6/8/2022,Jun,6/25/2023,Jun,Inactive,France,40,35-40,Male
+207,Basic,15,9/16/2022,Sep,6/24/2023,Jun,Inactive,Brazil,45,40-45,Female
+209,Premium,11,10/12/2022,Oct,6/24/2023,Jun,Inactive,Spain,41,40-45,Male
+210,Basic,14,11/22/2022,Nov,6/26/2023,Jun,Inactive,Italy,49,45-50,Female
+211,Premium,15,11/15/2022,Nov,6/27/2023,Jun,Inactive,United States,40,35-40,Male
+212,Basic,11,10/28/2022,Oct,6/26/2023,Jun,Inactive,Canada,36,35-40,Male
+213,Standard,12,8/9/2022,Aug,6/24/2023,Jun,Inactive,United Kingdom,49,45-50,Female
+214,Standard,13,6/30/2022,Jun,6/28/2023,Jun,Inactive,Australia,43,40-45,Female
+215,Basic,13,2/9/2022,Feb,6/27/2023,Jun,Inactive,Germany,50,45-50,Female
+216,Premium,14,8/10/2022,Aug,6/24/2023,Jun,Inactive,France,51,50-55,Female
+217,Basic,15,11/13/2022,Nov,6/25/2023,Jun,Inactive,Brazil,44,40-45,Male
+218,Standard,12,11/15/2022,Nov,6/28/2023,Jun,Inactive,Mexico,27,25-30,Male
+219,Premium,12,11/16/2022,Nov,6/25/2023,Jun,Inactive,Spain,46,45-50,Female
+220,Basic,12,11/26/2022,Nov,6/27/2023,Jun,Inactive,Italy,29,25-30,Male
+221,Basic,12,11/26/2022,Nov,6/25/2023,Jun,Inactive,United States,47,45-50,Male
+222,Basic,10,12/12/2022,Dec,6/26/2023,Jun,Inactive,Canada,48,45-50,Female
+224,Premium,15,11/27/2022,Nov,6/29/2023,Jun,Inactive,Australia,40,35-40,Female
+225,Basic,14,11/10/2022,Nov,6/27/2023,Jun,Inactive,Germany,48,45-50,Female
+226,Basic,10,9/27/2022,Sep,6/26/2023,Jun,Inactive,France,35,30-35,Male
+227,Premium,12,9/30/2022,Sep,6/24/2023,Jun,Inactive,Brazil,51,50-55,Female
+228,Standard,10,4/11/2022,Apr,6/27/2023,Jun,Inactive,Mexico,39,35-40,Male
+229,Standard,13,4/11/2022,Apr,6/27/2023,Jun,Inactive,Spain,29,25-30,Male
+230,Basic,12,10/30/2022,Oct,6/26/2023,Jun,Inactive,Italy,51,50-55,Male
+231,Premium,11,10/29/2022,Oct,6/24/2023,Jun,Inactive,United States,43,40-45,Male
+232,Standard,11,8/30/2022,Aug,6/27/2023,Jun,Inactive,Canada,28,25-30,Male
+233,Basic,15,7/7/2022,Jul,6/26/2023,Jun,Inactive,United Kingdom,50,45-50,Female
+234,Standard,14,5/26/2022,May,6/27/2023,Jun,Inactive,Australia,44,40-45,Female
+235,Premium,11,5/17/2022,May,6/25/2023,Jun,Inactive,Germany,50,45-50,Male
+236,Basic,11,8/5/2022,Aug,6/26/2023,Jun,Inactive,France,39,35-40,Female
+237,Premium,13,7/7/2022,Jul,6/25/2023,Jun,Inactive,Brazil,46,45-50,Female
+238,Standard,15,7/17/2022,Jul,6/28/2023,Jun,Inactive,Mexico,48,45-50,Male
+239,Basic,15,12/23/2022,Dec,6/26/2023,Jun,Inactive,Spain,38,35-40,Male
+240,Standard,13,6/27/2022,Jun,6/26/2023,Jun,Inactive,Italy,38,35-40,Male
+241,Premium,13,5/31/2022,May,6/27/2023,Jun,Inactive,United States,47,45-50,Male
+242,Basic,12,2/6/2022,Feb,6/26/2023,Jun,Inactive,Canada,37,35-40,Male
+243,Standard,11,5/25/2022,May,6/27/2023,Jun,Inactive,United Kingdom,33,30-35,Male
+244,Premium,15,4/26/2022,Apr,6/26/2023,Jun,Inactive,Australia,28,25-30,Male
+245,Basic,13,4/20/2022,Apr,6/26/2023,Jun,Inactive,Germany,47,45-50,Male
+246,Premium,11,3/5/2022,Mar,6/25/2023,Jun,Inactive,France,38,35-40,Female
+247,Basic,12,7/7/2022,Jul,6/27/2023,Jun,Inactive,Brazil,27,25-30,Male
+248,Standard,13,9/15/2022,Sep,6/26/2023,Jun,Inactive,Mexico,34,30-35,Male
+249,Standard,14,9/16/2022,Sep,6/27/2023,Jun,Inactive,Spain,42,40-45,Female
+250,Basic,14,9/8/2022,Sep,6/26/2023,Jun,Inactive,Italy,28,25-30,Male
+251,Premium,15,6/25/2022,Jun,6/27/2023,Jun,Inactive,United States,30,25-30,Male
+252,Basic,11,5/30/2022,May,6/26/2023,Jun,Inactive,Canada,38,35-40,Female
+253,Standard,15,5/21/2022,May,6/25/2023,Jun,Inactive,United Kingdom,45,40-45,Female
+254,Premium,12,5/20/2022,May,6/27/2023,Jun,Inactive,Australia,48,45-50,Female
+255,Basic,13,5/20/2022,May,6/26/2023,Jun,Inactive,Germany,46,45-50,Female
+256,Premium,12,5/30/2022,May,6/26/2023,Jun,Inactive,France,34,30-35,Male
+257,Basic,13,6/17/2022,Jun,6/25/2023,Jun,Inactive,Brazil,46,45-50,Male
+258,Standard,11,7/16/2022,Jul,6/28/2023,Jun,Inactive,Mexico,41,40-45,Female
+259,Standard,15,5/8/2022,May,6/26/2023,Jun,Inactive,Spain,28,25-30,Male
+260,Basic,10,7/17/2022,Jul,6/26/2023,Jun,Inactive,Italy,27,25-30,Female
+261,Premium,13,4/7/2022,Apr,6/25/2023,Jun,Inactive,United States,27,25-30,Female
+262,Basic,12,7/13/2022,Jul,6/26/2023,Jun,Inactive,Canada,28,25-30,Female
+263,Standard,15,7/25/2022,Jul,6/24/2023,Jun,Inactive,United Kingdom,46,45-50,Male
+264,Premium,10,9/8/2022,Sep,6/27/2023,Jun,Inactive,Australia,51,50-55,Male
+265,Basic,11,5/8/2022,May,6/25/2023,Jun,Inactive,Germany,32,30-35,Female
+266,Premium,10,8/17/2022,Aug,6/26/2023,Jun,Inactive,France,44,40-45,Male
+267,Basic,11,8/9/2022,Aug,6/27/2023,Jun,Inactive,Brazil,44,40-45,Female
+268,Standard,13,10/16/2022,Oct,6/28/2023,Jun,Inactive,Mexico,34,30-35,Female
+269,Standard,13,10/15/2022,Oct,6/25/2023,Jun,Inactive,Spain,29,25-30,Female
+270,Basic,12,4/9/2022,Apr,6/25/2023,Jun,Inactive,Italy,47,45-50,Male
+271,Premium,14,8/20/2022,Aug,6/26/2023,Jun,Inactive,United States,41,40-45,Male
+272,Basic,10,10/8/2022,Oct,6/26/2023,Jun,Inactive,Canada,36,35-40,Female
+273,Standard,12,2/8/2022,Feb,6/25/2023,Jun,Inactive,United Kingdom,28,25-30,Female
+274,Premium,10,1/8/2022,Jan,6/24/2023,Jun,Inactive,Australia,27,25-30,Female
+275,Basic,15,6/8/2022,Jun,6/25/2023,Jun,Inactive,Germany,34,30-35,Female
+276,Premium,14,9/8/2022,Sep,6/25/2023,Jun,Inactive,France,34,30-35,Female
+277,Basic,13,12/9/2022,Dec,6/26/2023,Jun,Inactive,Brazil,37,35-40,Female
+278,Standard,14,9/27/2022,Sep,6/26/2023,Jun,Inactive,Mexico,34,30-35,Female
+279,Standard,15,12/11/2022,Dec,6/24/2023,Jun,Inactive,Spain,50,45-50,Female
+280,Basic,12,11/13/2022,Nov,6/27/2023,Jun,Inactive,Italy,34,30-35,Female
+281,Premium,12,2/11/2022,Feb,6/28/2023,Jun,Inactive,United States,33,30-35,Female
+282,Basic,11,10/30/2022,Oct,6/25/2023,Jun,Inactive,Canada,33,30-35,Male
+283,Standard,15,6/30/2022,Jun,6/26/2023,Jun,Inactive,United Kingdom,46,45-50,Male
+284,Premium,14,4/8/2022,Apr,6/28/2023,Jun,Inactive,Australia,39,35-40,Female
+285,Basic,10,1/9/2022,Jan,6/27/2023,Jun,Inactive,Germany,42,40-45,Female
+286,Premium,14,10/14/2022,Oct,6/27/2023,Jun,Inactive,France,50,45-50,Female
+287,Basic,10,10/16/2022,Oct,6/26/2023,Jun,Inactive,Brazil,43,40-45,Male
+288,Standard,14,10/20/2022,Oct,6/28/2023,Jun,Inactive,Mexico,51,50-55,Male
+289,Standard,15,11/20/2022,Nov,6/25/2023,Jun,Inactive,Spain,34,30-35,Female
+290,Basic,12,11/25/2022,Nov,6/30/2023,Jun,Inactive,Italy,48,45-50,Male
+291,Premium,13,4/12/2022,Apr,6/27/2023,Jun,Inactive,United States,29,25-30,Female
+292,Basic,11,12/12/2022,Dec,6/27/2023,Jun,Inactive,Canada,43,40-45,Female
+293,Standard,14,9/12/2022,Sep,6/25/2023,Jun,Inactive,United Kingdom,39,35-40,Female
+294,Premium,10,10/15/2022,Oct,6/29/2023,Jun,Inactive,Australia,50,45-50,Male
+295,Basic,14,3/10/2022,Mar,6/27/2023,Jun,Inactive,Germany,45,40-45,Male
+296,Basic,12,1/10/2022,Jan,6/27/2023,Jun,Inactive,France,48,45-50,Female
+297,Basic,13,2/11/2022,Feb,6/24/2023,Jun,Inactive,Brazil,40,35-40,Male
+298,Standard,14,3/11/2022,Mar,6/27/2023,Jun,Inactive,Mexico,41,40-45,Male
+299,Premium,10,10/30/2022,Oct,6/27/2023,Jun,Inactive,Spain,27,25-30,Male
+300,Basic,11,10/30/2022,Oct,6/28/2023,Jun,Inactive,Italy,36,35-40,Male
+301,Basic,10,9/27/2022,Sep,6/24/2023,Jun,Inactive,United States,36,35-40,Female
+302,Premium,11,9/14/2022,Sep,6/27/2023,Jun,Inactive,Canada,44,40-45,Male
+303,Standard,12,11/6/2022,Nov,6/26/2023,Jun,Inactive,United Kingdom,45,40-45,Male
+304,Standard,12,11/6/2022,Nov,6/29/2023,Jun,Inactive,Australia,33,30-35,Female
+305,Basic,13,5/24/2022,May,6/26/2023,Jun,Inactive,Germany,47,45-50,Male
+306,Premium,13,6/7/2022,Jun,6/27/2023,Jun,Inactive,France,45,40-45,Male
+307,Standard,11,8/7/2022,Aug,6/28/2023,Jun,Inactive,Brazil,29,25-30,Female
+308,Basic,13,10/27/2022,Oct,6/27/2023,Jun,Inactive,Mexico,31,30-35,Male
+309,Standard,11,9/8/2022,Sep,6/28/2023,Jun,Inactive,Spain,31,30-35,Male
+310,Premium,15,6/14/2022,Jun,6/26/2023,Jun,Inactive,Italy,49,45-50,Female
+311,Basic,15,7/6/2022,Jul,6/27/2023,Jun,Inactive,United States,29,25-30,Female
+312,Premium,12,5/27/2022,May,6/26/2023,Jun,Inactive,Canada,50,45-50,Male
+313,Standard,13,5/27/2022,May,6/27/2023,Jun,Inactive,United Kingdom,36,35-40,Female
+314,Basic,10,4/21/2022,Apr,6/26/2023,Jun,Inactive,Australia,28,25-30,Male
+315,Standard,15,4/28/2022,Apr,6/27/2023,Jun,Inactive,Germany,47,45-50,Female
+316,Premium,12,5/27/2022,May,6/25/2023,Jun,Inactive,France,50,45-50,Female
+317,Basic,15,8/25/2022,Aug,6/28/2023,Jun,Inactive,Brazil,44,40-45,Female
+318,Standard,10,2/9/2022,Feb,6/27/2023,Jun,Inactive,Mexico,39,35-40,Female
+319,Premium,14,8/22/2022,Aug,6/26/2023,Jun,Inactive,Spain,32,30-35,Female
+320,Basic,15,2/8/2022,Feb,6/27/2023,Jun,Inactive,Italy,30,25-30,Female
+321,Premium,12,6/22/2022,Jun,6/27/2023,Jun,Inactive,United States,33,30-35,Female
+322,Basic,15,4/6/2022,Apr,6/27/2023,Jun,Inactive,Canada,44,40-45,Male
+323,Standard,14,5/31/2022,May,6/26/2023,Jun,Inactive,United Kingdom,40,35-40,Male
+324,Standard,15,5/22/2022,May,6/27/2023,Jun,Inactive,Australia,32,30-35,Male
+325,Basic,13,5/29/2022,May,6/27/2023,Jun,Inactive,Germany,32,30-35,Male
+326,Premium,11,11/6/2022,Nov,6/27/2023,Jun,Inactive,France,30,25-30,Male
+327,Basic,12,6/7/2022,Jun,6/26/2023,Jun,Inactive,Brazil,32,30-35,Female
+328,Standard,12,7/26/2022,Jul,6/27/2023,Jun,Inactive,Mexico,45,40-45,Female
+329,Premium,11,7/22/2022,Jul,6/25/2023,Jun,Inactive,Spain,35,30-35,Female
+330,Basic,10,6/7/2022,Jun,6/26/2023,Jun,Inactive,Italy,40,35-40,Female
+331,Premium,14,8/7/2022,Aug,6/26/2023,Jun,Inactive,United States,29,25-30,Female
+332,Basic,14,7/22/2022,Jul,6/26/2023,Jun,Inactive,Canada,31,30-35,Male
+333,Standard,15,7/24/2022,Jul,6/27/2023,Jun,Inactive,United Kingdom,43,40-45,Female
+334,Standard,11,7/28/2022,Jul,6/28/2023,Jun,Inactive,Australia,34,30-35,Male
+335,Basic,10,11/8/2022,Nov,6/25/2023,Jun,Inactive,Germany,47,45-50,Female
+336,Premium,12,2/9/2022,Feb,6/26/2023,Jun,Inactive,France,35,30-35,Male
+337,Basic,13,11/10/2022,Nov,6/27/2023,Jun,Inactive,Brazil,36,35-40,Male
+338,Standard,12,10/15/2022,Oct,6/27/2023,Jun,Inactive,Mexico,33,30-35,Male
+339,Premium,13,5/10/2022,May,6/25/2023,Jun,Inactive,Spain,30,25-30,Female
+340,Basic,14,9/13/2022,Sep,6/25/2023,Jun,Inactive,Italy,44,40-45,Female
+341,Premium,13,8/24/2022,Aug,6/26/2023,Jun,Inactive,United States,44,40-45,Female
+342,Basic,11,9/8/2022,Sep,6/26/2023,Jun,Inactive,Canada,41,40-45,Female
+343,Standard,13,6/8/2022,Jun,6/25/2023,Jun,Inactive,United Kingdom,46,45-50,Male
+344,Standard,13,7/8/2022,Jul,6/26/2023,Jun,Inactive,Australia,42,40-45,Female
+345,Basic,10,8/8/2022,Aug,6/25/2023,Jun,Inactive,Germany,48,45-50,Female
+346,Premium,15,8/31/2022,Aug,6/26/2023,Jun,Inactive,France,37,35-40,Male
+347,Basic,14,9/21/2022,Sep,6/28/2023,Jun,Inactive,Brazil,29,25-30,Male
+348,Standard,14,5/10/2022,May,6/26/2023,Jun,Inactive,Mexico,30,25-30,Male
+349,Premium,14,2/11/2022,Feb,6/26/2023,Jun,Inactive,Spain,28,25-30,Male
+350,Basic,10,2/11/2022,Feb,6/28/2023,Jun,Inactive,Italy,44,40-45,Female
+351,Premium,11,2/11/2022,Feb,6/28/2023,Jun,Inactive,United States,34,30-35,Female
+352,Basic,10,9/20/2022,Sep,6/26/2023,Jun,Inactive,Canada,38,35-40,Male
+353,Standard,14,10/8/2022,Oct,6/26/2023,Jun,Inactive,United Kingdom,34,30-35,Female
+354,Standard,10,8/16/2022,Aug,6/28/2023,Jun,Inactive,Australia,40,35-40,Female
+355,Basic,15,12/10/2022,Dec,6/27/2023,Jun,Inactive,Germany,32,30-35,Female
+356,Premium,11,10/14/2022,Oct,6/30/2023,Jun,Inactive,France,38,35-40,Male
+357,Basic,15,10/18/2022,Oct,6/26/2023,Jun,Inactive,Brazil,39,35-40,Male
+358,Standard,12,11/11/2022,Nov,6/28/2023,Jun,Inactive,Mexico,34,30-35,Female
+359,Premium,11,11/20/2022,Nov,6/26/2023,Jun,Inactive,Spain,41,40-45,Male
+360,Basic,15,11/21/2022,Nov,6/30/2023,Jun,Inactive,Italy,43,40-45,Female
+361,Premium,12,11/25/2022,Nov,6/28/2023,Jun,Inactive,United States,36,35-40,Female
+362,Basic,11,8/12/2022,Aug,6/27/2023,Jun,Inactive,Canada,31,30-35,Male
+363,Standard,12,1/11/2022,Jan,6/25/2023,Jun,Inactive,United Kingdom,47,45-50,Female
+364,Standard,14,12/10/2022,Dec,6/29/2023,Jun,Inactive,Australia,48,45-50,Male
+365,Basic,11,10/13/2022,Oct,6/27/2023,Jun,Inactive,Germany,36,35-40,Male
+366,Premium,12,10/17/2022,Oct,6/29/2023,Jun,Inactive,France,41,40-45,Male
+367,Basic,13,10/23/2022,Oct,6/25/2023,Jun,Inactive,Brazil,32,30-35,Male
+368,Standard,13,10/24/2022,Oct,6/28/2023,Jun,Inactive,Mexico,28,25-30,Male
+369,Premium,12,10/25/2022,Oct,6/27/2023,Jun,Inactive,Spain,46,45-50,Female
+370,Basic,11,10/22/2022,Oct,6/29/2023,Jun,Inactive,Italy,46,45-50,Female
+371,Basic,11,9/30/2022,Sep,6/25/2023,Jun,Inactive,United States,47,45-50,Male
+372,Basic,11,6/9/2022,Jun,6/27/2023,Jun,Inactive,Canada,31,30-35,Female
+373,Standard,10,6/18/2022,Jun,6/26/2023,Jun,Inactive,United Kingdom,44,40-45,Female
+374,Premium,10,12/6/2022,Dec,6/28/2023,Jun,Inactive,Australia,39,35-40,Female
+375,Basic,14,6/17/2022,Jun,6/28/2023,Jun,Inactive,Germany,44,40-45,Female
+376,Basic,12,6/20/2022,Jun,6/27/2023,Jun,Inactive,France,39,35-40,Female
+377,Premium,12,8/27/2022,Aug,6/28/2023,Jun,Inactive,Brazil,37,35-40,Male
+378,Standard,14,8/13/2022,Aug,6/27/2023,Jun,Inactive,Mexico,47,45-50,Female
+379,Standard,10,12/8/2022,Dec,6/28/2023,Jun,Inactive,Spain,46,45-50,Female
+380,Basic,15,5/8/2022,May,6/27/2023,Jun,Inactive,Italy,27,25-30,Female
+381,Premium,10,7/14/2022,Jul,6/27/2023,Jun,Inactive,United States,43,40-45,Female
+382,Standard,10,7/6/2022,Jul,6/26/2023,Jun,Inactive,Canada,51,50-55,Male
+383,Basic,10,1/6/2022,Jan,6/27/2023,Jun,Inactive,United Kingdom,49,45-50,Male
+384,Standard,10,5/19/2022,May,6/28/2023,Jun,Inactive,Australia,35,30-35,Female
+385,Premium,15,5/22/2022,May,6/27/2023,Jun,Inactive,Germany,44,40-45,Male
+386,Basic,14,11/7/2022,Nov,6/26/2023,Jun,Inactive,France,48,45-50,Male
+387,Premium,11,7/19/2022,Jul,6/28/2023,Jun,Inactive,Brazil,39,35-40,Female
+388,Standard,12,7/21/2022,Jul,6/28/2023,Jun,Inactive,Mexico,38,35-40,Male
+389,Basic,14,2/8/2022,Feb,6/26/2023,Jun,Inactive,Spain,45,40-45,Male
+390,Standard,13,3/7/2022,Mar,6/28/2023,Jun,Inactive,Italy,43,40-45,Female
+391,Premium,13,6/23/2022,Jun,6/27/2023,Jun,Inactive,United States,42,40-45,Male
+392,Basic,15,3/6/2022,Mar,6/28/2023,Jun,Inactive,Canada,28,25-30,Male
+393,Standard,10,3/6/2022,Mar,6/26/2023,Jun,Inactive,United Kingdom,40,35-40,Male
+394,Premium,14,5/30/2022,May,6/27/2023,Jun,Inactive,Australia,41,40-45,Female
+395,Basic,12,5/6/2022,May,6/26/2023,Jun,Inactive,Germany,45,40-45,Female
+396,Premium,14,10/6/2022,Oct,6/27/2023,Jun,Inactive,France,30,25-30,Female
+397,Basic,11,7/14/2022,Jul,6/26/2023,Jun,Inactive,Brazil,31,30-35,Female
+398,Standard,13,7/15/2022,Jul,6/27/2023,Jun,Inactive,Mexico,51,50-55,Female
+399,Standard,12,7/14/2022,Jul,6/25/2023,Jun,Inactive,Spain,44,40-45,Female
+400,Basic,14,7/13/2022,Jul,6/27/2023,Jun,Inactive,Italy,49,45-50,Male
+401,Premium,12,7/17/2022,Jul,6/26/2023,Jun,Inactive,United States,47,45-50,Female
+402,Basic,14,7/21/2022,Jul,6/26/2023,Jun,Inactive,Canada,42,40-45,Male
+403,Standard,13,7/23/2022,Jul,6/28/2023,Jun,Inactive,United Kingdom,28,25-30,Male
+404,Premium,13,1/8/2022,Jan,6/28/2023,Jun,Inactive,Australia,28,25-30,Male
+405,Basic,13,6/8/2022,Jun,6/26/2023,Jun,Inactive,Germany,49,45-50,Female
+406,Premium,12,8/19/2022,Aug,6/26/2023,Jun,Inactive,France,32,30-35,Female
+407,Basic,12,8/26/2022,Aug,6/27/2023,Jun,Inactive,Brazil,37,35-40,Female
+408,Standard,13,9/27/2022,Sep,6/27/2023,Jun,Inactive,Mexico,37,35-40,Female
+409,Standard,14,9/15/2022,Sep,6/25/2023,Jun,Inactive,Spain,37,35-40,Male
+410,Basic,15,2/9/2022,Feb,6/25/2023,Jun,Inactive,Italy,37,35-40,Male
+411,Premium,14,3/9/2022,Mar,6/26/2023,Jun,Inactive,United States,48,45-50,Female
+412,Basic,12,3/9/2022,Mar,6/26/2023,Jun,Inactive,Canada,47,45-50,Male
+413,Standard,13,8/24/2022,Aug,6/26/2023,Jun,Inactive,United Kingdom,41,40-45,Female
+414,Premium,14,8/21/2022,Aug,6/27/2023,Jun,Inactive,Australia,47,45-50,Female
+415,Basic,13,8/23/2022,Aug,6/25/2023,Jun,Inactive,Germany,39,35-40,Female
+416,Premium,10,2/9/2022,Feb,6/26/2023,Jun,Inactive,France,28,25-30,Male
+417,Basic,14,9/21/2022,Sep,6/29/2023,Jun,Inactive,Brazil,31,30-35,Male
+418,Standard,14,10/21/2022,Oct,6/27/2023,Jun,Inactive,Mexico,47,45-50,Female
+419,Standard,11,10/30/2022,Oct,6/27/2023,Jun,Inactive,Spain,27,25-30,Female
+420,Basic,10,2/11/2022,Feb,6/28/2023,Jun,Inactive,Italy,28,25-30,Male
+421,Premium,14,10/16/2022,Oct,6/28/2023,Jun,Inactive,United States,33,30-35,Male
+422,Basic,14,9/15/2022,Sep,6/29/2023,Jun,Inactive,Canada,29,25-30,Female
+423,Standard,15,12/9/2022,Dec,6/27/2023,Jun,Inactive,United Kingdom,41,40-45,Male
+424,Premium,12,9/18/2022,Sep,6/29/2023,Jun,Inactive,Australia,28,25-30,Female
+425,Basic,13,4/10/2022,Apr,6/27/2023,Jun,Inactive,Germany,38,35-40,Male
+426,Premium,15,5/10/2022,May,6/30/2023,Jun,Inactive,France,35,30-35,Male
+427,Basic,11,6/11/2022,Jun,6/26/2023,Jun,Inactive,Brazil,51,50-55,Male
+428,Standard,12,11/17/2022,Nov,6/28/2023,Jun,Inactive,Mexico,45,40-45,Male
+429,Standard,14,11/18/2022,Nov,6/26/2023,Jun,Inactive,Spain,51,50-55,Male
+430,Basic,14,11/22/2022,Nov,6/30/2023,Jun,Inactive,Italy,46,45-50,Female
+431,Premium,15,4/12/2022,Apr,6/28/2023,Jun,Inactive,United States,28,25-30,Male
+432,Basic,12,11/19/2022,Nov,6/30/2023,Jun,Inactive,Canada,46,45-50,Female
+433,Standard,11,6/11/2022,Jun,6/25/2023,Jun,Inactive,United Kingdom,46,45-50,Female
+434,Premium,12,10/15/2022,Oct,6/29/2023,Jun,Inactive,Australia,32,30-35,Female
+435,Basic,11,10/17/2022,Oct,6/28/2023,Jun,Inactive,Germany,39,35-40,Female
+436,Premium,11,10/19/2022,Oct,6/29/2023,Jun,Inactive,France,41,40-45,Female
+437,Basic,13,10/23/2022,Oct,6/25/2023,Jun,Inactive,Brazil,47,45-50,Male
+438,Standard,12,10/24/2022,Oct,6/28/2023,Jun,Inactive,Mexico,35,30-35,Male
+439,Standard,12,10/23/2022,Oct,6/27/2023,Jun,Inactive,Spain,37,35-40,Female
+440,Basic,11,10/10/2022,Oct,6/29/2023,Jun,Inactive,Italy,47,45-50,Male
+441,Premium,13,5/10/2022,May,6/28/2023,Jun,Inactive,United States,48,45-50,Female
+442,Basic,12,1/7/2022,Jan,6/27/2023,Jun,Inactive,Canada,30,25-30,Female
+443,Standard,10,1/7/2022,Jan,6/27/2023,Jun,Inactive,United Kingdom,36,35-40,Male
+444,Premium,10,6/25/2022,Jun,6/28/2023,Jun,Inactive,Australia,50,45-50,Female
+445,Basic,12,6/24/2022,Jun,6/28/2023,Jun,Inactive,Germany,41,40-45,Male
+446,Basic,14,6/28/2022,Jun,6/28/2023,Jun,Inactive,France,46,45-50,Female
+447,Basic,15,11/8/2022,Nov,6/28/2023,Jun,Inactive,Brazil,36,35-40,Female
+448,Standard,14,12/8/2022,Dec,6/27/2023,Jun,Inactive,Mexico,48,45-50,Male
+449,Premium,10,7/8/2022,Jul,6/28/2023,Jun,Inactive,Spain,37,35-40,Female
+450,Basic,14,6/8/2022,Jun,6/27/2023,Jun,Inactive,Italy,49,45-50,Male
+451,Basic,12,7/18/2022,Jul,6/28/2023,Jun,Inactive,United States,31,30-35,Female
+452,Premium,12,6/16/2022,Jun,6/26/2023,Jun,Inactive,Canada,42,40-45,Female
+453,Standard,11,5/30/2022,May,6/28/2023,Jun,Inactive,United Kingdom,45,40-45,Female
+454,Standard,15,5/28/2022,May,6/28/2023,Jun,Inactive,Australia,51,50-55,Female
+455,Basic,11,5/31/2022,May,6/27/2023,Jun,Inactive,Germany,31,30-35,Female
+456,Premium,14,4/6/2022,Apr,6/27/2023,Jun,Inactive,France,41,40-45,Male
+457,Standard,14,6/29/2022,Jun,6/28/2023,Jun,Inactive,Brazil,40,35-40,Male
+458,Basic,10,7/24/2022,Jul,6/28/2023,Jun,Inactive,Mexico,27,25-30,Male
+459,Standard,10,7/19/2022,Jul,6/27/2023,Jun,Inactive,Spain,46,45-50,Female
+460,Premium,10,6/30/2022,Jun,6/28/2023,Jun,Inactive,Italy,30,25-30,Female
+461,Basic,11,6/16/2022,Jun,6/27/2023,Jun,Inactive,United States,37,35-40,Male
+462,Premium,15,10/6/2022,Oct,6/28/2023,Jun,Inactive,Canada,45,40-45,Male
+463,Standard,11,1/6/2022,Jan,6/26/2023,Jun,Inactive,United Kingdom,40,35-40,Male
+464,Basic,13,3/6/2022,Mar,6/28/2023,Jun,Inactive,Australia,45,40-45,Male
+465,Standard,11,5/6/2022,May,6/26/2023,Jun,Inactive,Germany,34,30-35,Male
+466,Premium,10,7/6/2022,Jul,6/27/2023,Jun,Inactive,France,33,30-35,Male
+467,Basic,10,6/22/2022,Jun,6/26/2023,Jun,Inactive,Brazil,47,45-50,Female
+468,Standard,11,6/28/2022,Jun,6/27/2023,Jun,Inactive,Mexico,32,30-35,Male
+469,Premium,12,6/29/2022,Jun,6/29/2023,Jun,Inactive,Spain,41,40-45,Female
+470,Basic,15,3/7/2022,Mar,6/28/2023,Jun,Inactive,Italy,31,30-35,Female
+471,Premium,15,8/7/2022,Aug,6/27/2023,Jun,Inactive,United States,43,40-45,Male
+472,Basic,10,7/13/2022,Jul,6/27/2023,Jun,Inactive,Canada,32,30-35,Female
+473,Standard,10,7/27/2022,Jul,6/28/2023,Jun,Inactive,United Kingdom,46,45-50,Female
+474,Standard,14,7/30/2022,Jul,6/28/2023,Jun,Inactive,Australia,38,35-40,Male
+475,Basic,11,8/13/2022,Aug,6/26/2023,Jun,Inactive,Germany,31,30-35,Female
+476,Premium,14,8/18/2022,Aug,6/26/2023,Jun,Inactive,France,31,30-35,Female
+477,Basic,10,8/24/2022,Aug,6/27/2023,Jun,Inactive,Brazil,50,45-50,Male
+478,Standard,10,8/9/2022,Aug,6/27/2023,Jun,Inactive,Mexico,32,30-35,Male
+479,Premium,13,4/9/2022,Apr,6/27/2023,Jun,Inactive,Spain,38,35-40,Female
+480,Basic,15,4/9/2022,Apr,6/27/2023,Jun,Inactive,Italy,37,35-40,Female
+481,Premium,12,4/9/2022,Apr,6/26/2023,Jun,Inactive,United States,36,35-40,Male
+482,Basic,11,8/27/2022,Aug,6/27/2023,Jun,Inactive,Canada,30,25-30,Male
+483,Standard,14,8/25/2022,Aug,6/27/2023,Jun,Inactive,United Kingdom,28,25-30,Male
+484,Standard,13,8/25/2022,Aug,6/28/2023,Jun,Inactive,Australia,40,35-40,Male
+485,Basic,14,1/9/2022,Jan,6/28/2023,Jun,Inactive,Germany,28,25-30,Female
+486,Premium,15,9/13/2022,Sep,6/26/2023,Jun,Inactive,France,37,35-40,Female
+487,Basic,15,5/10/2022,May,6/29/2023,Jun,Inactive,Brazil,30,25-30,Male
+488,Standard,11,8/10/2022,Aug,6/28/2023,Jun,Inactive,Mexico,33,30-35,Female
+489,Premium,11,10/26/2022,Oct,6/28/2023,Jun,Inactive,Spain,49,45-50,Male
+490,Basic,12,10/18/2022,Oct,6/29/2023,Jun,Inactive,Italy,36,35-40,Female
+491,Premium,12,7/10/2022,Jul,6/28/2023,Jun,Inactive,United States,28,25-30,Female
+492,Basic,10,9/17/2022,Sep,6/30/2023,Jun,Inactive,Canada,51,50-55,Male
+493,Standard,11,9/18/2022,Sep,6/27/2023,Jun,Inactive,United Kingdom,35,30-35,Female
+494,Standard,14,9/27/2022,Sep,6/29/2023,Jun,Inactive,Australia,31,30-35,Male
+495,Basic,13,9/30/2022,Sep,6/27/2023,Jun,Inactive,Germany,39,35-40,Male
+496,Premium,10,10/30/2022,Oct,6/30/2023,Jun,Inactive,France,51,50-55,Female
+497,Basic,11,9/11/2022,Sep,6/29/2023,Jun,Inactive,Brazil,44,40-45,Male
+498,Standard,11,11/17/2022,Nov,6/28/2023,Jun,Inactive,Mexico,41,40-45,Female
+499,Premium,10,11/18/2022,Nov,6/26/2023,Jun,Inactive,Spain,28,25-30,Female
+500,Basic,15,11/22/2022,Nov,6/30/2023,Jun,Inactive,Italy,38,35-40,Male
+501,Premium,14,11/22/2022,Nov,6/28/2023,Jun,Inactive,Spain,43,40-45,Male
+502,Basic,13,11/21/2022,Nov,6/30/2023,Jun,Inactive,Spain,38,35-40,Male
+503,Standard,14,10/11/2022,Oct,6/26/2023,Jun,Inactive,United States,30,25-30,Male
+504,Standard,12,10/21/2022,Oct,6/29/2023,Jun,Inactive,Canada,32,30-35,Female
+505,Basic,11,10/21/2022,Oct,6/28/2023,Jun,Inactive,United States,35,30-35,Male
+506,Premium,14,10/23/2022,Oct,6/29/2023,Jun,Inactive,United States,27,25-30,Male
+507,Basic,15,10/24/2022,Oct,6/26/2023,Jun,Inactive,Canada,49,45-50,Female
+508,Standard,12,10/23/2022,Oct,6/28/2023,Jun,Inactive,United Kingdom,42,40-45,Female
+509,Premium,10,10/21/2022,Oct,6/28/2023,Jun,Inactive,Australia,40,35-40,Male
+510,Basic,15,6/10/2022,Jun,6/29/2023,Jun,Inactive,Germany,43,40-45,Female
+511,Premium,11,7/26/2022,Jul,6/28/2023,Jun,Inactive,France,44,40-45,Female
+512,Basic,15,7/13/2022,Jul,6/28/2023,Jun,Inactive,Brazil,32,30-35,Male
+513,Standard,10,6/7/2022,Jun,6/28/2023,Jun,Inactive,Mexico,50,45-50,Male
+514,Standard,14,7/7/2022,Jul,6/28/2023,Jun,Inactive,Spain,35,30-35,Male
+515,Basic,15,1/7/2022,Jan,6/29/2023,Jun,Inactive,Italy,44,40-45,Female
+516,Premium,14,7/31/2022,Jul,6/28/2023,Jun,Inactive,Spain,42,40-45,Female
+517,Basic,12,6/8/2022,Jun,6/28/2023,Jun,Inactive,Spain,34,30-35,Female
+518,Standard,15,7/8/2022,Jul,6/27/2023,Jun,Inactive,United States,37,35-40,Female
+519,Premium,10,6/8/2022,Jun,6/28/2023,Jun,Inactive,Canada,43,40-45,Male
+520,Basic,13,3/8/2022,Mar,6/28/2023,Jun,Inactive,United States,32,30-35,Male
+521,Basic,15,6/18/2022,Jun,6/28/2023,Jun,Inactive,United States,33,30-35,Female
+522,Basic,14,6/17/2022,Jun,6/27/2023,Jun,Inactive,Canada,32,30-35,Female
+523,Standard,13,7/6/2022,Jul,6/29/2023,Jun,Inactive,United Kingdom,41,40-45,Male
+524,Premium,15,6/6/2022,Jun,6/28/2023,Jun,Inactive,Australia,31,30-35,Male
+525,Basic,14,4/6/2022,Apr,6/27/2023,Jun,Inactive,Germany,44,40-45,Male
+526,Basic,11,6/20/2022,Jun,6/28/2023,Jun,Inactive,France,49,45-50,Male
+527,Premium,10,10/7/2022,Oct,6/28/2023,Jun,Inactive,Brazil,48,45-50,Female
+528,Standard,13,7/13/2022,Jul,6/29/2023,Jun,Inactive,Mexico,42,40-45,Female
+529,Standard,11,7/7/2022,Jul,6/27/2023,Jun,Inactive,Spain,50,45-50,Female
+530,Basic,14,6/22/2022,Jun,6/28/2023,Jun,Inactive,Italy,49,45-50,Female
+531,Premium,14,6/15/2022,Jun,6/27/2023,Jun,Inactive,Spain,30,25-30,Female
+532,Standard,11,3/6/2022,Mar,6/28/2023,Jun,Inactive,Spain,38,35-40,Male
+533,Basic,14,4/6/2022,Apr,6/27/2023,Jun,Inactive,United States,38,35-40,Male
+534,Standard,11,5/6/2022,May,6/28/2023,Jun,Inactive,Canada,39,35-40,Female
+535,Premium,15,7/6/2022,Jul,6/29/2023,Jun,Inactive,United States,42,40-45,Female
+536,Basic,10,6/14/2022,Jun,6/29/2023,Jun,Inactive,United States,28,25-30,Male
+537,Premium,10,6/17/2022,Jun,6/27/2023,Jun,Inactive,Canada,38,35-40,Male
+538,Standard,14,6/19/2022,Jun,6/28/2023,Jun,Inactive,United Kingdom,40,35-40,Female
+539,Basic,12,2/7/2022,Feb,6/29/2023,Jun,Inactive,Australia,30,25-30,Female
+540,Standard,10,3/7/2022,Mar,6/29/2023,Jun,Inactive,Germany,40,35-40,Male
+541,Premium,10,7/13/2022,Jul,6/27/2023,Jun,Inactive,France,31,30-35,Male
+542,Basic,14,7/26/2022,Jul,6/27/2023,Jun,Inactive,Brazil,41,40-45,Male
+543,Standard,11,7/27/2022,Jul,6/28/2023,Jun,Inactive,Mexico,37,35-40,Male
+544,Premium,14,8/8/2022,Aug,6/28/2023,Jun,Inactive,Spain,49,45-50,Male
+545,Basic,14,8/17/2022,Aug,6/27/2023,Jun,Inactive,Italy,29,25-30,Male
+546,Premium,10,8/20/2022,Aug,6/26/2023,Jun,Inactive,Spain,31,30-35,Male
+547,Basic,10,5/9/2022,May,6/27/2023,Jun,Inactive,Spain,39,35-40,Male
+548,Standard,12,5/9/2022,May,6/27/2023,Jun,Inactive,United States,51,50-55,Female
+549,Standard,10,5/9/2022,May,6/27/2023,Jun,Inactive,Canada,38,35-40,Female
+550,Basic,11,6/9/2022,Jun,6/27/2023,Jun,Inactive,United States,29,25-30,Female
+551,Premium,13,3/9/2022,Mar,6/28/2023,Jun,Inactive,United States,41,40-45,Female
+552,Basic,13,8/29/2022,Aug,6/27/2023,Jun,Inactive,Canada,48,45-50,Female
+553,Standard,14,8/27/2022,Aug,6/28/2023,Jun,Inactive,United Kingdom,39,35-40,Male
+554,Premium,12,8/29/2022,Aug,6/29/2023,Jun,Inactive,Australia,37,35-40,Male
+555,Basic,11,9/13/2022,Sep,6/28/2023,Jun,Inactive,Germany,37,35-40,Female
+556,Premium,14,9/24/2022,Sep,6/27/2023,Jun,Inactive,France,34,30-35,Male
+557,Basic,15,5/10/2022,May,6/29/2023,Jun,Inactive,Brazil,37,35-40,Male
+558,Standard,14,10/18/2022,Oct,6/30/2023,Jun,Inactive,Mexico,37,35-40,Female
+559,Standard,13,10/19/2022,Oct,6/28/2023,Jun,Inactive,Spain,51,50-55,Female
+560,Basic,15,10/14/2022,Oct,6/29/2023,Jun,Inactive,Italy,45,40-45,Male
+561,Premium,14,9/30/2022,Sep,6/28/2023,Jun,Inactive,Spain,29,25-30,Female
+562,Basic,14,9/19/2022,Sep,6/30/2023,Jun,Inactive,Spain,37,35-40,Male
+563,Standard,10,9/24/2022,Sep,6/29/2023,Jun,Inactive,United States,34,30-35,Male
+564,Premium,14,9/28/2022,Sep,6/29/2023,Jun,Inactive,Canada,35,30-35,Male
+565,Basic,12,9/29/2022,Sep,6/27/2023,Jun,Inactive,United States,29,25-30,Male
+566,Premium,11,11/10/2022,Nov,1/7/2023,Jan,Inactive,United States,45,40-45,Male
+567,Basic,14,8/11/2022,Aug,6/29/2023,Jun,Inactive,Canada,36,35-40,Male
+568,Standard,11,11/16/2022,Nov,6/28/2023,Jun,Inactive,United Kingdom,27,25-30,Female
+569,Standard,10,11/17/2022,Nov,6/26/2023,Jun,Inactive,Australia,31,30-35,Female
+570,Basic,10,11/20/2022,Nov,6/30/2023,Jun,Inactive,Germany,41,40-45,Female
+571,Premium,13,11/21/2022,Nov,6/29/2023,Jun,Inactive,France,37,35-40,Male
+572,Basic,12,11/21/2022,Nov,6/30/2023,Jun,Inactive,Brazil,49,45-50,Female
+573,Standard,12,11/18/2022,Nov,6/27/2023,Jun,Inactive,Mexico,37,35-40,Female
+574,Premium,14,10/26/2022,Oct,6/29/2023,Jun,Inactive,Spain,36,35-40,Female
+575,Basic,13,10/25/2022,Oct,6/28/2023,Jun,Inactive,Italy,38,35-40,Female
+576,Premium,15,10/26/2022,Oct,6/30/2023,Jun,Inactive,Spain,49,45-50,Female
+577,Basic,15,10/23/2022,Oct,6/26/2023,Jun,Inactive,Spain,31,30-35,Male
+578,Standard,13,10/23/2022,Oct,6/28/2023,Jun,Inactive,United States,29,25-30,Female
+579,Standard,12,10/16/2022,Oct,6/28/2023,Jun,Inactive,Canada,35,30-35,Female
+580,Basic,14,9/8/2022,Sep,6/29/2023,Jun,Inactive,United States,46,45-50,Female
+581,Premium,10,2/8/2022,Feb,6/29/2023,Jun,Inactive,United States,29,25-30,Female
+582,Basic,12,7/16/2022,Jul,6/28/2023,Jun,Inactive,Canada,43,40-45,Female
+583,Standard,15,7/17/2022,Jul,6/28/2023,Jun,Inactive,United Kingdom,38,35-40,Female
+584,Premium,14,7/14/2022,Jul,6/28/2023,Jun,Inactive,Australia,48,45-50,Female
+585,Basic,14,7/16/2022,Jul,6/29/2023,Jun,Inactive,Germany,41,40-45,Male
+586,Premium,15,6/8/2022,Jun,6/29/2023,Jun,Inactive,France,51,50-55,Female
+587,Basic,14,7/8/2022,Jul,6/28/2023,Jun,Inactive,Brazil,39,35-40,Male
+588,Standard,11,7/8/2022,Jul,6/27/2023,Jun,Inactive,Mexico,31,30-35,Male
+589,Standard,15,4/8/2022,Apr,6/29/2023,Jun,Inactive,Spain,28,25-30,Male
+590,Basic,15,7/29/2022,Jul,6/29/2023,Jun,Inactive,Italy,47,45-50,Male
+591,Premium,14,6/19/2022,Jun,6/28/2023,Jun,Inactive,Spain,35,30-35,Female
+592,Basic,15,9/6/2022,Sep,6/29/2023,Jun,Inactive,Spain,33,30-35,Male
+593,Standard,11,6/6/2022,Jun,6/29/2023,Jun,Inactive,United States,41,40-45,Male
+594,Premium,12,6/6/2022,Jun,6/30/2023,Jun,Inactive,Canada,38,35-40,Female
+595,Basic,10,11/6/2022,Nov,6/28/2023,Jun,Inactive,United States,49,45-50,Male
+596,Basic,14,6/18/2022,Jun,6/28/2023,Jun,Inactive,United States,29,25-30,Female
+597,Basic,13,6/27/2022,Jun,6/28/2023,Jun,Inactive,Canada,50,45-50,Male
+598,Standard,12,5/7/2022,May,6/29/2023,Jun,Inactive,United Kingdom,29,25-30,Female
+599,Premium,15,6/7/2022,Jun,6/27/2023,Jun,Inactive,Australia,44,40-45,Male
+600,Basic,14,6/16/2022,Jun,6/29/2023,Jun,Inactive,Germany,36,35-40,Female
+601,Basic,14,5/6/2022,May,6/30/2023,Jun,Inactive,France,46,45-50,Female
+602,Premium,14,5/6/2022,May,6/29/2023,Jun,Inactive,Brazil,30,25-30,Male
+603,Standard,15,6/6/2022,Jun,6/27/2023,Jun,Inactive,Mexico,46,45-50,Female
+604,Standard,15,7/6/2022,Jul,6/28/2023,Jun,Inactive,Spain,33,30-35,Male
+605,Basic,15,10/6/2022,Oct,6/29/2023,Jun,Inactive,Italy,46,45-50,Female
+606,Premium,14,6/13/2022,Jun,6/29/2023,Jun,Inactive,Spain,50,45-50,Male
+607,Standard,14,6/14/2022,Jun,6/27/2023,Jun,Inactive,Spain,27,25-30,Female
+608,Basic,12,6/22/2022,Jun,6/28/2023,Jun,Inactive,United States,48,45-50,Female
+609,Standard,14,3/7/2022,Mar,6/29/2023,Jun,Inactive,Canada,50,45-50,Female
+610,Premium,13,5/7/2022,May,6/29/2023,Jun,Inactive,United States,28,25-30,Female
+611,Basic,15,11/7/2022,Nov,6/28/2023,Jun,Inactive,United States,29,25-30,Female
+612,Premium,11,7/17/2022,Jul,6/27/2023,Jun,Inactive,Canada,36,35-40,Male
+613,Standard,12,7/27/2022,Jul,6/28/2023,Jun,Inactive,United Kingdom,51,50-55,Male
+614,Basic,15,8/14/2022,Aug,6/28/2023,Jun,Inactive,Australia,51,50-55,Male
+615,Standard,13,8/15/2022,Aug,6/27/2023,Jun,Inactive,Germany,43,40-45,Male
+616,Premium,14,2/9/2022,Feb,6/27/2023,Jun,Inactive,France,38,35-40,Female
+617,Basic,11,5/9/2022,May,6/28/2023,Jun,Inactive,Brazil,45,40-45,Female
+618,Standard,10,6/9/2022,Jun,6/28/2023,Jun,Inactive,Mexico,28,25-30,Female
+619,Premium,11,6/9/2022,Jun,6/29/2023,Jun,Inactive,Spain,27,25-30,Male
+620,Basic,11,5/9/2022,May,6/27/2023,Jun,Inactive,Italy,41,40-45,Female
+621,Premium,14,6/9/2022,Jun,6/29/2023,Jun,Inactive,Spain,49,45-50,Male
+622,Basic,12,8/29/2022,Aug,6/28/2023,Jun,Inactive,Spain,35,30-35,Male
+623,Standard,13,8/30/2022,Aug,6/28/2023,Jun,Inactive,United States,29,25-30,Female
+624,Standard,10,2/9/2022,Feb,6/30/2023,Jun,Inactive,Canada,42,40-45,Male
+625,Basic,15,9/20/2022,Sep,6/28/2023,Jun,Inactive,United States,33,30-35,Male
+626,Premium,10,9/23/2022,Sep,6/30/2023,Jun,Inactive,United States,30,25-30,Male
+627,Basic,11,9/29/2022,Sep,6/29/2023,Jun,Inactive,Canada,43,40-45,Female
+628,Standard,10,9/10/2022,Sep,1/7/2023,Jan,Inactive,United Kingdom,42,40-45,Male
+629,Premium,11,12/10/2022,Dec,6/29/2023,Jun,Inactive,Australia,39,35-40,Male
+630,Basic,15,6/10/2022,Jun,6/30/2023,Jun,Inactive,Germany,32,30-35,Female
+631,Premium,14,9/21/2022,Sep,6/28/2023,Jun,Inactive,France,31,30-35,Male
+632,Basic,13,9/23/2022,Sep,1/7/2023,Jan,Inactive,Brazil,39,35-40,Male
+633,Standard,12,9/28/2022,Sep,6/29/2023,Jun,Inactive,Mexico,41,40-45,Female
+634,Standard,12,9/29/2022,Sep,6/29/2023,Jun,Inactive,Spain,51,50-55,Female
+635,Basic,13,3/10/2022,Mar,6/27/2023,Jun,Inactive,Italy,29,25-30,Male
+636,Premium,10,10/28/2022,Oct,1/7/2023,Jan,Inactive,Spain,33,30-35,Female
+637,Basic,12,11/14/2022,Nov,6/29/2023,Jun,Inactive,Spain,51,50-55,Female
+638,Standard,11,11/16/2022,Nov,1/7/2023,Jan,Inactive,United States,38,35-40,Male
+639,Premium,10,11/17/2022,Nov,6/28/2023,Jun,Inactive,Canada,37,35-40,Female
+640,Basic,13,11/20/2022,Nov,6/30/2023,Jun,Inactive,United States,50,45-50,Female
+641,Premium,12,11/21/2022,Nov,6/29/2023,Jun,Inactive,United States,33,30-35,Male
+642,Basic,11,11/19/2022,Nov,1/7/2023,Jan,Inactive,Canada,27,25-30,Male
+643,Standard,11,10/28/2022,Oct,6/27/2023,Jun,Inactive,United Kingdom,50,45-50,Female
+644,Standard,15,10/27/2022,Oct,6/29/2023,Jun,Inactive,Australia,47,45-50,Female
+645,Basic,13,10/27/2022,Oct,6/29/2023,Jun,Inactive,Germany,41,40-45,Male
+646,Premium,10,10/27/2022,Oct,6/30/2023,Jun,Inactive,France,49,45-50,Female
+647,Basic,15,10/25/2022,Oct,6/28/2023,Jun,Inactive,Brazil,32,30-35,Male
+648,Standard,10,10/17/2022,Oct,6/28/2023,Jun,Inactive,Mexico,38,35-40,Female
+649,Premium,14,8/20/2022,Aug,6/29/2023,Jun,Inactive,Spain,38,35-40,Female
+650,Basic,15,8/16/2022,Aug,6/29/2023,Jun,Inactive,Italy,28,25-30,Female
+651,Premium,13,8/15/2022,Aug,6/29/2023,Jun,Inactive,Spain,31,30-35,Male
+652,Basic,14,8/15/2022,Aug,6/29/2023,Jun,Inactive,Spain,39,35-40,Female
+653,Standard,11,7/29/2022,Jul,6/29/2023,Jun,Inactive,United States,28,25-30,Female
+654,Standard,12,7/17/2022,Jul,6/28/2023,Jun,Inactive,Canada,30,25-30,Female
+655,Basic,11,7/26/2022,Jul,6/29/2023,Jun,Inactive,United States,42,40-45,Male
+656,Premium,14,7/31/2022,Jul,6/29/2023,Jun,Inactive,United States,33,30-35,Female
+657,Basic,14,3/8/2022,Mar,6/29/2023,Jun,Inactive,Canada,34,30-35,Female
+658,Standard,13,4/8/2022,Apr,6/29/2023,Jun,Inactive,United Kingdom,49,45-50,Female
+659,Premium,13,3/8/2022,Mar,6/29/2023,Jun,Inactive,Australia,41,40-45,Male
+660,Basic,12,6/27/2022,Jun,6/29/2023,Jun,Inactive,Germany,28,25-30,Male
+661,Premium,14,6/27/2022,Jun,6/28/2023,Jun,Inactive,France,49,45-50,Female
+662,Basic,15,6/15/2022,Jun,6/29/2023,Jun,Inactive,Brazil,49,45-50,Male
+663,Standard,11,6/13/2022,Jun,6/29/2023,Jun,Inactive,Mexico,36,35-40,Male
+664,Standard,11,12/6/2022,Dec,6/30/2023,Jun,Inactive,Spain,31,30-35,Male
+665,Basic,10,6/18/2022,Jun,6/28/2023,Jun,Inactive,Italy,38,35-40,Male
+666,Premium,15,6/26/2022,Jun,6/29/2023,Jun,Inactive,Spain,34,30-35,Female
+667,Basic,11,6/30/2022,Jun,6/30/2023,Jun,Inactive,Spain,51,50-55,Female
+668,Standard,13,3/7/2022,Mar,6/30/2023,Jun,Inactive,United States,49,45-50,Male
+669,Premium,13,6/19/2022,Jun,6/28/2023,Jun,Inactive,Canada,27,25-30,Female
+670,Basic,10,8/6/2022,Aug,6/29/2023,Jun,Inactive,United States,38,35-40,Male
+671,Basic,10,8/6/2022,Aug,6/30/2023,Jun,Inactive,United States,51,50-55,Male
+672,Basic,14,9/6/2022,Sep,6/30/2023,Jun,Inactive,Canada,47,45-50,Female
+673,Standard,15,9/6/2022,Sep,6/27/2023,Jun,Inactive,United Kingdom,37,35-40,Male
+674,Premium,13,10/6/2022,Oct,6/28/2023,Jun,Inactive,Australia,37,35-40,Female
+675,Basic,11,11/6/2022,Nov,6/29/2023,Jun,Inactive,Germany,39,35-40,Female
+676,Basic,11,6/13/2022,Jun,6/29/2023,Jun,Inactive,France,31,30-35,Male
+677,Premium,13,6/17/2022,Jun,6/28/2023,Jun,Inactive,Brazil,36,35-40,Male
+678,Standard,15,6/27/2022,Jun,6/28/2023,Jun,Inactive,Mexico,42,40-45,Female
+679,Standard,11,5/7/2022,May,6/29/2023,Jun,Inactive,Spain,49,45-50,Male
+680,Basic,15,7/7/2022,Jul,6/29/2023,Jun,Inactive,Italy,44,40-45,Female
+681,Premium,11,7/16/2022,Jul,6/28/2023,Jun,Inactive,Spain,33,30-35,Male
+682,Standard,11,7/23/2022,Jul,6/27/2023,Jun,Inactive,Spain,42,40-45,Male
+683,Basic,13,3/8/2022,Mar,6/29/2023,Jun,Inactive,United States,39,35-40,Male
+684,Standard,10,11/8/2022,Nov,6/29/2023,Jun,Inactive,Canada,49,45-50,Male
+685,Premium,12,8/15/2022,Aug,6/30/2023,Jun,Inactive,United States,31,30-35,Male
+686,Basic,14,8/18/2022,Aug,6/28/2023,Jun,Inactive,United States,37,35-40,Male
+687,Premium,13,8/26/2022,Aug,6/29/2023,Jun,Inactive,Canada,30,25-30,Female
+688,Standard,10,3/9/2022,Mar,6/28/2023,Jun,Inactive,United Kingdom,42,40-45,Male
+689,Basic,15,4/9/2022,Apr,6/29/2023,Jun,Inactive,Australia,37,35-40,Female
+690,Standard,15,5/9/2022,May,6/30/2023,Jun,Inactive,Germany,36,35-40,Male
+691,Premium,11,1/9/2022,Jan,6/29/2023,Jun,Inactive,France,28,25-30,Female
+692,Basic,15,8/31/2022,Aug,6/30/2023,Jun,Inactive,Brazil,36,35-40,Male
+693,Standard,14,1/9/2022,Jan,6/29/2023,Jun,Inactive,Mexico,31,30-35,Female
+694,Premium,14,9/17/2022,Sep,1/7/2023,Jan,Inactive,Spain,46,45-50,Male
+695,Basic,13,9/21/2022,Sep,6/28/2023,Jun,Inactive,Italy,28,25-30,Male
+696,Premium,15,9/29/2022,Sep,1/7/2023,Jan,Inactive,Spain,31,30-35,Male
+697,Basic,12,6/10/2022,Jun,6/29/2023,Jun,Inactive,Spain,43,40-45,Male
+698,Standard,10,12/10/2022,Dec,2/7/2023,Feb,Inactive,United States,28,25-30,Male
+699,Standard,13,7/10/2022,Jul,6/30/2023,Jun,Inactive,Canada,32,30-35,Female
+700,Basic,12,4/10/2022,Apr,6/30/2023,Jun,Inactive,United States,31,30-35,Female
+701,Premium,11,9/24/2022,Sep,6/28/2023,Jun,Inactive,United States,45,40-45,Male
+702,Basic,14,9/25/2022,Sep,1/7/2023,Jan,Inactive,Canada,36,35-40,Male
+703,Standard,14,9/27/2022,Sep,6/30/2023,Jun,Inactive,United Kingdom,35,30-35,Male
+704,Premium,13,9/30/2022,Sep,1/7/2023,Jan,Inactive,Australia,27,25-30,Female
+705,Basic,13,4/10/2022,Apr,6/28/2023,Jun,Inactive,Germany,32,30-35,Male
+706,Premium,12,10/24/2022,Oct,1/7/2023,Jan,Inactive,France,46,45-50,Female
+707,Basic,12,10/28/2022,Oct,6/30/2023,Jun,Inactive,Brazil,36,35-40,Male
+708,Standard,13,2/11/2022,Feb,1/7/2023,Jan,Inactive,Mexico,39,35-40,Male
+709,Standard,12,7/11/2022,Jul,6/28/2023,Jun,Inactive,Spain,48,45-50,Female
+710,Basic,10,10/11/2022,Oct,6/30/2023,Jun,Inactive,Italy,48,45-50,Female
+711,Premium,14,11/15/2022,Nov,6/29/2023,Jun,Inactive,Spain,27,25-30,Female
+712,Basic,13,8/11/2022,Aug,1/7/2023,Jan,Inactive,Spain,45,40-45,Male
+713,Standard,10,1/11/2022,Jan,6/27/2023,Jun,Inactive,United States,30,25-30,Male
+714,Premium,15,10/30/2022,Oct,6/29/2023,Jun,Inactive,Canada,29,25-30,Male
+715,Basic,12,10/28/2022,Oct,6/29/2023,Jun,Inactive,United States,43,40-45,Female
+716,Premium,10,10/26/2022,Oct,6/30/2023,Jun,Inactive,United States,43,40-45,Male
+717,Basic,15,10/18/2022,Oct,6/29/2023,Jun,Inactive,Canada,39,35-40,Female
+718,Standard,14,9/30/2022,Sep,6/30/2023,Jun,Inactive,United Kingdom,27,25-30,Male
+719,Standard,10,3/9/2022,Mar,6/29/2023,Jun,Inactive,Australia,33,30-35,Female
+720,Basic,10,8/23/2022,Aug,6/29/2023,Jun,Inactive,Germany,32,30-35,Female
+721,Premium,10,8/16/2022,Aug,6/29/2023,Jun,Inactive,France,37,35-40,Female
+722,Basic,13,11/8/2022,Nov,6/30/2023,Jun,Inactive,Brazil,45,40-45,Male
+723,Standard,10,1/8/2022,Jan,6/30/2023,Jun,Inactive,Mexico,40,35-40,Female
+724,Premium,14,1/8/2022,Jan,6/29/2023,Jun,Inactive,Spain,44,40-45,Male
+725,Basic,12,1/8/2022,Jan,6/29/2023,Jun,Inactive,Italy,29,25-30,Female
+726,Premium,14,2/8/2022,Feb,6/30/2023,Jun,Inactive,Spain,50,45-50,Male
+727,Basic,11,4/8/2022,Apr,6/29/2023,Jun,Inactive,Spain,32,30-35,Female
+728,Standard,14,4/8/2022,Apr,6/29/2023,Jun,Inactive,United States,39,35-40,Male
+729,Standard,15,7/7/2022,Jul,6/30/2023,Jun,Inactive,Canada,43,40-45,Female
+730,Basic,12,6/27/2022,Jun,6/30/2023,Jun,Inactive,United States,49,45-50,Female
+731,Premium,13,6/19/2022,Jun,6/29/2023,Jun,Inactive,United States,30,25-30,Male
+732,Basic,12,6/19/2022,Jun,6/29/2023,Jun,Inactive,Canada,47,45-50,Male
+733,Standard,10,6/18/2022,Jun,6/29/2023,Jun,Inactive,United Kingdom,51,50-55,Female
+734,Premium,14,6/19/2022,Jun,6/30/2023,Jun,Inactive,Australia,40,35-40,Male
+735,Basic,14,6/24/2022,Jun,6/28/2023,Jun,Inactive,Germany,40,35-40,Male
+736,Premium,11,6/30/2022,Jun,6/30/2023,Jun,Inactive,France,49,45-50,Male
+737,Basic,15,2/7/2022,Feb,6/30/2023,Jun,Inactive,Brazil,43,40-45,Female
+738,Standard,14,6/26/2022,Jun,1/7/2023,Jan,Inactive,Mexico,44,40-45,Female
+739,Standard,13,6/21/2022,Jun,6/28/2023,Jun,Inactive,Spain,27,25-30,Male
+740,Basic,14,6/16/2022,Jun,6/29/2023,Jun,Inactive,Italy,30,25-30,Male
+741,Premium,14,9/6/2022,Sep,6/30/2023,Jun,Inactive,Spain,47,45-50,Male
+742,Basic,13,10/6/2022,Oct,6/30/2023,Jun,Inactive,Spain,51,50-55,Male
+743,Standard,15,10/6/2022,Oct,6/28/2023,Jun,Inactive,United States,31,30-35,Female
+744,Premium,13,11/6/2022,Nov,6/29/2023,Jun,Inactive,Canada,34,30-35,Female
+745,Basic,11,12/6/2022,Dec,6/30/2023,Jun,Inactive,United States,28,25-30,Female
+746,Basic,15,6/15/2022,Jun,6/30/2023,Jun,Inactive,United States,32,30-35,Male
+747,Basic,11,6/25/2022,Jun,6/29/2023,Jun,Inactive,Canada,41,40-45,Male
+748,Standard,13,6/30/2022,Jun,6/28/2023,Jun,Inactive,United Kingdom,40,35-40,Male
+749,Premium,12,6/7/2022,Jun,6/30/2023,Jun,Inactive,Australia,46,45-50,Male
+750,Basic,13,9/7/2022,Sep,6/29/2023,Jun,Inactive,Germany,47,45-50,Male
+751,Basic,14,7/18/2022,Jul,6/29/2023,Jun,Inactive,France,45,40-45,Female
+752,Premium,10,7/24/2022,Jul,6/28/2023,Jun,Inactive,Brazil,28,25-30,Female
+753,Standard,12,7/27/2022,Jul,6/30/2023,Jun,Inactive,Mexico,43,40-45,Female
+754,Standard,11,10/8/2022,Oct,6/29/2023,Jun,Inactive,Spain,41,40-45,Male
+755,Basic,13,8/16/2022,Aug,6/30/2023,Jun,Inactive,Italy,32,30-35,Male
+756,Premium,14,8/23/2022,Aug,6/29/2023,Jun,Inactive,Spain,44,40-45,Female
+757,Standard,11,3/9/2022,Mar,6/30/2023,Jun,Inactive,Spain,32,30-35,Male
+758,Basic,12,4/9/2022,Apr,6/29/2023,Jun,Inactive,United States,47,45-50,Male
+759,Standard,14,5/9/2022,May,6/29/2023,Jun,Inactive,Canada,37,35-40,Male
+760,Premium,13,4/9/2022,Apr,1/7/2023,Jan,Inactive,United States,40,35-40,Female
+761,Basic,11,8/31/2022,Aug,6/29/2023,Jun,Inactive,United States,48,45-50,Female
+762,Premium,10,1/9/2022,Jan,2/7/2023,Feb,Inactive,Canada,48,45-50,Male
+763,Standard,10,9/15/2022,Sep,6/29/2023,Jun,Inactive,United Kingdom,35,30-35,Male
+764,Basic,15,9/18/2022,Sep,3/7/2023,Mar,Inactive,Australia,28,25-30,Male
+765,Standard,11,9/28/2022,Sep,6/29/2023,Jun,Inactive,Germany,35,30-35,Female
+766,Premium,13,9/30/2022,Sep,1/7/2023,Jan,Inactive,France,43,40-45,Male
+767,Basic,15,7/10/2022,Jul,6/29/2023,Jun,Inactive,Brazil,39,35-40,Male
+768,Standard,10,8/10/2022,Aug,2/7/2023,Feb,Inactive,Mexico,38,35-40,Female
+769,Premium,14,8/10/2022,Aug,6/30/2023,Jun,Inactive,Spain,36,35-40,Female
+770,Basic,11,3/10/2022,Mar,1/7/2023,Jan,Inactive,Italy,42,40-45,Female
+771,Premium,14,4/10/2022,Apr,6/28/2023,Jun,Inactive,Spain,27,25-30,Male
+772,Basic,12,2/10/2022,Feb,1/7/2023,Jan,Inactive,Spain,48,45-50,Male
+773,Standard,13,1/10/2022,Jan,6/30/2023,Jun,Inactive,United States,27,25-30,Female
+774,Standard,15,3/10/2022,Mar,2/7/2023,Feb,Inactive,Canada,49,45-50,Male
+775,Basic,11,10/20/2022,Oct,6/28/2023,Jun,Inactive,United States,29,25-30,Male
+776,Premium,11,10/21/2022,Oct,1/7/2023,Jan,Inactive,United States,44,40-45,Male
+777,Basic,11,10/28/2022,Oct,6/30/2023,Jun,Inactive,Canada,31,30-35,Male
+778,Standard,13,3/11/2022,Mar,1/7/2023,Jan,Inactive,United Kingdom,33,30-35,Male
+779,Premium,10,7/11/2022,Jul,6/28/2023,Jun,Inactive,Australia,36,35-40,Female
+780,Basic,15,12/11/2022,Dec,6/30/2023,Jun,Inactive,Germany,43,40-45,Female
+781,Premium,14,11/13/2022,Nov,6/29/2023,Jun,Inactive,France,30,25-30,Female
+782,Basic,13,2/11/2022,Feb,1/7/2023,Jan,Inactive,Brazil,44,40-45,Female
+783,Standard,13,1/11/2022,Jan,6/29/2023,Jun,Inactive,Mexico,37,35-40,Female
+784,Standard,14,10/31/2022,Oct,6/30/2023,Jun,Inactive,Spain,27,25-30,Male
+785,Basic,12,10/28/2022,Oct,6/29/2023,Jun,Inactive,Italy,35,30-35,Female
+786,Premium,13,10/24/2022,Oct,6/30/2023,Jun,Inactive,Spain,32,30-35,Male
+787,Basic,12,3/10/2022,Mar,6/29/2023,Jun,Inactive,Spain,49,45-50,Female
+788,Standard,12,9/13/2022,Sep,6/30/2023,Jun,Inactive,United States,45,40-45,Female
+789,Premium,11,2/9/2022,Feb,6/30/2023,Jun,Inactive,Canada,33,30-35,Female
+790,Basic,14,8/30/2022,Aug,6/30/2023,Jun,Inactive,United States,37,35-40,Female
+791,Premium,15,8/25/2022,Aug,6/30/2023,Jun,Inactive,United States,29,25-30,Male
+792,Basic,12,11/8/2022,Nov,6/30/2023,Jun,Inactive,Canada,45,40-45,Male
+793,Standard,11,5/8/2022,May,6/30/2023,Jun,Inactive,United Kingdom,42,40-45,Female
+794,Standard,12,2/8/2022,Feb,6/30/2023,Jun,Inactive,Australia,32,30-35,Female
+795,Basic,11,3/8/2022,Mar,1/7/2023,Jan,Inactive,Germany,47,45-50,Male
+796,Premium,12,4/8/2022,Apr,1/7/2023,Jan,Inactive,France,27,25-30,Male
+797,Basic,10,5/8/2022,May,6/30/2023,Jun,Inactive,Brazil,35,30-35,Male
+798,Standard,15,12/7/2022,Dec,6/30/2023,Jun,Inactive,Mexico,35,30-35,Male
+799,Premium,10,2/7/2022,Feb,6/30/2023,Jun,Inactive,Spain,48,45-50,Male
+800,Basic,12,6/26/2022,Jun,6/30/2023,Jun,Inactive,Italy,36,35-40,Male
+801,Premium,10,6/22/2022,Jun,6/29/2023,Jun,Inactive,Spain,46,45-50,Male
+802,Basic,13,6/22/2022,Jun,6/30/2023,Jun,Inactive,Spain,33,30-35,Female
+803,Standard,14,6/19/2022,Jun,1/7/2023,Jan,Inactive,United States,43,40-45,Male
+804,Standard,14,6/22/2022,Jun,2/7/2023,Feb,Inactive,Canada,47,45-50,Female
+805,Basic,15,6/27/2022,Jun,6/28/2023,Jun,Inactive,United States,39,35-40,Female
+806,Premium,15,1/7/2022,Jan,6/30/2023,Jun,Inactive,United States,30,25-30,Female
+807,Basic,11,6/28/2022,Jun,6/30/2023,Jun,Inactive,Canada,46,45-50,Male
+808,Standard,13,6/25/2022,Jun,1/7/2023,Jan,Inactive,United Kingdom,39,35-40,Male
+809,Premium,10,6/22/2022,Jun,6/28/2023,Jun,Inactive,Australia,28,25-30,Male
+810,Basic,13,9/6/2022,Sep,6/29/2023,Jun,Inactive,Germany,38,35-40,Male
+811,Premium,13,10/6/2022,Oct,6/30/2023,Jun,Inactive,France,36,35-40,Male
+812,Basic,15,11/6/2022,Nov,1/7/2023,Jan,Inactive,Brazil,33,30-35,Male
+813,Standard,10,11/6/2022,Nov,6/28/2023,Jun,Inactive,Mexico,50,45-50,Male
+814,Standard,10,12/6/2022,Dec,6/29/2023,Jun,Inactive,Spain,38,35-40,Male
+815,Basic,15,6/13/2022,Jun,6/30/2023,Jun,Inactive,Italy,29,25-30,Male
+816,Premium,15,6/18/2022,Jun,6/30/2023,Jun,Inactive,Spain,47,45-50,Female
+817,Basic,15,6/29/2022,Jun,6/30/2023,Jun,Inactive,Spain,31,30-35,Female
+818,Standard,13,6/30/2022,Jun,6/28/2023,Jun,Inactive,United States,40,35-40,Male
+819,Premium,14,1/7/2022,Jan,1/7/2023,Jan,Inactive,Canada,50,45-50,Male
+820,Basic,11,7/7/2022,Jul,6/30/2023,Jun,Inactive,United States,43,40-45,Female
+821,Basic,12,7/13/2022,Jul,6/29/2023,Jun,Inactive,United States,35,30-35,Female
+822,Basic,11,7/24/2022,Jul,6/29/2023,Jun,Inactive,Canada,36,35-40,Male
+823,Standard,15,7/29/2022,Jul,6/30/2023,Jun,Inactive,United Kingdom,30,25-30,Male
+824,Premium,13,7/31/2022,Jul,6/30/2023,Jun,Inactive,Australia,47,45-50,Female
+825,Basic,12,9/8/2022,Sep,6/30/2023,Jun,Inactive,Germany,30,25-30,Female
+826,Basic,11,8/18/2022,Aug,1/7/2023,Jan,Inactive,France,37,35-40,Male
+827,Premium,15,8/20/2022,Aug,6/30/2023,Jun,Inactive,Brazil,34,30-35,Male
+828,Standard,15,8/30/2022,Aug,6/30/2023,Jun,Inactive,Mexico,33,30-35,Female
+829,Standard,10,1/9/2022,Jan,6/29/2023,Jun,Inactive,Spain,31,30-35,Male
+830,Basic,13,2/9/2022,Feb,3/7/2023,Mar,Inactive,Italy,30,25-30,Female
+831,Premium,10,2/9/2022,Feb,6/29/2023,Jun,Inactive,Spain,35,30-35,Male
+832,Standard,14,9/15/2022,Sep,2/7/2023,Feb,Inactive,Spain,40,35-40,Female
+833,Basic,13,9/17/2022,Sep,6/29/2023,Jun,Inactive,United States,29,25-30,Male
+834,Standard,14,9/26/2022,Sep,3/7/2023,Mar,Inactive,Canada,34,30-35,Female
+835,Premium,12,9/27/2022,Sep,6/29/2023,Jun,Inactive,United States,31,30-35,Male
+836,Basic,15,4/10/2022,Apr,1/7/2023,Jan,Inactive,United States,28,25-30,Male
+837,Premium,12,6/10/2022,Jun,6/29/2023,Jun,Inactive,Canada,46,45-50,Female
+838,Standard,11,7/10/2022,Jul,2/7/2023,Feb,Inactive,United Kingdom,38,35-40,Male
+839,Basic,13,6/10/2022,Jun,6/30/2023,Jun,Inactive,Australia,35,30-35,Female
+840,Standard,15,7/10/2022,Jul,3/7/2023,Mar,Inactive,Germany,49,45-50,Male
+841,Premium,13,6/10/2022,Jun,6/29/2023,Jun,Inactive,France,42,40-45,Male
+842,Basic,14,6/10/2022,Jun,2/7/2023,Feb,Inactive,Brazil,37,35-40,Female
+843,Standard,13,4/10/2022,Apr,1/7/2023,Jan,Inactive,Mexico,39,35-40,Female
+844,Premium,10,10/14/2022,Oct,2/7/2023,Feb,Inactive,Spain,47,45-50,Female
+845,Basic,12,10/19/2022,Oct,6/29/2023,Jun,Inactive,Italy,49,45-50,Male
+846,Premium,12,10/21/2022,Oct,1/7/2023,Jan,Inactive,Spain,35,30-35,Male
+847,Basic,11,10/28/2022,Oct,6/30/2023,Jun,Inactive,Spain,36,35-40,Female
+848,Standard,11,1/11/2022,Jan,2/7/2023,Feb,Inactive,United States,40,35-40,Male
+849,Standard,10,12/11/2022,Dec,6/29/2023,Jun,Inactive,Canada,30,25-30,Female
+850,Basic,13,11/13/2022,Nov,6/30/2023,Jun,Inactive,United States,51,50-55,Female
+851,Premium,15,9/11/2022,Sep,6/30/2023,Jun,Inactive,United States,47,45-50,Male
+852,Basic,12,8/11/2022,Aug,1/7/2023,Jan,Inactive,Canada,47,45-50,Female
+853,Standard,14,6/11/2022,Jun,6/30/2023,Jun,Inactive,United Kingdom,39,35-40,Male
+854,Premium,10,7/11/2022,Jul,6/30/2023,Jun,Inactive,Australia,49,45-50,Male
+855,Basic,12,2/11/2022,Feb,1/7/2023,Jan,Inactive,Germany,33,30-35,Male
+856,Premium,10,6/10/2022,Jun,6/30/2023,Jun,Inactive,France,32,30-35,Female
+857,Basic,15,9/16/2022,Sep,6/30/2023,Jun,Inactive,Brazil,40,35-40,Male
+858,Standard,14,10/9/2022,Oct,6/30/2023,Jun,Inactive,Mexico,40,35-40,Female
+859,Standard,12,4/9/2022,Apr,6/30/2023,Jun,Inactive,Spain,51,50-55,Female
+860,Basic,13,8/26/2022,Aug,1/7/2023,Jan,Inactive,Italy,50,45-50,Male
+861,Premium,14,8/14/2022,Aug,1/7/2023,Jan,Inactive,Spain,50,45-50,Female
+862,Basic,14,12/8/2022,Dec,1/7/2023,Jan,Inactive,Spain,47,45-50,Male
+863,Standard,12,10/8/2022,Oct,6/30/2023,Jun,Inactive,United States,35,30-35,Male
+864,Premium,11,10/8/2022,Oct,1/7/2023,Jan,Inactive,Canada,31,30-35,Male
+865,Basic,15,4/8/2022,Apr,1/7/2023,Jan,Inactive,United States,36,35-40,Male
+866,Premium,10,5/8/2022,May,1/7/2023,Jan,Inactive,United States,41,40-45,Female
+867,Basic,13,7/17/2022,Jul,6/30/2023,Jun,Inactive,Canada,49,45-50,Female
+868,Standard,12,7/16/2022,Jul,1/7/2023,Jan,Inactive,United Kingdom,34,30-35,Female
+869,Standard,15,7/13/2022,Jul,1/7/2023,Jan,Inactive,Australia,30,25-30,Female
+870,Basic,13,3/7/2022,Mar,2/7/2023,Feb,Inactive,Germany,38,35-40,Male
+871,Premium,11,6/24/2022,Jun,6/29/2023,Jun,Inactive,France,45,40-45,Male
+872,Basic,14,6/21/2022,Jun,1/7/2023,Jan,Inactive,Brazil,42,40-45,Female
+873,Standard,10,6/22/2022,Jun,1/7/2023,Jan,Inactive,Mexico,42,40-45,Female
+874,Premium,10,6/23/2022,Jun,2/7/2023,Feb,Inactive,Spain,31,30-35,Male
+875,Basic,14,6/26/2022,Jun,6/29/2023,Jun,Inactive,Italy,28,25-30,Male
+876,Premium,11,6/27/2022,Jun,6/30/2023,Jun,Inactive,Spain,44,40-45,Male
+877,Basic,13,6/28/2022,Jun,1/7/2023,Jan,Inactive,Spain,30,25-30,Male
+878,Standard,13,6/28/2022,Jun,2/7/2023,Feb,Inactive,United States,33,30-35,Male
+879,Standard,12,6/18/2022,Jun,6/29/2023,Jun,Inactive,Canada,42,40-45,Female
+880,Basic,11,11/6/2022,Nov,6/30/2023,Jun,Inactive,United States,31,30-35,Male
+881,Premium,11,11/6/2022,Nov,1/7/2023,Jan,Inactive,United States,31,30-35,Female
+882,Basic,13,12/6/2022,Dec,1/7/2023,Jan,Inactive,Canada,46,45-50,Female
+883,Standard,15,6/13/2022,Jun,6/29/2023,Jun,Inactive,United Kingdom,28,25-30,Female
+884,Premium,11,6/13/2022,Jun,6/29/2023,Jun,Inactive,Australia,50,45-50,Male
+885,Basic,11,6/18/2022,Jun,2/7/2023,Feb,Inactive,Germany,34,30-35,Male
+886,Premium,15,6/23/2022,Jun,6/30/2023,Jun,Inactive,France,45,40-45,Female
+887,Basic,12,6/26/2022,Jun,6/30/2023,Jun,Inactive,Brazil,38,35-40,Female
+888,Standard,13,6/29/2022,Jun,6/29/2023,Jun,Inactive,Mexico,42,40-45,Female
+889,Standard,10,2/7/2022,Feb,1/7/2023,Jan,Inactive,Spain,45,40-45,Female
+890,Basic,10,6/7/2022,Jun,6/30/2023,Jun,Inactive,Italy,44,40-45,Male
+891,Premium,14,7/18/2022,Jul,6/30/2023,Jun,Inactive,Spain,50,45-50,Female
+892,Basic,15,7/29/2022,Jul,6/30/2023,Jun,Inactive,Spain,38,35-40,Male
+893,Standard,13,7/30/2022,Jul,1/7/2023,Jan,Inactive,United States,42,40-45,Female
+894,Premium,13,3/8/2022,Mar,1/7/2023,Jan,Inactive,Canada,50,45-50,Male
+895,Basic,10,8/15/2022,Aug,6/30/2023,Jun,Inactive,United States,30,25-30,Male
+896,Basic,10,8/20/2022,Aug,1/7/2023,Jan,Inactive,United States,47,45-50,Female
+897,Basic,14,8/21/2022,Aug,6/30/2023,Jun,Inactive,Canada,32,30-35,Female
+898,Standard,11,8/30/2022,Aug,2/7/2023,Feb,Inactive,United Kingdom,31,30-35,Female
+899,Premium,15,1/9/2022,Jan,6/29/2023,Jun,Inactive,Australia,37,35-40,Male
+900,Basic,14,2/9/2022,Feb,3/7/2023,Mar,Inactive,Germany,32,30-35,Female
+901,Basic,12,4/9/2022,Apr,6/30/2023,Jun,Inactive,France,29,25-30,Male
+902,Premium,12,10/9/2022,Oct,2/7/2023,Feb,Inactive,Brazil,28,25-30,Male
+903,Standard,11,9/25/2022,Sep,6/29/2023,Jun,Inactive,Mexico,42,40-45,Male
+904,Standard,12,9/27/2022,Sep,3/7/2023,Mar,Inactive,Spain,37,35-40,Male
+905,Basic,13,1/10/2022,Jan,6/30/2023,Jun,Inactive,Italy,38,35-40,Female
+906,Premium,13,6/10/2022,Jun,2/7/2023,Feb,Inactive,Spain,32,30-35,Male
+907,Standard,15,7/10/2022,Jul,6/30/2023,Jun,Inactive,Spain,48,45-50,Male
+908,Basic,13,8/10/2022,Aug,3/7/2023,Mar,Inactive,United States,46,45-50,Female
+909,Standard,14,8/10/2022,Aug,1/7/2023,Jan,Inactive,Canada,30,25-30,Male
+910,Premium,10,8/10/2022,Aug,3/7/2023,Mar,Inactive,United States,40,35-40,Female
+911,Basic,13,8/10/2022,Aug,6/29/2023,Jun,Inactive,United States,29,25-30,Male
+912,Premium,15,8/10/2022,Aug,2/7/2023,Feb,Inactive,Canada,41,40-45,Male
+913,Standard,15,10/10/2022,Oct,1/7/2023,Jan,Inactive,United Kingdom,32,30-35,Male
+914,Basic,12,10/19/2022,Oct,2/7/2023,Feb,Inactive,Australia,44,40-45,Female
+915,Standard,15,10/20/2022,Oct,6/29/2023,Jun,Inactive,Germany,41,40-45,Male
+916,Premium,12,10/26/2022,Oct,1/7/2023,Jan,Inactive,France,50,45-50,Female
+917,Basic,14,10/29/2022,Oct,6/30/2023,Jun,Inactive,Brazil,33,30-35,Female
+918,Standard,10,10/31/2022,Oct,2/7/2023,Feb,Inactive,Mexico,34,30-35,Female
+919,Premium,15,11/11/2022,Nov,6/29/2023,Jun,Inactive,Spain,40,35-40,Male
+920,Basic,14,9/11/2022,Sep,1/7/2023,Jan,Inactive,Italy,34,30-35,Female
+921,Premium,14,9/11/2022,Sep,1/7/2023,Jan,Inactive,Spain,27,25-30,Female
+922,Basic,13,7/11/2022,Jul,1/7/2023,Jan,Inactive,Spain,34,30-35,Male
+923,Standard,13,8/11/2022,Aug,6/30/2023,Jun,Inactive,United States,28,25-30,Male
+924,Standard,14,5/11/2022,May,1/7/2023,Jan,Inactive,Canada,37,35-40,Female
+925,Basic,10,10/25/2022,Oct,1/7/2023,Jan,Inactive,United States,27,25-30,Female
+926,Premium,13,10/23/2022,Oct,2/7/2023,Feb,Inactive,United States,33,30-35,Female
+927,Basic,11,10/20/2022,Oct,2/7/2023,Feb,Inactive,Canada,42,40-45,Male
+928,Standard,11,10/14/2022,Oct,1/7/2023,Jan,Inactive,United Kingdom,49,45-50,Male
+929,Premium,13,8/29/2022,Aug,6/30/2023,Jun,Inactive,Australia,44,40-45,Male
+930,Basic,10,8/18/2022,Aug,1/7/2023,Jan,Inactive,Germany,47,45-50,Male
+931,Premium,13,8/13/2022,Aug,2/7/2023,Feb,Inactive,France,33,30-35,Male
+932,Basic,11,11/8/2022,Nov,2/7/2023,Feb,Inactive,Brazil,37,35-40,Male
+933,Standard,10,11/8/2022,Nov,1/7/2023,Jan,Inactive,Mexico,35,30-35,Male
+934,Standard,11,6/8/2022,Jun,1/7/2023,Jan,Inactive,Spain,34,30-35,Female
+935,Basic,10,7/8/2022,Jul,2/7/2023,Feb,Inactive,Italy,44,40-45,Male
+936,Premium,15,7/18/2022,Jul,2/7/2023,Feb,Inactive,Spain,29,25-30,Male
+937,Basic,10,7/17/2022,Jul,6/30/2023,Jun,Inactive,Spain,38,35-40,Male
+938,Standard,14,7/15/2022,Jul,2/7/2023,Feb,Inactive,United States,46,45-50,Male
+939,Premium,10,7/14/2022,Jul,2/7/2023,Feb,Inactive,Canada,29,25-30,Male
+940,Basic,12,6/26/2022,Jun,3/7/2023,Mar,Inactive,United States,48,45-50,Female
+941,Premium,10,6/26/2022,Jun,6/29/2023,Jun,Inactive,United States,36,35-40,Male
+942,Basic,12,6/22/2022,Jun,1/7/2023,Jan,Inactive,Canada,43,40-45,Male
+943,Standard,15,6/23/2022,Jun,1/7/2023,Jan,Inactive,United Kingdom,42,40-45,Female
+944,Standard,10,6/24/2022,Jun,2/7/2023,Feb,Inactive,Australia,50,45-50,Male
+945,Basic,13,6/26/2022,Jun,6/29/2023,Jun,Inactive,Germany,39,35-40,Male
+946,Premium,14,6/28/2022,Jun,1/7/2023,Jan,Inactive,France,43,40-45,Female
+947,Basic,10,6/29/2022,Jun,2/7/2023,Feb,Inactive,Brazil,50,45-50,Female
+948,Standard,12,6/26/2022,Jun,2/7/2023,Feb,Inactive,Mexico,51,50-55,Male
+949,Premium,14,6/26/2022,Jun,6/30/2023,Jun,Inactive,Spain,40,35-40,Male
+950,Basic,10,6/20/2022,Jun,6/30/2023,Jun,Inactive,Italy,31,30-35,Male
+951,Premium,12,6/18/2022,Jun,3/7/2023,Mar,Inactive,Spain,39,35-40,Female
+952,Basic,10,6/16/2022,Jun,1/7/2023,Jan,Inactive,Spain,49,45-50,Female
+953,Standard,10,6/16/2022,Jun,6/30/2023,Jun,Inactive,United States,34,30-35,Female
+954,Standard,13,6/17/2022,Jun,6/30/2023,Jun,Inactive,Canada,38,35-40,Male
+955,Basic,15,6/20/2022,Jun,2/7/2023,Feb,Inactive,United States,36,35-40,Female
+956,Premium,10,6/24/2022,Jun,1/7/2023,Jan,Inactive,United States,42,40-45,Female
+957,Basic,14,6/27/2022,Jun,1/7/2023,Jan,Inactive,Canada,50,45-50,Male
+958,Standard,10,2/7/2022,Feb,1/7/2023,Jan,Inactive,United Kingdom,42,40-45,Female
+959,Premium,14,4/7/2022,Apr,2/7/2023,Feb,Inactive,Australia,35,30-35,Female
+960,Basic,15,7/15/2022,Jul,6/30/2023,Jun,Inactive,Germany,46,45-50,Female
+961,Premium,15,7/23/2022,Jul,1/7/2023,Jan,Inactive,France,48,45-50,Male
+962,Basic,12,7/29/2022,Jul,1/7/2023,Jan,Inactive,Brazil,43,40-45,Female
+963,Standard,13,1/8/2022,Jan,1/7/2023,Jan,Inactive,Mexico,51,50-55,Female
+964,Standard,13,12/8/2022,Dec,3/7/2023,Mar,Inactive,Spain,45,40-45,Male
+965,Basic,10,8/14/2022,Aug,6/30/2023,Jun,Inactive,Italy,46,45-50,Male
+966,Premium,12,8/16/2022,Aug,4/7/2023,Apr,Inactive,Spain,42,40-45,Female
+967,Basic,10,8/26/2022,Aug,6/30/2023,Jun,Inactive,Spain,42,40-45,Female
+968,Standard,13,8/31/2022,Aug,3/7/2023,Mar,Inactive,United States,50,45-50,Male
+969,Premium,12,2/9/2022,Feb,6/30/2023,Jun,Inactive,Canada,28,25-30,Male
+970,Basic,15,3/9/2022,Mar,3/7/2023,Mar,Inactive,United States,44,40-45,Female
+971,Basic,10,5/9/2022,May,1/7/2023,Jan,Inactive,United States,36,35-40,Male
+972,Basic,14,10/9/2022,Oct,2/7/2023,Feb,Inactive,Canada,37,35-40,Female
+973,Standard,12,9/17/2022,Sep,1/7/2023,Jan,Inactive,United Kingdom,36,35-40,Male
+974,Premium,13,9/28/2022,Sep,3/7/2023,Mar,Inactive,Australia,31,30-35,Male
+975,Basic,12,2/10/2022,Feb,6/30/2023,Jun,Inactive,Germany,36,35-40,Female
+976,Basic,15,5/10/2022,May,3/7/2023,Mar,Inactive,France,39,35-40,Female
+977,Premium,11,7/10/2022,Jul,6/30/2023,Jun,Inactive,Brazil,45,40-45,Female
+978,Standard,13,8/10/2022,Aug,3/7/2023,Mar,Inactive,Mexico,29,25-30,Male
+979,Standard,15,8/10/2022,Aug,1/7/2023,Jan,Inactive,Spain,45,40-45,Male
+980,Basic,11,9/10/2022,Sep,3/7/2023,Mar,Inactive,Italy,29,25-30,Male
+981,Premium,10,9/10/2022,Sep,6/30/2023,Jun,Inactive,Spain,28,25-30,Female
+982,Standard,12,10/10/2022,Oct,2/7/2023,Feb,Inactive,Spain,42,40-45,Female
+983,Basic,11,10/14/2022,Oct,1/7/2023,Jan,Inactive,United States,36,35-40,Female
+984,Standard,15,10/16/2022,Oct,3/7/2023,Mar,Inactive,Canada,39,35-40,Male
+985,Premium,11,10/21/2022,Oct,6/29/2023,Jun,Inactive,United States,36,35-40,Male
+986,Basic,15,10/25/2022,Oct,1/7/2023,Jan,Inactive,United States,49,45-50,Male
+987,Premium,11,10/30/2022,Oct,1/7/2023,Jan,Inactive,Canada,32,30-35,Female
+988,Standard,12,10/31/2022,Oct,2/7/2023,Feb,Inactive,United Kingdom,40,35-40,Female
+989,Basic,12,8/11/2022,Aug,1/7/2023,Jan,Inactive,Australia,34,30-35,Male
+990,Standard,15,9/11/2022,Sep,1/7/2023,Jan,Inactive,Germany,35,30-35,Male
+991,Premium,11,7/11/2022,Jul,1/7/2023,Jan,Inactive,France,44,40-45,Female
+992,Basic,13,8/11/2022,Aug,3/7/2023,Mar,Inactive,Brazil,47,45-50,Female
+993,Standard,14,8/11/2022,Aug,3/7/2023,Mar,Inactive,Mexico,33,30-35,Female
+994,Premium,11,10/31/2022,Oct,2/7/2023,Feb,Inactive,Spain,45,40-45,Male
+995,Basic,14,10/28/2022,Oct,1/7/2023,Jan,Inactive,Italy,42,40-45,Female
+996,Premium,15,10/25/2022,Oct,2/7/2023,Feb,Inactive,Spain,46,45-50,Male
+997,Basic,14,10/18/2022,Oct,2/7/2023,Feb,Inactive,Spain,51,50-55,Male
+998,Standard,15,9/25/2022,Sep,2/7/2023,Feb,Inactive,United States,41,40-45,Female
+999,Standard,10,8/26/2022,Aug,1/7/2023,Jan,Inactive,Canada,50,45-50,Female
+1000,Basic,10,8/20/2022,Aug,2/7/2023,Feb,Inactive,United States,49,45-50,Female
+1001,Premium,12,12/8/2022,Dec,3/7/2023,Mar,Inactive,United States,34,30-35,Female
+1002,Basic,13,12/8/2022,Dec,3/7/2023,Mar,Inactive,Canada,38,35-40,Female
+1003,Standard,13,11/8/2022,Nov,1/7/2023,Jan,Inactive,United Kingdom,46,45-50,Male
+1004,Premium,14,11/8/2022,Nov,2/7/2023,Feb,Inactive,Australia,42,40-45,Male
+1005,Basic,12,10/8/2022,Oct,2/7/2023,Feb,Inactive,Germany,46,45-50,Male
+1006,Premium,10,7/31/2022,Jul,3/7/2023,Mar,Inactive,France,51,50-55,Female
+1007,Basic,12,7/17/2022,Jul,6/30/2023,Jun,Inactive,Brazil,35,30-35,Male
+1008,Standard,10,7/15/2022,Jul,2/7/2023,Feb,Inactive,Mexico,34,30-35,Female
+1009,Standard,14,5/7/2022,May,2/7/2023,Feb,Inactive,Spain,31,30-35,Female
+1010,Basic,12,1/7/2022,Jan,3/7/2023,Mar,Inactive,Italy,36,35-40,Female
+1011,Premium,15,1/7/2022,Jan,6/30/2023,Jun,Inactive,Spain,28,25-30,Male
+1012,Basic,15,6/26/2022,Jun,1/7/2023,Jan,Inactive,Spain,29,25-30,Female
+1013,Standard,12,6/27/2022,Jun,2/7/2023,Feb,Inactive,United States,42,40-45,Female
+1014,Premium,10,6/28/2022,Jun,2/7/2023,Feb,Inactive,Canada,35,30-35,Female
+1015,Basic,12,6/28/2022,Jun,6/30/2023,Jun,Inactive,United States,32,30-35,Female
+1016,Premium,10,6/29/2022,Jun,1/7/2023,Jan,Inactive,United States,43,40-45,Female
+1017,Basic,10,6/26/2022,Jun,2/7/2023,Feb,Inactive,Canada,29,25-30,Male
+1018,Standard,13,6/26/2022,Jun,2/7/2023,Feb,Inactive,United Kingdom,35,30-35,Female
+1019,Standard,14,6/24/2022,Jun,6/30/2023,Jun,Inactive,Australia,27,25-30,Female
+1020,Basic,13,6/21/2022,Jun,1/7/2023,Jan,Inactive,Germany,38,35-40,Male
+1021,Premium,13,6/22/2022,Jun,3/7/2023,Mar,Inactive,France,33,30-35,Male
+1022,Basic,11,6/18/2022,Jun,2/7/2023,Feb,Inactive,Brazil,48,45-50,Male
+1023,Standard,10,6/18/2022,Jun,2/7/2023,Feb,Inactive,Mexico,51,50-55,Female
+1024,Premium,10,6/20/2022,Jun,1/7/2023,Jan,Inactive,Spain,40,35-40,Female
+1025,Basic,13,6/23/2022,Jun,3/7/2023,Mar,Inactive,Italy,28,25-30,Male
+1026,Premium,10,6/26/2022,Jun,1/7/2023,Jan,Inactive,Spain,46,45-50,Female
+1027,Basic,12,2/7/2022,Feb,1/7/2023,Jan,Inactive,Spain,28,25-30,Female
+1028,Standard,12,4/7/2022,Apr,1/7/2023,Jan,Inactive,United States,47,45-50,Male
+1029,Standard,10,7/7/2022,Jul,2/7/2023,Feb,Inactive,Canada,47,45-50,Male
+1030,Basic,13,7/14/2022,Jul,1/7/2023,Jan,Inactive,United States,50,45-50,Male
+1031,Premium,13,7/20/2022,Jul,1/7/2023,Jan,Inactive,United States,50,45-50,Female
+1032,Basic,15,7/23/2022,Jul,2/7/2023,Feb,Inactive,Canada,29,25-30,Male
+1033,Standard,15,7/30/2022,Jul,1/7/2023,Jan,Inactive,United Kingdom,38,35-40,Male
+1034,Premium,11,12/8/2022,Dec,3/7/2023,Mar,Inactive,Australia,40,35-40,Female
+1035,Basic,14,8/14/2022,Aug,1/7/2023,Jan,Inactive,Germany,43,40-45,Male
+1036,Premium,14,8/22/2022,Aug,4/7/2023,Apr,Inactive,France,27,25-30,Female
+1037,Basic,10,8/29/2022,Aug,6/30/2023,Jun,Inactive,Brazil,37,35-40,Female
+1038,Standard,12,2/9/2022,Feb,3/7/2023,Mar,Inactive,Mexico,30,25-30,Male
+1039,Standard,13,3/9/2022,Mar,1/7/2023,Jan,Inactive,Spain,50,45-50,Male
+1040,Basic,11,4/9/2022,Apr,4/7/2023,Apr,Inactive,Italy,51,50-55,Male
+1041,Premium,13,6/9/2022,Jun,1/7/2023,Jan,Inactive,Spain,37,35-40,Female
+1042,Basic,14,10/9/2022,Oct,2/7/2023,Feb,Inactive,Spain,35,30-35,Female
+1043,Standard,12,9/20/2022,Sep,1/7/2023,Jan,Inactive,United States,35,30-35,Male
+1044,Premium,11,9/26/2022,Sep,3/7/2023,Mar,Inactive,Canada,46,45-50,Male
+1045,Basic,13,4/10/2022,Apr,1/7/2023,Jan,Inactive,United States,27,25-30,Male
+1046,Basic,13,6/10/2022,Jun,3/7/2023,Mar,Inactive,United States,27,25-30,Male
+1047,Basic,13,7/10/2022,Jul,1/7/2023,Jan,Inactive,Canada,39,35-40,Female
+1048,Standard,15,8/10/2022,Aug,3/7/2023,Mar,Inactive,United Kingdom,51,50-55,Male
+1049,Premium,14,9/10/2022,Sep,1/7/2023,Jan,Inactive,Australia,41,40-45,Male
+1050,Basic,15,10/10/2022,Oct,3/7/2023,Mar,Inactive,Germany,30,25-30,Female
+1051,Basic,11,10/10/2022,Oct,6/30/2023,Jun,Inactive,France,46,45-50,Male
+1052,Premium,14,10/14/2022,Oct,2/7/2023,Feb,Inactive,Brazil,31,30-35,Male
+1053,Standard,13,10/15/2022,Oct,1/7/2023,Jan,Inactive,Mexico,49,45-50,Male
+1054,Standard,12,10/17/2022,Oct,3/7/2023,Mar,Inactive,Spain,39,35-40,Female
+1055,Basic,11,10/23/2022,Oct,1/7/2023,Jan,Inactive,Italy,47,45-50,Male
+1056,Premium,15,10/27/2022,Oct,2/7/2023,Feb,Inactive,Spain,36,35-40,Female
+1057,Standard,14,10/29/2022,Oct,2/7/2023,Feb,Inactive,Spain,42,40-45,Female
+1058,Basic,15,5/11/2022,May,2/7/2023,Feb,Inactive,United States,28,25-30,Female
+1059,Standard,15,7/11/2022,Jul,2/7/2023,Feb,Inactive,Canada,43,40-45,Male
+1060,Premium,10,8/11/2022,Aug,2/7/2023,Feb,Inactive,United States,50,45-50,Female
+1061,Basic,15,9/11/2022,Sep,1/7/2023,Jan,Inactive,United States,30,25-30,Female
+1062,Premium,10,10/11/2022,Oct,3/7/2023,Mar,Inactive,Canada,34,30-35,Female
+1063,Standard,13,2/11/2022,Feb,3/7/2023,Mar,Inactive,United Kingdom,35,30-35,Female
+1064,Basic,11,10/31/2022,Oct,2/7/2023,Feb,Inactive,Australia,29,25-30,Male
+1065,Standard,15,10/29/2022,Oct,2/7/2023,Feb,Inactive,Germany,33,30-35,Male
+1066,Premium,12,10/22/2022,Oct,3/7/2023,Mar,Inactive,France,47,45-50,Male
+1067,Basic,14,10/20/2022,Oct,2/7/2023,Feb,Inactive,Brazil,32,30-35,Female
+1068,Standard,15,10/21/2022,Oct,4/7/2023,Apr,Inactive,Mexico,34,30-35,Female
+1069,Premium,13,10/10/2022,Oct,2/7/2023,Feb,Inactive,Spain,46,45-50,Male
+1070,Basic,15,6/9/2022,Jun,3/7/2023,Mar,Inactive,Italy,31,30-35,Male
+1071,Premium,12,6/9/2022,Jun,3/7/2023,Mar,Inactive,Spain,40,35-40,Female
+1072,Basic,11,8/13/2022,Aug,3/7/2023,Mar,Inactive,Spain,38,35-40,Female
+1073,Standard,11,8/13/2022,Aug,1/7/2023,Jan,Inactive,United States,31,30-35,Male
+1074,Standard,12,8/13/2022,Aug,2/7/2023,Feb,Inactive,Canada,46,45-50,Female
+1075,Basic,11,6/8/2022,Jun,3/7/2023,Mar,Inactive,United States,43,40-45,Male
+1076,Premium,15,6/8/2022,Jun,3/7/2023,Mar,Inactive,United States,38,35-40,Female
+1077,Basic,15,7/22/2022,Jul,6/30/2023,Jun,Inactive,Canada,38,35-40,Female
+1078,Standard,14,7/17/2022,Jul,2/7/2023,Feb,Inactive,United Kingdom,27,25-30,Male
+1079,Premium,12,9/7/2022,Sep,2/7/2023,Feb,Inactive,Australia,49,45-50,Female
+1080,Basic,11,4/7/2022,Apr,3/7/2023,Mar,Inactive,Germany,33,30-35,Male
+1081,Premium,10,6/27/2022,Jun,6/30/2023,Jun,Inactive,France,40,35-40,Female
+1082,Basic,13,6/28/2022,Jun,2/7/2023,Feb,Inactive,Brazil,27,25-30,Male
+1083,Standard,12,6/28/2022,Jun,2/7/2023,Feb,Inactive,Mexico,28,25-30,Female
+1084,Standard,10,6/29/2022,Jun,3/7/2023,Mar,Inactive,Spain,30,25-30,Male
+1085,Basic,10,6/29/2022,Jun,6/30/2023,Jun,Inactive,Italy,33,30-35,Female
+1086,Premium,15,6/26/2022,Jun,1/7/2023,Jan,Inactive,Spain,51,50-55,Female
+1087,Basic,11,6/26/2022,Jun,3/7/2023,Mar,Inactive,Spain,51,50-55,Male
+1088,Standard,10,6/26/2022,Jun,2/7/2023,Feb,Inactive,United States,50,45-50,Female
+1089,Premium,14,6/24/2022,Jun,6/30/2023,Jun,Inactive,Canada,46,45-50,Female
+1090,Basic,14,6/25/2022,Jun,2/7/2023,Feb,Inactive,United States,31,30-35,Male
+1091,Premium,12,6/20/2022,Jun,3/7/2023,Mar,Inactive,United States,46,45-50,Female
+1092,Basic,15,6/21/2022,Jun,2/7/2023,Feb,Inactive,Canada,41,40-45,Male
+1093,Standard,12,6/20/2022,Jun,2/7/2023,Feb,Inactive,United Kingdom,36,35-40,Male
+1094,Standard,10,6/22/2022,Jun,2/7/2023,Feb,Inactive,Australia,45,40-45,Female
+1095,Basic,10,6/24/2022,Jun,3/7/2023,Mar,Inactive,Germany,36,35-40,Male
+1096,Premium,15,6/30/2022,Jun,2/7/2023,Feb,Inactive,France,28,25-30,Male
+1097,Basic,13,3/7/2022,Mar,2/7/2023,Feb,Inactive,Brazil,45,40-45,Female
+1098,Standard,10,4/7/2022,Apr,2/7/2023,Feb,Inactive,Mexico,39,35-40,Female
+1099,Premium,13,8/7/2022,Aug,2/7/2023,Feb,Inactive,Spain,51,50-55,Female
+1100,Basic,10,7/19/2022,Jul,1/7/2023,Jan,Inactive,Italy,37,35-40,Male
+1101,Premium,11,7/21/2022,Jul,1/7/2023,Jan,Inactive,Spain,33,30-35,Female
+1102,Basic,15,7/27/2022,Jul,3/7/2023,Mar,Inactive,Spain,32,30-35,Female
+1103,Standard,14,2/8/2022,Feb,1/7/2023,Jan,Inactive,United States,49,45-50,Female
+1104,Standard,10,9/8/2022,Sep,3/7/2023,Mar,Inactive,Canada,37,35-40,Female
+1105,Basic,15,8/21/2022,Aug,1/7/2023,Jan,Inactive,United States,39,35-40,Male
+1106,Premium,14,8/29/2022,Aug,4/7/2023,Apr,Inactive,United States,37,35-40,Male
+1107,Basic,15,8/31/2022,Aug,1/7/2023,Jan,Inactive,Canada,36,35-40,Female
+1108,Standard,10,2/9/2022,Feb,3/7/2023,Mar,Inactive,United Kingdom,34,30-35,Male
+1109,Premium,13,4/9/2022,Apr,1/7/2023,Jan,Inactive,Australia,51,50-55,Female
+1110,Basic,13,5/9/2022,May,4/7/2023,Apr,Inactive,Germany,41,40-45,Female
+1111,Premium,13,10/9/2022,Oct,1/7/2023,Jan,Inactive,France,51,50-55,Male
+1112,Basic,15,9/13/2022,Sep,3/7/2023,Mar,Inactive,Brazil,31,30-35,Female
+1113,Standard,13,9/20/2022,Sep,1/7/2023,Jan,Inactive,Mexico,44,40-45,Male
+1114,Standard,15,1/10/2022,Jan,3/7/2023,Mar,Inactive,Spain,50,45-50,Male
+1115,Basic,14,3/10/2022,Mar,1/7/2023,Jan,Inactive,Italy,33,30-35,Male
+1116,Premium,11,6/10/2022,Jun,4/7/2023,Apr,Inactive,Spain,44,40-45,Female
+1117,Basic,15,8/10/2022,Aug,1/7/2023,Jan,Inactive,Spain,42,40-45,Female
+1118,Standard,13,9/10/2022,Sep,3/7/2023,Mar,Inactive,United States,35,30-35,Male
+1119,Premium,12,10/10/2022,Oct,2/7/2023,Feb,Inactive,Canada,48,45-50,Male
+1120,Basic,13,10/10/2022,Oct,4/7/2023,Apr,Inactive,United States,51,50-55,Female
+1121,Basic,15,12/10/2022,Dec,1/7/2023,Jan,Inactive,United States,44,40-45,Female
+1122,Basic,11,10/14/2022,Oct,2/7/2023,Feb,Inactive,Canada,37,35-40,Female
+1123,Standard,15,10/15/2022,Oct,2/7/2023,Feb,Inactive,United Kingdom,35,30-35,Female
+1124,Premium,11,10/17/2022,Oct,3/7/2023,Mar,Inactive,Australia,32,30-35,Male
+1125,Basic,15,10/19/2022,Oct,2/7/2023,Feb,Inactive,Germany,46,45-50,Female
+1126,Basic,14,10/25/2022,Oct,2/7/2023,Feb,Inactive,France,39,35-40,Female
+1127,Premium,11,10/26/2022,Oct,2/7/2023,Feb,Inactive,Brazil,33,30-35,Female
+1128,Standard,10,5/11/2022,May,3/7/2023,Mar,Inactive,Mexico,42,40-45,Male
+1129,Standard,14,7/11/2022,Jul,3/7/2023,Mar,Inactive,Spain,37,35-40,Female
+1130,Basic,14,8/11/2022,Aug,3/7/2023,Mar,Inactive,Italy,27,25-30,Female
+1131,Premium,14,9/11/2022,Sep,2/7/2023,Feb,Inactive,Spain,34,30-35,Female
+1132,Standard,13,6/11/2022,Jun,3/7/2023,Mar,Inactive,Spain,51,50-55,Male
+1133,Basic,12,4/11/2022,Apr,3/7/2023,Mar,Inactive,United States,42,40-45,Male
+1134,Standard,13,3/11/2022,Mar,5/7/2023,May,Inactive,Canada,46,45-50,Female
+1135,Premium,13,10/23/2022,Oct,2/7/2023,Feb,Inactive,United States,36,35-40,Male
+1136,Basic,14,10/24/2022,Oct,4/7/2023,Apr,Inactive,United States,46,45-50,Male
+1137,Premium,13,10/23/2022,Oct,4/7/2023,Apr,Inactive,Canada,51,50-55,Male
+1138,Standard,12,10/21/2022,Oct,4/7/2023,Apr,Inactive,United Kingdom,45,40-45,Female
+1139,Basic,14,11/9/2022,Nov,2/7/2023,Feb,Inactive,Australia,33,30-35,Male
+1140,Standard,10,9/9/2022,Sep,3/7/2023,Mar,Inactive,Germany,31,30-35,Female
+1141,Premium,12,8/22/2022,Aug,3/7/2023,Mar,Inactive,France,48,45-50,Female
+1142,Basic,13,8/21/2022,Aug,4/7/2023,Apr,Inactive,Brazil,47,45-50,Female
+1143,Standard,13,8/15/2022,Aug,1/7/2023,Jan,Inactive,Mexico,43,40-45,Male
+1144,Premium,14,8/14/2022,Aug,3/7/2023,Mar,Inactive,Spain,39,35-40,Male
+1145,Basic,11,9/8/2022,Sep,3/7/2023,Mar,Inactive,Italy,46,45-50,Male
+1146,Premium,12,4/8/2022,Apr,4/7/2023,Apr,Inactive,Spain,46,45-50,Female
+1147,Basic,11,7/27/2022,Jul,1/7/2023,Jan,Inactive,Spain,40,35-40,Female
+1148,Standard,12,11/7/2022,Nov,2/7/2023,Feb,Inactive,United States,38,35-40,Male
+1149,Standard,13,9/7/2022,Sep,3/7/2023,Mar,Inactive,Canada,48,45-50,Female
+1150,Basic,15,1/7/2022,Jan,3/7/2023,Mar,Inactive,United States,38,35-40,Male
+1151,Premium,12,6/30/2022,Jun,1/7/2023,Jan,Inactive,United States,43,40-45,Male
+1152,Basic,11,6/29/2022,Jun,2/7/2023,Feb,Inactive,Canada,29,25-30,Male
+1153,Standard,15,6/29/2022,Jun,3/7/2023,Mar,Inactive,United Kingdom,32,30-35,Female
+1154,Premium,10,6/30/2022,Jun,3/7/2023,Mar,Inactive,Australia,32,30-35,Female
+1155,Basic,10,6/30/2022,Jun,6/30/2023,Jun,Inactive,Germany,49,45-50,Female
+1156,Premium,14,6/26/2022,Jun,2/7/2023,Feb,Inactive,France,51,50-55,Female
+1157,Basic,14,6/27/2022,Jun,3/7/2023,Mar,Inactive,Brazil,32,30-35,Male
+1158,Standard,12,6/25/2022,Jun,2/7/2023,Feb,Inactive,Mexico,35,30-35,Female
+1159,Standard,15,6/25/2022,Jun,1/7/2023,Jan,Inactive,Spain,41,40-45,Male
+1160,Basic,12,6/20/2022,Jun,3/7/2023,Mar,Inactive,Italy,43,40-45,Female
+1161,Premium,12,6/21/2022,Jun,3/7/2023,Mar,Inactive,Spain,41,40-45,Male
+1162,Basic,10,6/21/2022,Jun,2/7/2023,Feb,Inactive,Spain,51,50-55,Male
+1163,Standard,13,6/22/2022,Jun,3/7/2023,Mar,Inactive,United States,47,45-50,Female
+1164,Premium,15,6/23/2022,Jun,2/7/2023,Feb,Inactive,Canada,39,35-40,Male
+1165,Basic,15,6/27/2022,Jun,3/7/2023,Mar,Inactive,United States,51,50-55,Male
+1166,Premium,13,2/7/2022,Feb,2/7/2023,Feb,Inactive,United States,39,35-40,Female
+1167,Basic,12,3/7/2022,Mar,2/7/2023,Feb,Inactive,Canada,45,40-45,Male
+1168,Standard,13,5/7/2022,May,2/7/2023,Feb,Inactive,United Kingdom,42,40-45,Male
+1169,Standard,13,7/15/2022,Jul,2/7/2023,Feb,Inactive,Australia,48,45-50,Male
+1170,Basic,11,7/20/2022,Jul,2/7/2023,Feb,Inactive,Germany,33,30-35,Male
+1171,Premium,14,7/27/2022,Jul,2/7/2023,Feb,Inactive,France,47,45-50,Female
+1172,Basic,11,7/29/2022,Jul,4/7/2023,Apr,Inactive,Brazil,51,50-55,Female
+1173,Standard,11,3/8/2022,Mar,1/7/2023,Jan,Inactive,Mexico,27,25-30,Male
+1174,Premium,11,8/18/2022,Aug,4/7/2023,Apr,Inactive,Spain,44,40-45,Female
+1175,Basic,12,8/23/2022,Aug,2/7/2023,Feb,Inactive,Italy,41,40-45,Male
+1176,Premium,11,8/27/2022,Aug,5/7/2023,May,Inactive,Spain,37,35-40,Male
+1177,Basic,15,1/9/2022,Jan,2/7/2023,Feb,Inactive,Spain,48,45-50,Male
+1178,Standard,12,3/9/2022,Mar,4/7/2023,Apr,Inactive,United States,30,25-30,Male
+1179,Standard,14,5/9/2022,May,2/7/2023,Feb,Inactive,Canada,44,40-45,Female
+1180,Basic,14,9/9/2022,Sep,4/7/2023,Apr,Inactive,United States,34,30-35,Female
+1181,Premium,15,11/9/2022,Nov,1/7/2023,Jan,Inactive,United States,40,35-40,Female
+1182,Basic,14,9/17/2022,Sep,4/7/2023,Apr,Inactive,Canada,28,25-30,Female
+1183,Standard,15,9/19/2022,Sep,2/7/2023,Feb,Inactive,United Kingdom,44,40-45,Female
+1184,Premium,13,9/28/2022,Sep,3/7/2023,Mar,Inactive,Australia,38,35-40,Female
+1185,Basic,14,6/10/2022,Jun,2/7/2023,Feb,Inactive,Germany,49,45-50,Male
+1186,Premium,13,7/10/2022,Jul,5/7/2023,May,Inactive,France,32,30-35,Female
+1187,Basic,14,9/10/2022,Sep,1/7/2023,Jan,Inactive,Brazil,47,45-50,Female
+1188,Standard,10,10/10/2022,Oct,3/7/2023,Mar,Inactive,Mexico,44,40-45,Male
+1189,Standard,12,11/10/2022,Nov,3/7/2023,Mar,Inactive,Spain,33,30-35,Male
+1190,Basic,15,12/10/2022,Dec,4/7/2023,Apr,Inactive,Italy,32,30-35,Male
+1191,Premium,12,10/13/2022,Oct,1/7/2023,Jan,Inactive,Spain,27,25-30,Female
+1192,Basic,11,10/14/2022,Oct,3/7/2023,Mar,Inactive,Spain,37,35-40,Male
+1193,Standard,14,10/16/2022,Oct,3/7/2023,Mar,Inactive,United States,34,30-35,Male
+1194,Premium,15,10/19/2022,Oct,4/7/2023,Apr,Inactive,Canada,40,35-40,Male
+1195,Basic,12,10/23/2022,Oct,2/7/2023,Feb,Inactive,United States,45,40-45,Female
+1196,Basic,13,10/24/2022,Oct,3/7/2023,Mar,Inactive,United States,29,25-30,Female
+1197,Basic,14,10/25/2022,Oct,3/7/2023,Mar,Inactive,Canada,35,30-35,Male
+1198,Standard,10,1/11/2022,Jan,4/7/2023,Apr,Inactive,United Kingdom,38,35-40,Female
+1199,Premium,11,2/11/2022,Feb,4/7/2023,Apr,Inactive,Australia,48,45-50,Female
+1200,Basic,12,4/11/2022,Apr,6/7/2023,Jun,Inactive,Germany,36,35-40,Male
+1201,Basic,10,6/11/2022,Jun,3/7/2023,Mar,Inactive,France,41,40-45,Male
+1202,Premium,15,6/11/2022,Jun,3/7/2023,Mar,Inactive,Brazil,27,25-30,Male
+1203,Standard,12,4/11/2022,Apr,4/7/2023,Apr,Inactive,Mexico,41,40-45,Male
+1204,Standard,13,10/30/2022,Oct,5/7/2023,May,Inactive,Spain,42,40-45,Male
+1205,Basic,12,10/27/2022,Oct,3/7/2023,Mar,Inactive,Italy,40,35-40,Female
+1206,Premium,13,10/23/2022,Oct,4/7/2023,Apr,Inactive,Spain,32,30-35,Male
+1207,Standard,12,10/23/2022,Oct,4/7/2023,Apr,Inactive,Spain,33,30-35,Male
+1208,Basic,11,9/24/2022,Sep,4/7/2023,Apr,Inactive,United States,34,30-35,Male
+1209,Standard,11,9/22/2022,Sep,2/7/2023,Feb,Inactive,Canada,29,25-30,Male
+1210,Premium,14,6/9/2022,Jun,3/7/2023,Mar,Inactive,United States,50,45-50,Male
+1211,Basic,10,8/23/2022,Aug,4/7/2023,Apr,Inactive,United States,29,25-30,Female
+1212,Premium,13,8/21/2022,Aug,4/7/2023,Apr,Inactive,Canada,40,35-40,Female
+1213,Standard,10,8/16/2022,Aug,2/7/2023,Feb,Inactive,United Kingdom,27,25-30,Male
+1214,Basic,10,9/8/2022,Sep,3/7/2023,Mar,Inactive,Australia,51,50-55,Female
+1215,Standard,13,4/8/2022,Apr,3/7/2023,Mar,Inactive,Germany,41,40-45,Female
+1216,Premium,15,7/28/2022,Jul,4/7/2023,Apr,Inactive,France,28,25-30,Female
+1217,Basic,12,12/7/2022,Dec,1/7/2023,Jan,Inactive,Brazil,42,40-45,Male
+1218,Standard,13,11/7/2022,Nov,3/7/2023,Mar,Inactive,Mexico,40,35-40,Male
+1219,Premium,12,6/7/2022,Jun,4/7/2023,Apr,Inactive,Spain,48,45-50,Female
+1220,Basic,13,1/7/2022,Jan,3/7/2023,Mar,Inactive,Italy,28,25-30,Male
+1221,Premium,15,2/7/2022,Feb,1/7/2023,Jan,Inactive,Spain,40,35-40,Male
+1222,Basic,15,6/30/2022,Jun,3/7/2023,Mar,Inactive,Spain,33,30-35,Female
+1223,Standard,12,6/30/2022,Jun,3/7/2023,Mar,Inactive,United States,33,30-35,Male
+1224,Standard,15,6/30/2022,Jun,3/7/2023,Mar,Inactive,Canada,47,45-50,Female
+1225,Basic,13,6/30/2022,Jun,1/7/2023,Jan,Inactive,United States,50,45-50,Female
+1226,Premium,15,6/29/2022,Jun,3/7/2023,Mar,Inactive,United States,38,35-40,Male
+1227,Basic,15,6/27/2022,Jun,4/7/2023,Apr,Inactive,Canada,36,35-40,Female
+1228,Standard,15,6/26/2022,Jun,3/7/2023,Mar,Inactive,United Kingdom,38,35-40,Female
+1229,Premium,12,6/24/2022,Jun,1/7/2023,Jan,Inactive,Australia,49,45-50,Male
+1230,Basic,12,6/25/2022,Jun,3/7/2023,Mar,Inactive,Germany,40,35-40,Female
+1231,Premium,13,6/24/2022,Jun,3/7/2023,Mar,Inactive,France,51,50-55,Male
+1232,Basic,11,6/22/2022,Jun,3/7/2023,Mar,Inactive,Brazil,42,40-45,Female
+1233,Standard,13,6/23/2022,Jun,3/7/2023,Mar,Inactive,Mexico,41,40-45,Female
+1234,Standard,12,6/25/2022,Jun,3/7/2023,Mar,Inactive,Spain,48,45-50,Female
+1235,Basic,13,6/29/2022,Jun,3/7/2023,Mar,Inactive,Italy,39,35-40,Female
+1236,Premium,15,1/7/2022,Jan,2/7/2023,Feb,Inactive,Spain,35,30-35,Female
+1237,Basic,11,5/7/2022,May,2/7/2023,Feb,Inactive,Spain,32,30-35,Female
+1238,Standard,12,12/7/2022,Dec,4/7/2023,Apr,Inactive,United States,28,25-30,Female
+1239,Premium,11,7/16/2022,Jul,2/7/2023,Feb,Inactive,Canada,27,25-30,Male
+1240,Basic,11,7/20/2022,Jul,4/7/2023,Apr,Inactive,United States,30,25-30,Female
+1241,Premium,14,7/28/2022,Jul,2/7/2023,Feb,Inactive,United States,47,45-50,Female
+1242,Basic,14,7/31/2022,Jul,5/7/2023,May,Inactive,Canada,49,45-50,Female
+1243,Standard,14,8/14/2022,Aug,2/7/2023,Feb,Inactive,United Kingdom,43,40-45,Female
+1244,Standard,12,8/16/2022,Aug,4/7/2023,Apr,Inactive,Australia,42,40-45,Male
+1245,Basic,14,8/18/2022,Aug,3/7/2023,Mar,Inactive,Germany,29,25-30,Female
+1246,Premium,15,8/27/2022,Aug,5/7/2023,May,Inactive,France,35,30-35,Female
+1247,Basic,13,1/9/2022,Jan,2/7/2023,Feb,Inactive,Brazil,41,40-45,Female
+1248,Standard,13,3/9/2022,Mar,5/7/2023,May,Inactive,Mexico,47,45-50,Female
+1249,Premium,14,7/9/2022,Jul,3/7/2023,Mar,Inactive,Spain,28,25-30,Female
+1250,Basic,10,8/9/2022,Aug,4/7/2023,Apr,Inactive,Italy,44,40-45,Female
+1251,Premium,10,9/14/2022,Sep,3/7/2023,Mar,Inactive,Spain,28,25-30,Female
+1252,Basic,11,9/15/2022,Sep,5/7/2023,May,Inactive,Spain,51,50-55,Male
+1253,Standard,11,9/27/2022,Sep,2/7/2023,Feb,Inactive,United States,48,45-50,Male
+1254,Standard,14,9/30/2022,Sep,4/7/2023,Apr,Inactive,Canada,49,45-50,Female
+1255,Basic,10,2/10/2022,Feb,4/7/2023,Apr,Inactive,United States,50,45-50,Male
+1256,Premium,13,3/10/2022,Mar,5/7/2023,May,Inactive,United States,43,40-45,Male
+1257,Basic,14,5/10/2022,May,1/7/2023,Jan,Inactive,Canada,32,30-35,Male
+1258,Standard,15,10/10/2022,Oct,3/7/2023,Mar,Inactive,United Kingdom,42,40-45,Female
+1259,Premium,13,11/10/2022,Nov,3/7/2023,Mar,Inactive,Australia,41,40-45,Female
+1260,Basic,11,10/13/2022,Oct,4/7/2023,Apr,Inactive,Germany,31,30-35,Male
+1261,Premium,11,10/14/2022,Oct,2/7/2023,Feb,Inactive,France,37,35-40,Female
+1262,Basic,12,10/16/2022,Oct,3/7/2023,Mar,Inactive,Brazil,46,45-50,Male
+1263,Standard,14,10/18/2022,Oct,3/7/2023,Mar,Inactive,Mexico,30,25-30,Female
+1264,Standard,11,10/22/2022,Oct,5/7/2023,May,Inactive,Spain,30,25-30,Female
+1265,Basic,10,10/24/2022,Oct,3/7/2023,Mar,Inactive,Italy,34,30-35,Female
+1266,Premium,15,10/25/2022,Oct,4/7/2023,Apr,Inactive,Spain,47,45-50,Female
+1267,Basic,14,10/29/2022,Oct,3/7/2023,Mar,Inactive,Spain,41,40-45,Male
+1268,Standard,13,2/11/2022,Feb,4/7/2023,Apr,Inactive,United States,42,40-45,Female
+1269,Premium,12,3/11/2022,Mar,5/7/2023,May,Inactive,Canada,48,45-50,Female
+1270,Basic,11,4/11/2022,Apr,6/7/2023,Jun,Inactive,United States,30,25-30,Female
+1271,Basic,13,5/11/2022,May,3/7/2023,Mar,Inactive,United States,51,50-55,Male
+1272,Basic,13,5/11/2022,May,4/7/2023,Apr,Inactive,Canada,27,25-30,Male
+1273,Standard,13,10/31/2022,Oct,4/7/2023,Apr,Inactive,United Kingdom,38,35-40,Male
+1274,Premium,12,10/27/2022,Oct,5/7/2023,May,Inactive,Australia,29,25-30,Female
+1275,Basic,11,10/25/2022,Oct,3/7/2023,Mar,Inactive,Germany,40,35-40,Female
+1276,Basic,12,10/26/2022,Oct,4/7/2023,Apr,Inactive,France,31,30-35,Female
+1277,Premium,11,9/30/2022,Sep,4/7/2023,Apr,Inactive,Brazil,30,25-30,Male
+1278,Standard,13,9/27/2022,Sep,5/7/2023,May,Inactive,Mexico,44,40-45,Male
+1279,Standard,14,12/9/2022,Dec,3/7/2023,Mar,Inactive,Spain,34,30-35,Female
+1280,Basic,14,8/25/2022,Aug,4/7/2023,Apr,Inactive,Italy,28,25-30,Female
+1281,Premium,13,8/25/2022,Aug,4/7/2023,Apr,Inactive,Spain,41,40-45,Female
+1282,Standard,12,8/22/2022,Aug,5/7/2023,May,Inactive,Spain,43,40-45,Male
+1283,Basic,10,8/17/2022,Aug,2/7/2023,Feb,Inactive,United States,33,30-35,Male
+1284,Standard,12,9/8/2022,Sep,3/7/2023,Mar,Inactive,Canada,32,30-35,Female
+1285,Premium,10,6/8/2022,Jun,4/7/2023,Apr,Inactive,United States,39,35-40,Male
+1286,Basic,15,7/17/2022,Jul,4/7/2023,Apr,Inactive,United States,37,35-40,Male
+1287,Premium,11,12/7/2022,Dec,2/7/2023,Feb,Inactive,Canada,46,45-50,Male
+1288,Standard,11,12/7/2022,Dec,3/7/2023,Mar,Inactive,United Kingdom,39,35-40,Male
+1289,Basic,12,2/7/2022,Feb,4/7/2023,Apr,Inactive,Australia,46,45-50,Female
+1290,Standard,13,2/7/2022,Feb,3/7/2023,Mar,Inactive,Germany,43,40-45,Male
+1291,Premium,10,6/30/2022,Jun,2/7/2023,Feb,Inactive,France,32,30-35,Female
+1292,Basic,12,6/30/2022,Jun,4/7/2023,Apr,Inactive,Brazil,30,25-30,Female
+1293,Standard,11,1/7/2022,Jan,4/7/2023,Apr,Inactive,Mexico,40,35-40,Female
+1294,Premium,11,6/30/2022,Jun,4/7/2023,Apr,Inactive,Spain,51,50-55,Female
+1295,Basic,10,6/29/2022,Jun,2/7/2023,Feb,Inactive,Italy,40,35-40,Female
+1296,Premium,12,6/30/2022,Jun,3/7/2023,Mar,Inactive,Spain,28,25-30,Male
+1297,Basic,14,6/29/2022,Jun,4/7/2023,Apr,Inactive,Spain,51,50-55,Female
+1298,Standard,14,6/26/2022,Jun,3/7/2023,Mar,Inactive,United States,27,25-30,Male
+1299,Standard,14,6/27/2022,Jun,1/7/2023,Jan,Inactive,Canada,35,30-35,Male
+1300,Basic,11,6/24/2022,Jun,3/7/2023,Mar,Inactive,United States,37,35-40,Male
+1301,Premium,14,6/23/2022,Jun,4/7/2023,Apr,Inactive,United States,51,50-55,Male
+1302,Basic,11,6/23/2022,Jun,3/7/2023,Mar,Inactive,Canada,40,35-40,Male
+1303,Standard,14,6/25/2022,Jun,3/7/2023,Mar,Inactive,United Kingdom,38,35-40,Male
+1304,Premium,11,6/28/2022,Jun,3/7/2023,Mar,Inactive,Australia,48,45-50,Female
+1305,Basic,11,1/7/2022,Jan,3/7/2023,Mar,Inactive,Germany,49,45-50,Male
+1306,Premium,15,2/7/2022,Feb,5/7/2023,May,Inactive,France,33,30-35,Female
+1307,Basic,10,6/7/2022,Jun,3/7/2023,Mar,Inactive,Brazil,34,30-35,Female
+1308,Standard,15,12/7/2022,Dec,6/7/2023,Jun,Inactive,Mexico,39,35-40,Male
+1309,Standard,13,7/17/2022,Jul,2/7/2023,Feb,Inactive,Spain,37,35-40,Female
+1310,Basic,15,7/23/2022,Jul,5/7/2023,May,Inactive,Italy,44,40-45,Male
+1311,Premium,15,7/29/2022,Jul,4/7/2023,Apr,Inactive,Spain,35,30-35,Male
+1312,Basic,11,6/8/2022,Jun,6/7/2023,Jun,Inactive,Spain,31,30-35,Female
+1313,Standard,10,9/8/2022,Sep,2/7/2023,Feb,Inactive,United States,39,35-40,Male
+1314,Premium,13,8/14/2022,Aug,5/7/2023,May,Inactive,Canada,38,35-40,Male
+1315,Basic,11,8/20/2022,Aug,3/7/2023,Mar,Inactive,United States,42,40-45,Male
+1316,Premium,12,8/28/2022,Aug,5/7/2023,May,Inactive,United States,48,45-50,Female
+1317,Basic,11,2/9/2022,Feb,3/7/2023,Mar,Inactive,Canada,31,30-35,Male
+1318,Standard,11,4/9/2022,Apr,5/7/2023,May,Inactive,United Kingdom,42,40-45,Male
+1319,Standard,14,6/9/2022,Jun,3/7/2023,Mar,Inactive,Australia,35,30-35,Male
+1320,Basic,10,9/14/2022,Sep,5/7/2023,May,Inactive,Germany,39,35-40,Male
+1321,Premium,13,9/15/2022,Sep,4/7/2023,Apr,Inactive,France,50,45-50,Female
+1322,Basic,11,9/16/2022,Sep,6/7/2023,Jun,Inactive,Brazil,40,35-40,Male
+1323,Standard,10,9/28/2022,Sep,2/7/2023,Feb,Inactive,Mexico,29,25-30,Male
+1324,Premium,10,2/10/2022,Feb,4/7/2023,Apr,Inactive,Spain,48,45-50,Female
+1325,Basic,15,3/10/2022,Mar,4/7/2023,Apr,Inactive,Italy,34,30-35,Male
+1326,Premium,10,5/10/2022,May,5/7/2023,May,Inactive,Spain,48,45-50,Male
+1327,Basic,12,7/10/2022,Jul,2/7/2023,Feb,Inactive,Spain,48,45-50,Male
+1328,Standard,12,9/10/2022,Sep,4/7/2023,Apr,Inactive,United States,35,30-35,Female
+1329,Standard,11,11/10/2022,Nov,4/7/2023,Apr,Inactive,Canada,29,25-30,Male
+1330,Basic,14,10/13/2022,Oct,5/7/2023,May,Inactive,United States,47,45-50,Female
+1331,Premium,12,10/15/2022,Oct,2/7/2023,Feb,Inactive,United States,36,35-40,Male
+1332,Basic,12,10/17/2022,Oct,4/7/2023,Apr,Inactive,Canada,40,35-40,Female
+1333,Standard,14,10/21/2022,Oct,4/7/2023,Apr,Inactive,United Kingdom,51,50-55,Male
+1334,Premium,12,10/23/2022,Oct,5/7/2023,May,Inactive,Australia,37,35-40,Male
+1335,Basic,12,10/24/2022,Oct,6/7/2023,Jun,Inactive,Germany,36,35-40,Male
+1336,Premium,12,10/28/2022,Oct,4/7/2023,Apr,Inactive,France,45,40-45,Male
+1337,Basic,11,10/31/2022,Oct,4/7/2023,Apr,Inactive,Brazil,31,30-35,Female
+1338,Standard,14,3/11/2022,Mar,4/7/2023,Apr,Inactive,Mexico,45,40-45,Female
+1339,Standard,11,4/11/2022,Apr,5/7/2023,May,Inactive,Spain,30,25-30,Male
+1340,Basic,14,5/11/2022,May,6/7/2023,Jun,Inactive,Italy,40,35-40,Female
+1341,Premium,14,6/11/2022,Jun,4/7/2023,Apr,Inactive,Spain,44,40-45,Female
+1342,Basic,12,1/11/2022,Jan,5/7/2023,May,Inactive,Spain,36,35-40,Female
+1343,Standard,10,1/11/2022,Jan,5/7/2023,May,Inactive,United States,36,35-40,Male
+1344,Premium,11,10/29/2022,Oct,5/7/2023,May,Inactive,Canada,32,30-35,Female
+1345,Basic,10,10/27/2022,Oct,3/7/2023,Mar,Inactive,United States,46,45-50,Male
+1346,Basic,12,10/16/2022,Oct,4/7/2023,Apr,Inactive,United States,39,35-40,Female
+1347,Basic,13,10/14/2022,Oct,4/7/2023,Apr,Inactive,Canada,30,25-30,Male
+1348,Standard,13,9/14/2022,Sep,5/7/2023,May,Inactive,United Kingdom,34,30-35,Male
+1349,Premium,14,3/9/2022,Mar,3/7/2023,Mar,Inactive,Australia,28,25-30,Male
+1350,Basic,13,8/27/2022,Aug,4/7/2023,Apr,Inactive,Germany,39,35-40,Female
+1351,Basic,12,8/27/2022,Aug,5/7/2023,May,Inactive,France,34,30-35,Female
+1352,Premium,13,8/21/2022,Aug,5/7/2023,May,Inactive,Brazil,42,40-45,Male
+1353,Standard,13,8/13/2022,Aug,2/7/2023,Feb,Inactive,Mexico,29,25-30,Female
+1354,Standard,13,12/8/2022,Dec,4/7/2023,Apr,Inactive,Spain,29,25-30,Male
+1355,Basic,12,7/24/2022,Jul,4/7/2023,Apr,Inactive,Italy,30,25-30,Male
+1356,Premium,11,7/24/2022,Jul,4/7/2023,Apr,Inactive,Spain,51,50-55,Male
+1357,Standard,11,12/7/2022,Dec,2/7/2023,Feb,Inactive,Spain,51,50-55,Male
+1358,Basic,13,9/7/2022,Sep,4/7/2023,Apr,Inactive,United States,44,40-45,Male
+1359,Standard,13,9/7/2022,Sep,5/7/2023,May,Inactive,Canada,35,30-35,Male
+1360,Premium,10,10/7/2022,Oct,4/7/2023,Apr,Inactive,United States,39,35-40,Male
+1361,Basic,12,2/7/2022,Feb,2/7/2023,Feb,Inactive,United States,41,40-45,Female
+1362,Premium,13,2/7/2022,Feb,4/7/2023,Apr,Inactive,Canada,44,40-45,Female
+1363,Standard,11,1/7/2022,Jan,5/7/2023,May,Inactive,United Kingdom,29,25-30,Male
+1364,Basic,14,1/7/2022,Jan,4/7/2023,Apr,Inactive,Australia,47,45-50,Male
+1365,Standard,10,6/30/2022,Jun,2/7/2023,Feb,Inactive,Germany,28,25-30,Female
+1366,Premium,15,6/29/2022,Jun,4/7/2023,Apr,Inactive,France,45,40-45,Male
+1367,Basic,11,6/26/2022,Jun,4/7/2023,Apr,Inactive,Brazil,28,25-30,Female
+1368,Standard,14,6/27/2022,Jun,3/7/2023,Mar,Inactive,Mexico,31,30-35,Female
+1369,Premium,13,6/25/2022,Jun,3/7/2023,Mar,Inactive,Spain,47,45-50,Female
+1370,Basic,13,6/23/2022,Jun,4/7/2023,Apr,Inactive,Italy,42,40-45,Female
+1371,Premium,14,6/24/2022,Jun,4/7/2023,Apr,Inactive,Spain,34,30-35,Female
+1372,Basic,12,6/25/2022,Jun,5/7/2023,May,Inactive,Spain,40,35-40,Female
+1373,Standard,13,6/26/2022,Jun,4/7/2023,Apr,Inactive,United States,42,40-45,Female
+1374,Standard,14,6/27/2022,Jun,7/7/2023,Jul,Inactive,Canada,33,30-35,Male
+1375,Basic,12,6/30/2022,Jun,3/7/2023,Mar,Inactive,United States,30,25-30,Male
+1376,Premium,14,3/7/2022,Mar,5/7/2023,May,Inactive,United States,29,25-30,Male
+1377,Basic,13,9/7/2022,Sep,4/7/2023,Apr,Inactive,Canada,31,30-35,Male
+1378,Standard,14,7/17/2022,Jul,6/7/2023,Jun,Inactive,United Kingdom,46,45-50,Female
+1379,Premium,11,7/22/2022,Jul,3/7/2023,Mar,Inactive,Australia,46,45-50,Female
+1380,Basic,11,7/28/2022,Jul,5/7/2023,May,Inactive,Germany,47,45-50,Male
+1381,Premium,12,4/8/2022,Apr,4/7/2023,Apr,Inactive,France,48,45-50,Female
+1382,Basic,13,8/8/2022,Aug,6/7/2023,Jun,Inactive,Brazil,32,30-35,Female
+1383,Standard,13,8/13/2022,Aug,4/7/2023,Apr,Inactive,Mexico,51,50-55,Female
+1384,Standard,13,8/17/2022,Aug,5/7/2023,May,Inactive,Spain,33,30-35,Male
+1385,Basic,15,8/20/2022,Aug,4/7/2023,Apr,Inactive,Italy,43,40-45,Male
+1386,Premium,14,8/28/2022,Aug,6/7/2023,Jun,Inactive,Spain,43,40-45,Female
+1387,Basic,13,8/29/2022,Aug,4/7/2023,Apr,Inactive,Spain,42,40-45,Male
+1388,Standard,15,3/9/2022,Mar,5/7/2023,May,Inactive,United States,30,25-30,Male
+1389,Premium,13,10/9/2022,Oct,3/7/2023,Mar,Inactive,Canada,50,45-50,Male
+1390,Basic,11,9/13/2022,Sep,5/7/2023,May,Inactive,United States,51,50-55,Female
+1391,Premium,14,9/15/2022,Sep,4/7/2023,Apr,Inactive,United States,36,35-40,Female
+1392,Basic,13,9/25/2022,Sep,6/7/2023,Jun,Inactive,Canada,41,40-45,Female
+1393,Standard,10,1/10/2022,Jan,3/7/2023,Mar,Inactive,United Kingdom,37,35-40,Male
+1394,Standard,11,2/10/2022,Feb,4/7/2023,Apr,Inactive,Australia,30,25-30,Female
+1395,Basic,11,5/10/2022,May,4/7/2023,Apr,Inactive,Germany,50,45-50,Female
+1396,Premium,14,6/10/2022,Jun,5/7/2023,May,Inactive,France,41,40-45,Female
+1397,Basic,14,7/10/2022,Jul,3/7/2023,Mar,Inactive,Brazil,29,25-30,Female
+1398,Standard,12,10/10/2022,Oct,4/7/2023,Apr,Inactive,Mexico,43,40-45,Male
+1399,Premium,12,12/10/2022,Dec,4/7/2023,Apr,Inactive,Spain,31,30-35,Female
+1400,Basic,14,10/15/2022,Oct,6/7/2023,Jun,Inactive,Italy,40,35-40,Male
+1401,Premium,12,10/17/2022,Oct,5/7/2023,May,Inactive,Spain,35,30-35,Female
+1402,Basic,13,10/21/2022,Oct,4/7/2023,Apr,Inactive,Spain,39,35-40,Female
+1403,Standard,14,10/23/2022,Oct,5/7/2023,May,Inactive,United States,48,45-50,Male
+1404,Standard,14,10/24/2022,Oct,5/7/2023,May,Inactive,Canada,42,40-45,Female
+1405,Basic,11,10/27/2022,Oct,6/7/2023,Jun,Inactive,United States,48,45-50,Female
+1406,Premium,10,10/30/2022,Oct,7/7/2023,Jul,Inactive,United States,33,30-35,Female
+1407,Basic,14,10/31/2022,Oct,4/7/2023,Apr,Inactive,Canada,45,40-45,Female
+1408,Standard,14,3/11/2022,Mar,4/7/2023,Apr,Inactive,United Kingdom,40,35-40,Female
+1409,Premium,15,5/11/2022,May,6/7/2023,Jun,Inactive,Australia,38,35-40,Male
+1410,Basic,14,6/11/2022,Jun,6/7/2023,Jun,Inactive,Germany,31,30-35,Female
+1411,Premium,14,1/11/2022,Jan,4/7/2023,Apr,Inactive,France,33,30-35,Female
+1412,Basic,15,2/11/2022,Feb,5/7/2023,May,Inactive,Brazil,27,25-30,Male
+1413,Standard,13,2/11/2022,Feb,5/7/2023,May,Inactive,Mexico,47,45-50,Male
+1414,Standard,15,1/11/2022,Jan,6/7/2023,Jun,Inactive,Spain,41,40-45,Male
+1415,Basic,11,10/17/2022,Oct,3/7/2023,Mar,Inactive,Italy,32,30-35,Female
+1416,Premium,11,10/18/2022,Oct,5/7/2023,May,Inactive,Spain,31,30-35,Male
+1417,Basic,13,9/28/2022,Sep,5/7/2023,May,Inactive,Spain,43,40-45,Female
+1418,Standard,15,9/23/2022,Sep,5/7/2023,May,Inactive,United States,42,40-45,Female
+1419,Premium,15,9/22/2022,Sep,3/7/2023,Mar,Inactive,Canada,46,45-50,Male
+1420,Basic,12,8/31/2022,Aug,4/7/2023,Apr,Inactive,United States,27,25-30,Female
+1421,Basic,15,8/28/2022,Aug,5/7/2023,May,Inactive,United States,48,45-50,Female
+1422,Basic,15,8/27/2022,Aug,5/7/2023,May,Inactive,Canada,49,45-50,Male
+1423,Standard,12,8/17/2022,Aug,3/7/2023,Mar,Inactive,United Kingdom,43,40-45,Male
+1424,Premium,14,9/8/2022,Sep,4/7/2023,Apr,Inactive,Australia,38,35-40,Male
+1425,Basic,13,7/24/2022,Jul,5/7/2023,May,Inactive,Germany,37,35-40,Male
+1426,Basic,12,7/16/2022,Jul,4/7/2023,Apr,Inactive,France,39,35-40,Female
+1427,Premium,10,7/15/2022,Jul,3/7/2023,Mar,Inactive,Brazil,40,35-40,Male
+1428,Standard,12,12/7/2022,Dec,5/7/2023,May,Inactive,Mexico,40,35-40,Male
+1429,Standard,12,12/7/2022,Dec,6/7/2023,Jun,Inactive,Spain,48,45-50,Male
+1430,Basic,13,9/7/2022,Sep,5/7/2023,May,Inactive,Italy,43,40-45,Female
+1431,Premium,10,5/7/2022,May,2/7/2023,Feb,Inactive,Spain,46,45-50,Male
+1432,Standard,11,5/7/2022,May,5/7/2023,May,Inactive,Spain,43,40-45,Male
+1433,Basic,10,3/7/2022,Mar,5/7/2023,May,Inactive,United States,30,25-30,Female
+1434,Standard,13,1/7/2022,Jan,4/7/2023,Apr,Inactive,Canada,51,50-55,Female
+1435,Premium,12,6/30/2022,Jun,3/7/2023,Mar,Inactive,United States,30,25-30,Male
+1436,Basic,14,6/27/2022,Jun,4/7/2023,Apr,Inactive,United States,47,45-50,Female
+1437,Premium,13,6/28/2022,Jun,4/7/2023,Apr,Inactive,Canada,41,40-45,Male
+1438,Standard,10,6/28/2022,Jun,5/7/2023,May,Inactive,United Kingdom,45,40-45,Female
+1439,Basic,14,6/24/2022,Jun,4/7/2023,Apr,Inactive,Australia,47,45-50,Female
+1440,Standard,11,6/24/2022,Jun,5/7/2023,May,Inactive,Germany,48,45-50,Female
+1441,Premium,11,6/25/2022,Jun,4/7/2023,Apr,Inactive,France,51,50-55,Female
+1442,Basic,10,6/26/2022,Jun,6/7/2023,Jun,Inactive,Brazil,29,25-30,Male
+1443,Standard,13,6/27/2022,Jun,5/7/2023,May,Inactive,Mexico,43,40-45,Female
+1444,Premium,13,6/29/2022,Jun,7/7/2023,Jul,Inactive,Spain,49,45-50,Female
+1445,Basic,11,2/7/2022,Feb,3/7/2023,Mar,Inactive,Italy,37,35-40,Male
+1446,Premium,13,7/7/2022,Jul,5/7/2023,May,Inactive,Spain,48,45-50,Male
+1447,Basic,11,7/13/2022,Jul,5/7/2023,May,Inactive,Spain,36,35-40,Female
+1448,Standard,14,7/18/2022,Jul,7/7/2023,Jul,Inactive,United States,33,30-35,Female
+1449,Standard,14,7/24/2022,Jul,4/7/2023,Apr,Inactive,Canada,38,35-40,Female
+1450,Basic,12,7/31/2022,Jul,6/7/2023,Jun,Inactive,United States,42,40-45,Female
+1451,Premium,15,1/8/2022,Jan,5/7/2023,May,Inactive,United States,30,25-30,Female
+1452,Basic,10,8/8/2022,Aug,6/7/2023,Jun,Inactive,Canada,39,35-40,Male
+1453,Standard,14,8/13/2022,Aug,4/7/2023,Apr,Inactive,United Kingdom,36,35-40,Male
+1454,Premium,11,8/14/2022,Aug,6/7/2023,Jun,Inactive,Australia,27,25-30,Female
+1455,Basic,11,8/23/2022,Aug,4/7/2023,Apr,Inactive,Germany,49,45-50,Male
+1456,Premium,14,8/27/2022,Aug,6/7/2023,Jun,Inactive,France,31,30-35,Male
+1457,Basic,10,8/31/2022,Aug,5/7/2023,May,Inactive,Brazil,36,35-40,Male
+1458,Standard,14,9/9/2022,Sep,6/7/2023,Jun,Inactive,Mexico,41,40-45,Female
+1459,Standard,10,10/9/2022,Oct,4/7/2023,Apr,Inactive,Spain,45,40-45,Female
+1460,Basic,14,12/9/2022,Dec,5/7/2023,May,Inactive,Italy,45,40-45,Male
+1461,Premium,11,9/17/2022,Sep,5/7/2023,May,Inactive,Spain,32,30-35,Male
+1462,Basic,13,9/21/2022,Sep,6/7/2023,Jun,Inactive,Spain,41,40-45,Female
+1463,Standard,11,2/10/2022,Feb,3/7/2023,Mar,Inactive,United States,37,35-40,Male
+1464,Premium,10,4/10/2022,Apr,5/7/2023,May,Inactive,Canada,27,25-30,Male
+1465,Basic,14,6/10/2022,Jun,4/7/2023,Apr,Inactive,United States,41,40-45,Male
+1466,Premium,13,7/10/2022,Jul,6/7/2023,Jun,Inactive,United States,30,25-30,Female
+1467,Basic,12,8/10/2022,Aug,4/7/2023,Apr,Inactive,Canada,43,40-45,Male
+1468,Standard,12,11/10/2022,Nov,5/7/2023,May,Inactive,United Kingdom,51,50-55,Male
+1469,Standard,12,10/13/2022,Oct,4/7/2023,Apr,Inactive,Australia,46,45-50,Female
+1470,Basic,10,10/15/2022,Oct,6/7/2023,Jun,Inactive,Germany,27,25-30,Female
+1471,Premium,10,10/19/2022,Oct,6/7/2023,Jun,Inactive,France,51,50-55,Female
+1472,Basic,14,10/21/2022,Oct,6/7/2023,Jun,Inactive,Brazil,28,25-30,Female
+1473,Standard,14,10/23/2022,Oct,5/7/2023,May,Inactive,Mexico,33,30-35,Male
+1474,Premium,12,10/26/2022,Oct,5/7/2023,May,Inactive,Spain,31,30-35,Female
+1475,Basic,13,10/27/2022,Oct,6/7/2023,Jun,Inactive,Italy,47,45-50,Male
+1476,Premium,10,10/31/2022,Oct,7/7/2023,Jul,Inactive,Spain,45,40-45,Female
+1477,Basic,13,3/11/2022,Mar,5/7/2023,May,Inactive,Spain,42,40-45,Male
+1478,Standard,15,5/11/2022,May,6/7/2023,Jun,Inactive,United States,47,45-50,Female
+1479,Standard,12,6/11/2022,Jun,6/7/2023,Jun,Inactive,Canada,29,25-30,Female
+1480,Basic,13,3/11/2022,Mar,7/7/2023,Jul,Inactive,United States,49,45-50,Female
+1481,Premium,14,3/11/2022,Mar,4/7/2023,Apr,Inactive,United States,41,40-45,Female
+1482,Basic,13,4/11/2022,Apr,5/7/2023,May,Inactive,Canada,45,40-45,Male
+1483,Standard,14,2/11/2022,Feb,6/7/2023,Jun,Inactive,United Kingdom,49,45-50,Male
+1484,Premium,13,10/27/2022,Oct,6/7/2023,Jun,Inactive,Australia,41,40-45,Male
+1485,Basic,15,10/27/2022,Oct,4/7/2023,Apr,Inactive,Germany,37,35-40,Male
+1486,Premium,14,10/15/2022,Oct,5/7/2023,May,Inactive,France,31,30-35,Male
+1487,Basic,13,3/10/2022,Mar,5/7/2023,May,Inactive,Brazil,29,25-30,Male
+1488,Standard,10,9/25/2022,Sep,5/7/2023,May,Inactive,Mexico,51,50-55,Female
+1489,Standard,12,9/16/2022,Sep,3/7/2023,Mar,Inactive,Spain,33,30-35,Male
+1490,Basic,12,9/14/2022,Sep,4/7/2023,Apr,Inactive,Italy,31,30-35,Male
+1491,Premium,11,11/9/2022,Nov,5/7/2023,May,Inactive,Spain,42,40-45,Female
+1492,Basic,15,9/9/2022,Sep,5/7/2023,May,Inactive,Spain,48,45-50,Female
+1493,Standard,13,12/8/2022,Dec,3/7/2023,Mar,Inactive,United States,37,35-40,Female
+1494,Premium,13,4/8/2022,Apr,6/7/2023,Jun,Inactive,Canada,51,50-55,Female
+1495,Basic,12,4/8/2022,Apr,6/7/2023,Jun,Inactive,United States,29,25-30,Female
+1496,Basic,13,7/31/2022,Jul,5/7/2023,May,Inactive,United States,46,45-50,Male
+1497,Basic,15,7/29/2022,Jul,3/7/2023,Mar,Inactive,Canada,35,30-35,Male
+1498,Standard,15,7/14/2022,Jul,5/7/2023,May,Inactive,United Kingdom,44,40-45,Female
+1499,Premium,12,7/13/2022,Jul,6/7/2023,Jun,Inactive,Australia,36,35-40,Male
+1500,Basic,14,11/7/2022,Nov,5/7/2023,May,Inactive,Germany,38,35-40,Female
+1501,Basic,12,12/7/2022,Dec,3/7/2023,Mar,Inactive,France,36,35-40,Male
+1502,Premium,14,11/7/2022,Nov,5/7/2023,May,Inactive,Brazil,40,35-40,Female
+1503,Standard,10,2/7/2022,Feb,5/7/2023,May,Inactive,Mexico,29,25-30,Male
+1504,Standard,11,6/30/2022,Jun,6/7/2023,Jun,Inactive,Spain,32,30-35,Male
+1505,Basic,12,6/30/2022,Jun,5/7/2023,May,Inactive,Italy,30,25-30,Male
+1506,Premium,10,6/29/2022,Jun,5/7/2023,May,Inactive,Spain,47,45-50,Male
+1507,Standard,15,6/30/2022,Jun,4/7/2023,Apr,Inactive,Spain,28,25-30,Female
+1508,Basic,11,6/24/2022,Jun,5/7/2023,May,Inactive,United States,49,45-50,Male
+1509,Standard,12,6/25/2022,Jun,4/7/2023,Apr,Inactive,Canada,50,45-50,Male
+1510,Premium,11,6/25/2022,Jun,7/7/2023,Jul,Inactive,United States,33,30-35,Male
+1511,Basic,13,6/26/2022,Jun,4/7/2023,Apr,Inactive,United States,50,45-50,Male
+1512,Premium,10,6/27/2022,Jun,6/7/2023,Jun,Inactive,Canada,28,25-30,Female
+1513,Standard,12,6/29/2022,Jun,6/7/2023,Jun,Inactive,United Kingdom,41,40-45,Male
+1514,Basic,12,1/7/2022,Jan,7/7/2023,Jul,Inactive,Australia,30,25-30,Female
+1515,Standard,10,3/7/2022,Mar,4/7/2023,Apr,Inactive,Germany,32,30-35,Male
+1516,Premium,15,12/7/2022,Dec,7/7/2023,Jul,Inactive,France,50,45-50,Male
+1517,Basic,11,7/15/2022,Jul,5/7/2023,May,Inactive,Brazil,28,25-30,Female
+1518,Standard,13,7/19/2022,Jul,7/7/2023,Jul,Inactive,Mexico,45,40-45,Male
+1519,Premium,14,7/27/2022,Jul,5/7/2023,May,Inactive,Spain,31,30-35,Male
+1520,Basic,11,7/29/2022,Jul,6/7/2023,Jun,Inactive,Italy,27,25-30,Female
+1521,Premium,11,6/8/2022,Jun,5/7/2023,May,Inactive,Spain,49,45-50,Male
+1522,Basic,10,8/13/2022,Aug,6/7/2023,Jun,Inactive,Spain,32,30-35,Female
+1523,Standard,13,8/14/2022,Aug,5/7/2023,May,Inactive,United States,38,35-40,Male
+1524,Standard,11,8/20/2022,Aug,7/7/2023,Jul,Inactive,Canada,39,35-40,Male
+1525,Basic,14,8/24/2022,Aug,4/7/2023,Apr,Inactive,United States,50,45-50,Female
+1526,Premium,10,8/28/2022,Aug,6/7/2023,Jun,Inactive,United States,51,50-55,Male
+1527,Basic,15,5/9/2022,May,5/7/2023,May,Inactive,Canada,32,30-35,Female
+1528,Standard,12,10/9/2022,Oct,7/7/2023,Jul,Inactive,United Kingdom,45,40-45,Female
+1529,Premium,12,11/9/2022,Nov,4/7/2023,Apr,Inactive,Australia,31,30-35,Female
+1530,Basic,12,9/14/2022,Sep,6/7/2023,Jun,Inactive,Germany,44,40-45,Male
+1531,Premium,12,9/21/2022,Sep,5/7/2023,May,Inactive,France,30,25-30,Female
+1532,Basic,13,9/26/2022,Sep,7/7/2023,Jul,Inactive,Brazil,44,40-45,Female
+1533,Standard,10,9/30/2022,Sep,3/7/2023,Mar,Inactive,Mexico,37,35-40,Male
+1534,Standard,14,2/10/2022,Feb,6/7/2023,Jun,Inactive,Spain,30,25-30,Female
+1535,Basic,12,6/10/2022,Jun,5/7/2023,May,Inactive,Italy,31,30-35,Female
+1536,Premium,15,7/10/2022,Jul,6/7/2023,Jun,Inactive,Spain,31,30-35,Female
+1537,Basic,15,9/10/2022,Sep,6/7/2023,Jun,Inactive,Spain,44,40-45,Male
+1538,Standard,10,11/10/2022,Nov,5/7/2023,May,Inactive,United States,44,40-45,Female
+1539,Premium,14,12/10/2022,Dec,5/7/2023,May,Inactive,Canada,34,30-35,Male
+1540,Basic,12,10/16/2022,Oct,6/7/2023,Jun,Inactive,United States,42,40-45,Male
+1541,Premium,15,10/17/2022,Oct,7/7/2023,Jul,Inactive,United States,33,30-35,Male
+1542,Basic,11,10/21/2022,Oct,7/7/2023,Jul,Inactive,Canada,35,30-35,Male
+1543,Standard,15,10/23/2022,Oct,6/7/2023,Jun,Inactive,United Kingdom,34,30-35,Female
+1544,Standard,14,10/25/2022,Oct,5/7/2023,May,Inactive,Australia,47,45-50,Male
+1545,Basic,13,10/27/2022,Oct,6/7/2023,Jun,Inactive,Germany,43,40-45,Female
+1546,Premium,13,10/29/2022,Oct,8/7/2023,Aug,Active,France,43,40-45,Male
+1547,Basic,13,1/11/2022,Jan,5/7/2023,May,Inactive,Brazil,35,30-35,Female
+1548,Standard,13,4/11/2022,Apr,6/7/2023,Jun,Inactive,Mexico,39,35-40,Male
+1549,Premium,10,4/11/2022,Apr,6/7/2023,Jun,Inactive,Spain,39,35-40,Male
+1550,Basic,11,4/11/2022,Apr,7/7/2023,Jul,Inactive,Italy,49,45-50,Female
+1551,Premium,14,5/11/2022,May,4/7/2023,Apr,Inactive,Spain,30,25-30,Male
+1552,Basic,12,2/11/2022,Feb,5/7/2023,May,Inactive,Spain,31,30-35,Female
+1553,Standard,12,3/11/2022,Mar,6/7/2023,Jun,Inactive,United States,39,35-40,Male
+1554,Standard,14,10/30/2022,Oct,6/7/2023,Jun,Inactive,Canada,30,25-30,Female
+1555,Basic,13,10/31/2022,Oct,4/7/2023,Apr,Inactive,United States,43,40-45,Female
+1556,Premium,10,10/14/2022,Oct,5/7/2023,May,Inactive,United States,29,25-30,Female
+1557,Basic,14,9/26/2022,Sep,5/7/2023,May,Inactive,Canada,46,45-50,Male
+1558,Standard,15,9/17/2022,Sep,6/7/2023,Jun,Inactive,United Kingdom,35,30-35,Male
+1559,Premium,12,9/16/2022,Sep,3/7/2023,Mar,Inactive,Australia,30,25-30,Male
+1560,Basic,12,12/9/2022,Dec,7/7/2023,Jul,Inactive,Germany,39,35-40,Female
+1561,Premium,14,12/9/2022,Dec,6/7/2023,Jun,Inactive,France,41,40-45,Male
+1562,Basic,12,8/29/2022,Aug,5/7/2023,May,Inactive,Brazil,27,25-30,Male
+1563,Standard,15,8/25/2022,Aug,3/7/2023,Mar,Inactive,Mexico,42,40-45,Male
+1564,Standard,11,8/15/2022,Aug,6/7/2023,Jun,Inactive,Spain,45,40-45,Female
+1565,Basic,10,11/8/2022,Nov,7/7/2023,Jul,Inactive,Italy,36,35-40,Female
+1566,Premium,12,10/8/2022,Oct,6/7/2023,Jun,Inactive,Spain,35,30-35,Male
+1567,Basic,13,7/26/2022,Jul,4/7/2023,Apr,Inactive,Spain,38,35-40,Male
+1568,Standard,14,7/19/2022,Jul,6/7/2023,Jun,Inactive,United States,41,40-45,Female
+1569,Premium,10,7/17/2022,Jul,6/7/2023,Jun,Inactive,Canada,43,40-45,Male
+1570,Basic,13,7/17/2022,Jul,6/7/2023,Jun,Inactive,United States,44,40-45,Male
+1571,Basic,10,7/17/2022,Jul,4/7/2023,Apr,Inactive,United States,35,30-35,Male
+1572,Basic,13,11/7/2022,Nov,6/7/2023,Jun,Inactive,Canada,39,35-40,Male
+1573,Standard,15,7/7/2022,Jul,5/7/2023,May,Inactive,United Kingdom,43,40-45,Male
+1574,Premium,10,7/7/2022,Jul,6/7/2023,Jun,Inactive,Australia,36,35-40,Male
+1575,Basic,11,8/7/2022,Aug,5/7/2023,May,Inactive,Germany,49,45-50,Female
+1576,Basic,12,6/7/2022,Jun,8/7/2023,Aug,Active,France,29,25-30,Female
+1577,Premium,10,3/7/2022,Mar,4/7/2023,Apr,Inactive,Brazil,45,40-45,Male
+1578,Standard,11,6/30/2022,Jun,6/7/2023,Jun,Inactive,Mexico,44,40-45,Female
+1579,Standard,11,6/27/2022,Jun,4/7/2023,Apr,Inactive,Spain,40,35-40,Female
+1580,Basic,15,6/26/2022,Jun,8/7/2023,Aug,Active,Italy,51,50-55,Female
+1581,Premium,15,6/27/2022,Jun,5/7/2023,May,Inactive,Spain,30,25-30,Female
+1582,Standard,14,6/28/2022,Jun,8/7/2023,Aug,Active,Spain,50,45-50,Male
+1583,Basic,12,6/30/2022,Jun,6/7/2023,Jun,Inactive,United States,39,35-40,Male
+1584,Standard,11,2/7/2022,Feb,7/7/2023,Jul,Inactive,Canada,51,50-55,Male
+1585,Premium,10,5/7/2022,May,5/7/2023,May,Inactive,United States,42,40-45,Male
+1586,Basic,12,11/7/2022,Nov,7/7/2023,Jul,Inactive,United States,34,30-35,Female
+1587,Premium,12,7/18/2022,Jul,6/7/2023,Jun,Inactive,Canada,28,25-30,Male
+1588,Standard,15,7/25/2022,Jul,7/7/2023,Jul,Inactive,United Kingdom,43,40-45,Male
+1589,Basic,11,7/28/2022,Jul,6/7/2023,Jun,Inactive,Australia,27,25-30,Female
+1590,Standard,13,5/8/2022,May,8/7/2023,Aug,Active,Germany,49,45-50,Female
+1591,Premium,14,9/8/2022,Sep,5/7/2023,May,Inactive,France,35,30-35,Female
+1592,Basic,10,8/14/2022,Aug,6/7/2023,Jun,Inactive,Brazil,34,30-35,Male
+1593,Standard,14,8/15/2022,Aug,5/7/2023,May,Inactive,Mexico,28,25-30,Male
+1594,Premium,15,8/16/2022,Aug,7/7/2023,Jul,Inactive,Spain,49,45-50,Female
+1595,Basic,12,8/25/2022,Aug,4/7/2023,Apr,Inactive,Italy,51,50-55,Female
+1596,Premium,13,8/27/2022,Aug,6/7/2023,Jun,Inactive,Spain,36,35-40,Male
+1597,Basic,13,6/9/2022,Jun,6/7/2023,Jun,Inactive,Spain,37,35-40,Male
+1598,Standard,11,8/9/2022,Aug,7/7/2023,Jul,Inactive,United States,48,45-50,Male
+1599,Standard,13,9/13/2022,Sep,4/7/2023,Apr,Inactive,Canada,45,40-45,Female
+1600,Basic,11,9/15/2022,Sep,6/7/2023,Jun,Inactive,United States,39,35-40,Male
+1601,Premium,14,9/19/2022,Sep,5/7/2023,May,Inactive,United States,39,35-40,Male
+1602,Basic,15,9/22/2022,Sep,7/7/2023,Jul,Inactive,Canada,46,45-50,Female
+1603,Standard,13,9/24/2022,Sep,6/7/2023,Jun,Inactive,United Kingdom,30,25-30,Female
+1604,Premium,10,9/30/2022,Sep,6/7/2023,Jun,Inactive,Australia,32,30-35,Female
+1605,Basic,11,3/10/2022,Mar,5/7/2023,May,Inactive,Germany,39,35-40,Male
+1606,Premium,15,8/10/2022,Aug,7/7/2023,Jul,Inactive,France,35,30-35,Female
+1607,Basic,15,9/10/2022,Sep,7/7/2023,Jul,Inactive,Brazil,41,40-45,Female
+1608,Standard,11,12/10/2022,Dec,8/7/2023,Aug,Active,Mexico,32,30-35,Female
+1609,Standard,14,10/15/2022,Oct,6/7/2023,Jun,Inactive,Spain,41,40-45,Female
+1610,Basic,14,10/17/2022,Oct,6/7/2023,Jun,Inactive,Italy,36,35-40,Female
+1611,Premium,15,10/19/2022,Oct,7/7/2023,Jul,Inactive,Spain,49,45-50,Male
+1612,Basic,11,10/22/2022,Oct,9/7/2023,Sep,Active,Spain,30,25-30,Female
+1613,Standard,15,10/23/2022,Oct,6/7/2023,Jun,Inactive,United States,40,35-40,Female
+1614,Premium,13,10/27/2022,Oct,7/7/2023,Jul,Inactive,Canada,46,45-50,Female
+1615,Basic,11,10/28/2022,Oct,6/7/2023,Jun,Inactive,United States,30,25-30,Female
+1616,Premium,10,1/11/2022,Jan,8/7/2023,Aug,Active,United States,48,45-50,Male
+1617,Basic,11,4/11/2022,Apr,5/7/2023,May,Inactive,Canada,50,45-50,Male
+1618,Standard,11,5/11/2022,May,6/7/2023,Jun,Inactive,United Kingdom,27,25-30,Male
+1619,Standard,14,4/11/2022,Apr,7/7/2023,Jul,Inactive,Australia,51,50-55,Female
+1620,Basic,11,5/11/2022,May,7/7/2023,Jul,Inactive,Germany,38,35-40,Male
+1621,Premium,10,4/11/2022,Apr,5/7/2023,May,Inactive,France,39,35-40,Male
+1622,Basic,12,5/11/2022,May,5/7/2023,May,Inactive,Brazil,45,40-45,Female
+1623,Standard,12,3/11/2022,Mar,6/7/2023,Jun,Inactive,Mexico,29,25-30,Male
+1624,Premium,13,10/31/2022,Oct,7/7/2023,Jul,Inactive,Spain,35,30-35,Male
+1625,Basic,10,10/26/2022,Oct,4/7/2023,Apr,Inactive,Italy,51,50-55,Female
+1626,Premium,11,10/16/2022,Oct,6/7/2023,Jun,Inactive,Spain,51,50-55,Male
+1627,Basic,15,10/16/2022,Oct,7/7/2023,Jul,Inactive,Spain,42,40-45,Female
+1628,Standard,13,9/17/2022,Sep,6/7/2023,Jun,Inactive,United States,48,45-50,Female
+1629,Standard,14,12/9/2022,Dec,4/7/2023,Apr,Inactive,Canada,40,35-40,Male
+1630,Basic,13,9/13/2022,Sep,7/7/2023,Jul,Inactive,United States,39,35-40,Male
+1631,Premium,14,9/9/2022,Sep,7/7/2023,Jul,Inactive,United States,44,40-45,Male
+1632,Basic,14,3/9/2022,Mar,6/7/2023,Jun,Inactive,Canada,27,25-30,Female
+1633,Standard,11,8/31/2022,Aug,5/7/2023,May,Inactive,United Kingdom,35,30-35,Male
+1634,Premium,14,8/25/2022,Aug,7/7/2023,Jul,Inactive,Australia,45,40-45,Male
+1635,Basic,12,8/15/2022,Aug,7/7/2023,Jul,Inactive,Germany,33,30-35,Male
+1636,Premium,10,8/16/2022,Aug,7/7/2023,Jul,Inactive,France,32,30-35,Female
+1637,Basic,11,7/28/2022,Jul,5/7/2023,May,Inactive,Brazil,51,50-55,Female
+1638,Standard,10,7/28/2022,Jul,6/7/2023,Jun,Inactive,Mexico,40,35-40,Female
+1639,Standard,15,7/22/2022,Jul,6/7/2023,Jun,Inactive,Spain,47,45-50,Male
+1640,Basic,13,7/19/2022,Jul,6/7/2023,Jun,Inactive,Italy,42,40-45,Male
+1641,Premium,10,7/16/2022,Jul,6/7/2023,Jun,Inactive,Spain,41,40-45,Male
+1642,Basic,12,7/15/2022,Jul,9/7/2023,Sep,Active,Spain,43,40-45,Male
+1643,Standard,11,7/16/2022,Jul,5/7/2023,May,Inactive,United States,42,40-45,Female
+1644,Premium,14,9/7/2022,Sep,6/7/2023,Jun,Inactive,Canada,28,25-30,Male
+1645,Basic,12,7/7/2022,Jul,5/7/2023,May,Inactive,United States,40,35-40,Female
+1646,Basic,15,7/7/2022,Jul,9/7/2023,Sep,Active,United States,46,45-50,Female
+1647,Basic,11,6/7/2022,Jun,5/7/2023,May,Inactive,Canada,39,35-40,Female
+1648,Standard,15,6/30/2022,Jun,6/7/2023,Jun,Inactive,United Kingdom,41,40-45,Female
+1649,Premium,15,6/27/2022,Jun,5/7/2023,May,Inactive,Australia,30,25-30,Male
+1650,Basic,14,6/28/2022,Jun,8/7/2023,Aug,Active,Germany,32,30-35,Male
+1651,Basic,14,6/28/2022,Jun,6/7/2023,Jun,Inactive,France,38,35-40,Male
+1652,Premium,11,6/29/2022,Jun,8/7/2023,Aug,Active,Brazil,38,35-40,Male
+1653,Standard,13,1/7/2022,Jan,6/7/2023,Jun,Inactive,Mexico,32,30-35,Male
+1654,Standard,14,3/7/2022,Mar,7/7/2023,Jul,Inactive,Spain,27,25-30,Male
+1655,Basic,15,4/7/2022,Apr,6/7/2023,Jun,Inactive,Italy,50,45-50,Female
+1656,Premium,10,10/7/2022,Oct,7/7/2023,Jul,Inactive,Spain,30,25-30,Male
+1657,Standard,11,7/23/2022,Jul,6/7/2023,Jun,Inactive,Spain,49,45-50,Male
+1658,Basic,11,7/24/2022,Jul,7/7/2023,Jul,Inactive,United States,32,30-35,Female
+1659,Standard,14,7/26/2022,Jul,6/7/2023,Jun,Inactive,Canada,35,30-35,Male
+1660,Premium,12,7/8/2022,Jul,8/7/2023,Aug,Active,United States,44,40-45,Male
+1661,Basic,13,10/8/2022,Oct,5/7/2023,May,Inactive,United States,49,45-50,Female
+1662,Premium,13,8/14/2022,Aug,6/7/2023,Jun,Inactive,Canada,39,35-40,Male
+1663,Standard,12,8/16/2022,Aug,6/7/2023,Jun,Inactive,United Kingdom,38,35-40,Female
+1664,Basic,10,8/20/2022,Aug,8/7/2023,Aug,Active,Australia,38,35-40,Female
+1665,Standard,11,8/25/2022,Aug,5/7/2023,May,Inactive,Germany,37,35-40,Male
+1666,Premium,11,8/28/2022,Aug,7/7/2023,Jul,Inactive,France,28,25-30,Male
+1667,Basic,11,5/9/2022,May,6/7/2023,Jun,Inactive,Brazil,49,45-50,Male
+1668,Standard,13,8/9/2022,Aug,8/7/2023,Aug,Active,Mexico,33,30-35,Female
+1669,Premium,10,9/14/2022,Sep,5/7/2023,May,Inactive,Spain,48,45-50,Male
+1670,Basic,13,9/16/2022,Sep,6/7/2023,Jun,Inactive,Italy,34,30-35,Male
+1671,Premium,13,9/19/2022,Sep,6/7/2023,Jun,Inactive,Spain,39,35-40,Female
+1672,Basic,15,9/23/2022,Sep,7/7/2023,Jul,Inactive,Spain,30,25-30,Male
+1673,Standard,10,9/29/2022,Sep,7/7/2023,Jul,Inactive,United States,37,35-40,Male
+1674,Standard,10,2/10/2022,Feb,6/7/2023,Jun,Inactive,Canada,38,35-40,Male
+1675,Basic,12,8/10/2022,Aug,5/7/2023,May,Inactive,United States,42,40-45,Female
+1676,Premium,15,9/10/2022,Sep,7/7/2023,Jul,Inactive,United States,35,30-35,Female
+1677,Basic,14,11/10/2022,Nov,8/7/2023,Aug,Active,Canada,30,25-30,Male
+1678,Standard,15,10/14/2022,Oct,9/7/2023,Sep,Active,United Kingdom,48,45-50,Female
+1679,Premium,14,10/16/2022,Oct,6/7/2023,Jun,Inactive,Australia,48,45-50,Male
+1680,Basic,13,10/18/2022,Oct,7/7/2023,Jul,Inactive,Germany,32,30-35,Male
+1681,Premium,15,10/22/2022,Oct,7/7/2023,Jul,Inactive,France,27,25-30,Male
+1682,Basic,10,10/23/2022,Oct,9/7/2023,Sep,Active,Brazil,48,45-50,Female
+1683,Standard,12,10/26/2022,Oct,6/7/2023,Jun,Inactive,Mexico,33,30-35,Male
+1684,Standard,13,10/27/2022,Oct,7/7/2023,Jul,Inactive,Spain,28,25-30,Male
+1685,Basic,15,10/31/2022,Oct,7/7/2023,Jul,Inactive,Italy,46,45-50,Male
+1686,Premium,11,1/11/2022,Jan,8/7/2023,Aug,Active,Spain,40,35-40,Male
+1687,Basic,13,3/11/2022,Mar,5/7/2023,May,Inactive,Spain,49,45-50,Male
+1688,Standard,14,4/11/2022,Apr,6/7/2023,Jun,Inactive,United States,41,40-45,Female
+1689,Premium,13,5/11/2022,May,7/7/2023,Jul,Inactive,Canada,38,35-40,Male
+1690,Basic,13,5/11/2022,May,7/7/2023,Jul,Inactive,United States,42,40-45,Female
+1691,Premium,13,5/11/2022,May,5/7/2023,May,Inactive,United States,27,25-30,Female
+1692,Basic,12,5/11/2022,May,6/7/2023,Jun,Inactive,Canada,41,40-45,Female
+1693,Standard,13,3/11/2022,Mar,7/7/2023,Jul,Inactive,United Kingdom,41,40-45,Female
+1694,Standard,11,10/27/2022,Oct,7/7/2023,Jul,Inactive,Australia,49,45-50,Male
+1695,Basic,14,10/24/2022,Oct,4/7/2023,Apr,Inactive,Germany,28,25-30,Female
+1696,Premium,13,10/17/2022,Oct,7/7/2023,Jul,Inactive,France,44,40-45,Male
+1697,Basic,11,6/10/2022,Jun,7/7/2023,Jul,Inactive,Brazil,47,45-50,Female
+1698,Standard,12,9/18/2022,Sep,6/7/2023,Jun,Inactive,Mexico,29,25-30,Male
+1699,Premium,10,9/17/2022,Sep,4/7/2023,Apr,Inactive,Spain,31,30-35,Female
+1700,Basic,12,9/13/2022,Sep,8/7/2023,Aug,Active,Italy,28,25-30,Female
+1701,Premium,15,9/9/2022,Sep,7/7/2023,Jul,Inactive,Spain,32,30-35,Male
+1702,Basic,12,2/9/2022,Feb,7/7/2023,Jul,Inactive,Spain,43,40-45,Male
+1703,Standard,13,1/9/2022,Jan,6/7/2023,Jun,Inactive,United States,48,45-50,Male
+1704,Standard,10,8/16/2022,Aug,7/7/2023,Jul,Inactive,Canada,28,25-30,Male
+1705,Basic,14,8/17/2022,Aug,7/7/2023,Jul,Inactive,United States,31,30-35,Female
+1706,Premium,15,7/29/2022,Jul,7/7/2023,Jul,Inactive,United States,47,45-50,Male
+1707,Basic,13,7/28/2022,Jul,6/7/2023,Jun,Inactive,Canada,39,35-40,Female
+1708,Standard,13,7/25/2022,Jul,7/7/2023,Jul,Inactive,United Kingdom,35,30-35,Male
+1709,Premium,10,7/26/2022,Jul,6/7/2023,Jun,Inactive,Australia,42,40-45,Female
+1710,Basic,11,7/17/2022,Jul,7/7/2023,Jul,Inactive,Germany,30,25-30,Male
+1711,Premium,14,7/16/2022,Jul,6/7/2023,Jun,Inactive,France,34,30-35,Male
+1712,Basic,11,7/17/2022,Jul,9/7/2023,Sep,Active,Brazil,35,30-35,Male
+1713,Standard,12,7/16/2022,Jul,6/7/2023,Jun,Inactive,Mexico,31,30-35,Female
+1714,Standard,14,7/16/2022,Jul,7/7/2023,Jul,Inactive,Spain,36,35-40,Female
+1715,Basic,14,12/7/2022,Dec,6/7/2023,Jun,Inactive,Italy,31,30-35,Female
+1716,Premium,11,10/7/2022,Oct,9/7/2023,Sep,Active,Spain,32,30-35,Male
+1717,Basic,10,8/7/2022,Aug,7/7/2023,Jul,Inactive,Spain,46,45-50,Female
+1718,Standard,15,6/29/2022,Jun,7/7/2023,Jul,Inactive,United States,30,25-30,Male
+1719,Premium,12,6/29/2022,Jun,6/7/2023,Jun,Inactive,Canada,46,45-50,Male
+1720,Basic,12,6/28/2022,Jun,8/7/2023,Aug,Active,United States,44,40-45,Female
+1721,Basic,12,6/29/2022,Jun,6/7/2023,Jun,Inactive,United States,34,30-35,Male
+1722,Basic,13,1/7/2022,Jan,8/7/2023,Aug,Active,Canada,31,30-35,Male
+1723,Standard,13,2/7/2022,Feb,6/7/2023,Jun,Inactive,United Kingdom,34,30-35,Male
+1724,Premium,12,4/7/2022,Apr,8/7/2023,Aug,Active,Australia,28,25-30,Male
+1725,Basic,10,8/7/2022,Aug,7/7/2023,Jul,Inactive,Germany,36,35-40,Female
+1726,Basic,14,7/20/2022,Jul,9/7/2023,Sep,Active,France,48,45-50,Female
+1727,Premium,13,7/23/2022,Jul,6/7/2023,Jun,Inactive,Brazil,40,35-40,Male
+1728,Standard,15,7/26/2022,Jul,7/7/2023,Jul,Inactive,Mexico,35,30-35,Male
+1729,Standard,11,7/30/2022,Jul,7/7/2023,Jul,Inactive,Spain,41,40-45,Male
+1730,Basic,10,8/8/2022,Aug,8/7/2023,Aug,Active,Italy,28,25-30,Female
+1731,Premium,12,8/13/2022,Aug,5/7/2023,May,Inactive,Spain,37,35-40,Male
+1732,Standard,12,8/14/2022,Aug,7/7/2023,Jul,Inactive,Spain,33,30-35,Male
+1733,Basic,15,8/16/2022,Aug,6/7/2023,Jun,Inactive,United States,27,25-30,Female
+1734,Standard,14,8/19/2022,Aug,8/7/2023,Aug,Active,Canada,35,30-35,Male
+1735,Premium,10,8/27/2022,Aug,6/7/2023,Jun,Inactive,United States,27,25-30,Male
+1736,Basic,15,4/9/2022,Apr,7/7/2023,Jul,Inactive,United States,29,25-30,Female
+1737,Premium,12,5/9/2022,May,6/7/2023,Jun,Inactive,Canada,28,25-30,Female
+1738,Standard,12,9/13/2022,Sep,8/7/2023,Aug,Active,United Kingdom,33,30-35,Female
+1739,Basic,10,9/16/2022,Sep,5/7/2023,May,Inactive,Australia,35,30-35,Female
+1740,Standard,15,9/18/2022,Sep,6/7/2023,Jun,Inactive,Germany,37,35-40,Female
+1741,Premium,12,9/20/2022,Sep,6/7/2023,Jun,Inactive,France,31,30-35,Male
+1742,Basic,13,9/29/2022,Sep,7/7/2023,Jul,Inactive,Brazil,27,25-30,Male
+1743,Standard,11,9/30/2022,Sep,8/7/2023,Aug,Active,Mexico,48,45-50,Male
+1744,Premium,15,4/10/2022,Apr,10/7/2023,Oct,Active,Spain,30,25-30,Female
+1745,Basic,14,8/10/2022,Aug,7/7/2023,Jul,Inactive,Italy,45,40-45,Male
+1746,Premium,14,10/10/2022,Oct,7/7/2023,Jul,Inactive,Spain,28,25-30,Male
+1747,Basic,12,12/10/2022,Dec,8/7/2023,Aug,Active,Spain,30,25-30,Female
+1748,Standard,15,10/14/2022,Oct,10/7/2023,Oct,Active,United States,48,45-50,Male
+1749,Standard,10,10/16/2022,Oct,7/7/2023,Jul,Inactive,Canada,37,35-40,Female
+1750,Basic,15,10/21/2022,Oct,7/7/2023,Jul,Inactive,United States,28,25-30,Female
+1751,Premium,14,10/23/2022,Oct,7/7/2023,Jul,Inactive,United States,43,40-45,Female
+1752,Basic,10,10/25/2022,Oct,9/7/2023,Sep,Active,Canada,36,35-40,Male
+1753,Standard,15,10/26/2022,Oct,6/7/2023,Jun,Inactive,United Kingdom,47,45-50,Male
+1754,Premium,10,10/29/2022,Oct,7/7/2023,Jul,Inactive,Australia,42,40-45,Male
+1755,Basic,15,10/31/2022,Oct,7/7/2023,Jul,Inactive,Germany,50,45-50,Male
+1756,Premium,13,2/11/2022,Feb,8/7/2023,Aug,Active,France,41,40-45,Male
+1757,Basic,13,3/11/2022,Mar,5/7/2023,May,Inactive,Brazil,43,40-45,Male
+1758,Standard,13,5/11/2022,May,7/7/2023,Jul,Inactive,Mexico,35,30-35,Male
+1759,Standard,10,6/11/2022,Jun,7/7/2023,Jul,Inactive,Spain,51,50-55,Male
+1760,Basic,15,6/11/2022,Jun,7/7/2023,Jul,Inactive,Italy,35,30-35,Male
+1761,Premium,10,7/11/2022,Jul,5/7/2023,May,Inactive,Spain,37,35-40,Male
+1762,Basic,10,4/11/2022,Apr,6/7/2023,Jun,Inactive,Spain,28,25-30,Female
+1763,Standard,14,2/11/2022,Feb,7/7/2023,Jul,Inactive,United States,32,30-35,Female
+1764,Premium,13,10/27/2022,Oct,7/7/2023,Jul,Inactive,Canada,37,35-40,Female
+1765,Basic,11,10/18/2022,Oct,5/7/2023,May,Inactive,United States,37,35-40,Female
+1766,Premium,12,7/10/2022,Jul,8/7/2023,Aug,Active,United States,34,30-35,Female
+1767,Basic,15,4/10/2022,Apr,7/7/2023,Jul,Inactive,Canada,30,25-30,Female
+1768,Standard,14,9/17/2022,Sep,7/7/2023,Jul,Inactive,United Kingdom,35,30-35,Male
+1769,Standard,14,9/15/2022,Sep,6/7/2023,Jun,Inactive,Australia,41,40-45,Female
+1770,Basic,13,10/9/2022,Oct,8/7/2023,Aug,Active,Germany,50,45-50,Female
+1771,Premium,11,9/9/2022,Sep,8/7/2023,Aug,Active,France,48,45-50,Female
+1772,Basic,12,9/9/2022,Sep,8/7/2023,Aug,Active,Brazil,29,25-30,Male
+1773,Standard,12,7/9/2022,Jul,6/7/2023,Jun,Inactive,Mexico,37,35-40,Male
+1774,Premium,15,8/9/2022,Aug,8/7/2023,Aug,Active,Spain,36,35-40,Female
+1775,Basic,15,8/14/2022,Aug,7/7/2023,Jul,Inactive,Italy,45,40-45,Male
+1776,Premium,15,6/8/2022,Jun,8/7/2023,Aug,Active,Spain,27,25-30,Female
+1777,Basic,12,6/8/2022,Jun,6/7/2023,Jun,Inactive,Spain,31,30-35,Female
+1778,Standard,11,7/29/2022,Jul,9/7/2023,Sep,Active,United States,42,40-45,Female
+1779,Standard,15,7/28/2022,Jul,6/7/2023,Jun,Inactive,Canada,43,40-45,Female
+1780,Basic,13,7/24/2022,Jul,7/7/2023,Jul,Inactive,United States,43,40-45,Male
+1781,Premium,15,7/22/2022,Jul,6/7/2023,Jun,Inactive,United States,35,30-35,Female
+1782,Basic,13,7/19/2022,Jul,10/7/2023,Oct,Active,Canada,51,50-55,Male
+1783,Standard,13,7/17/2022,Jul,7/7/2023,Jul,Inactive,United Kingdom,42,40-45,Female
+1784,Premium,13,7/16/2022,Jul,7/7/2023,Jul,Inactive,Australia,36,35-40,Male
+1785,Basic,13,7/13/2022,Jul,7/7/2023,Jul,Inactive,Germany,50,45-50,Female
+1786,Premium,15,7/14/2022,Jul,9/7/2023,Sep,Active,France,43,40-45,Female
+1787,Basic,11,7/7/2022,Jul,7/7/2023,Jul,Inactive,Brazil,28,25-30,Male
+1788,Standard,10,6/7/2022,Jun,9/7/2023,Sep,Active,Mexico,48,45-50,Female
+1789,Standard,14,6/30/2022,Jun,7/7/2023,Jul,Inactive,Spain,47,45-50,Female
+1790,Basic,12,6/30/2022,Jun,9/7/2023,Sep,Active,Italy,31,30-35,Male
+1791,Premium,14,1/7/2022,Jan,6/7/2023,Jun,Inactive,Spain,45,40-45,Male
+1792,Basic,15,2/7/2022,Feb,9/7/2023,Sep,Active,Spain,45,40-45,Female
+1793,Standard,14,3/7/2022,Mar,6/7/2023,Jun,Inactive,United States,42,40-45,Female
+1794,Premium,12,6/7/2022,Jun,8/7/2023,Aug,Active,Canada,36,35-40,Female
+1795,Basic,14,7/7/2022,Jul,7/7/2023,Jul,Inactive,United States,32,30-35,Male
+1796,Basic,10,7/15/2022,Jul,9/7/2023,Sep,Active,United States,50,45-50,Male
+1797,Basic,14,7/17/2022,Jul,6/7/2023,Jun,Inactive,Canada,39,35-40,Male
+1798,Standard,10,7/26/2022,Jul,8/7/2023,Aug,Active,United Kingdom,51,50-55,Male
+1799,Premium,14,5/8/2022,May,7/7/2023,Jul,Inactive,Australia,49,45-50,Female
+1800,Basic,14,12/8/2022,Dec,9/7/2023,Sep,Active,Germany,42,40-45,Male
+1801,Basic,12,8/14/2022,Aug,6/7/2023,Jun,Inactive,France,46,45-50,Male
+1802,Premium,12,8/15/2022,Aug,7/7/2023,Jul,Inactive,Brazil,30,25-30,Male
+1803,Standard,10,8/18/2022,Aug,7/7/2023,Jul,Inactive,Mexico,48,45-50,Male
+1804,Standard,12,8/21/2022,Aug,9/7/2023,Sep,Active,Spain,40,35-40,Female
+1805,Basic,10,4/9/2022,Apr,6/7/2023,Jun,Inactive,Italy,50,45-50,Female
+1806,Premium,15,5/9/2022,May,7/7/2023,Jul,Inactive,Spain,49,45-50,Female
+1807,Standard,11,8/9/2022,Aug,7/7/2023,Jul,Inactive,Spain,37,35-40,Male
+1808,Basic,12,9/15/2022,Sep,8/7/2023,Aug,Active,United States,43,40-45,Male
+1809,Standard,15,9/17/2022,Sep,6/7/2023,Jun,Inactive,Canada,40,35-40,Female
+1810,Premium,14,9/19/2022,Sep,9/7/2023,Sep,Active,United States,27,25-30,Male
+1811,Basic,10,9/23/2022,Sep,6/7/2023,Jun,Inactive,United States,47,45-50,Male
+1812,Premium,11,9/26/2022,Sep,8/7/2023,Aug,Active,Canada,50,45-50,Male
+1813,Standard,12,9/30/2022,Sep,8/7/2023,Aug,Active,United Kingdom,31,30-35,Female
+1814,Basic,10,7/10/2022,Jul,10/7/2023,Oct,Active,Australia,33,30-35,Male
+1815,Standard,13,9/10/2022,Sep,7/7/2023,Jul,Inactive,Germany,42,40-45,Female
+1816,Premium,14,12/10/2022,Dec,7/7/2023,Jul,Inactive,France,51,50-55,Female
+1817,Basic,12,10/13/2022,Oct,8/7/2023,Aug,Active,Brazil,43,40-45,Female
+1818,Standard,15,10/14/2022,Oct,10/7/2023,Oct,Active,Mexico,45,40-45,Female
+1819,Premium,13,10/19/2022,Oct,7/7/2023,Jul,Inactive,Spain,48,45-50,Female
+1820,Basic,14,10/20/2022,Oct,7/7/2023,Jul,Inactive,Italy,48,45-50,Female
+1821,Premium,12,10/22/2022,Oct,8/7/2023,Aug,Active,Spain,30,25-30,Male
+1822,Basic,15,10/24/2022,Oct,9/7/2023,Sep,Active,Spain,29,25-30,Female
+1823,Standard,10,10/28/2022,Oct,6/7/2023,Jun,Inactive,United States,28,25-30,Male
+1824,Standard,12,10/30/2022,Oct,8/7/2023,Aug,Active,Canada,46,45-50,Female
+1825,Basic,13,1/11/2022,Jan,8/7/2023,Aug,Active,United States,45,40-45,Male
+1826,Premium,12,3/11/2022,Mar,8/7/2023,Aug,Active,United States,30,25-30,Male
+1827,Basic,13,4/11/2022,Apr,6/7/2023,Jun,Inactive,Canada,44,40-45,Female
+1828,Standard,14,5/11/2022,May,7/7/2023,Jul,Inactive,United Kingdom,46,45-50,Male
+1829,Premium,13,6/11/2022,Jun,8/7/2023,Aug,Active,Australia,36,35-40,Female
+1830,Basic,12,7/11/2022,Jul,8/7/2023,Aug,Active,Germany,27,25-30,Female
+1831,Premium,14,5/11/2022,May,5/7/2023,May,Inactive,France,43,40-45,Male
+1832,Basic,11,5/11/2022,May,9/7/2023,Sep,Active,Brazil,48,45-50,Female
+1833,Standard,12,6/11/2022,Jun,8/7/2023,Aug,Active,Mexico,36,35-40,Female
+1834,Standard,10,3/11/2022,Mar,7/7/2023,Jul,Inactive,Spain,44,40-45,Male
+1835,Basic,11,10/22/2022,Oct,6/7/2023,Jun,Inactive,Italy,41,40-45,Female
+1836,Premium,12,10/22/2022,Oct,9/7/2023,Sep,Active,Spain,29,25-30,Female
+1837,Basic,13,10/15/2022,Oct,9/7/2023,Sep,Active,Spain,28,25-30,Female
+1838,Standard,11,9/24/2022,Sep,7/7/2023,Jul,Inactive,United States,36,35-40,Female
+1839,Premium,15,9/15/2022,Sep,6/7/2023,Jun,Inactive,Canada,36,35-40,Female
+1840,Basic,14,9/15/2022,Sep,8/7/2023,Aug,Active,United States,40,35-40,Male
+1841,Premium,11,12/9/2022,Dec,8/7/2023,Aug,Active,United States,35,30-35,Female
+1842,Basic,14,12/9/2022,Dec,9/7/2023,Sep,Active,Canada,34,30-35,Female
+1843,Standard,10,11/9/2022,Nov,7/7/2023,Jul,Inactive,United Kingdom,46,45-50,Male
+1844,Standard,14,11/9/2022,Nov,8/7/2023,Aug,Active,Australia,47,45-50,Female
+1845,Basic,12,8/16/2022,Aug,7/7/2023,Jul,Inactive,Germany,32,30-35,Female
+1846,Premium,13,12/8/2022,Dec,8/7/2023,Aug,Active,France,45,40-45,Male
+1847,Basic,10,2/8/2022,Feb,7/7/2023,Jul,Inactive,Brazil,31,30-35,Female
+1848,Standard,11,1/8/2022,Jan,10/7/2023,Oct,Active,Mexico,49,45-50,Male
+1849,Premium,11,7/29/2022,Jul,7/7/2023,Jul,Inactive,Spain,33,30-35,Female
+1850,Basic,12,7/28/2022,Jul,8/7/2023,Aug,Active,Italy,30,25-30,Male
+1851,Premium,11,7/25/2022,Jul,8/7/2023,Aug,Active,Spain,48,45-50,Female
+1852,Basic,14,7/20/2022,Jul,10/7/2023,Oct,Active,Spain,49,45-50,Female
+1853,Standard,13,7/16/2022,Jul,8/7/2023,Aug,Active,United States,43,40-45,Male
+1854,Standard,14,7/16/2022,Jul,8/7/2023,Aug,Active,Canada,46,45-50,Female
+1855,Basic,12,7/15/2022,Jul,7/7/2023,Jul,Inactive,United States,33,30-35,Male
+1856,Premium,15,7/13/2022,Jul,9/7/2023,Sep,Active,United States,31,30-35,Female
+1857,Basic,13,6/7/2022,Jun,7/7/2023,Jul,Inactive,Canada,44,40-45,Female
+1858,Standard,10,3/7/2022,Mar,9/7/2023,Sep,Active,United Kingdom,34,30-35,Male
+1859,Premium,15,4/7/2022,Apr,7/7/2023,Jul,Inactive,Australia,41,40-45,Male
+1860,Basic,10,3/7/2022,Mar,9/7/2023,Sep,Active,Germany,42,40-45,Male
+1861,Premium,15,3/7/2022,Mar,7/7/2023,Jul,Inactive,France,38,35-40,Female
+1862,Basic,13,4/7/2022,Apr,10/7/2023,Oct,Active,Brazil,31,30-35,Female
+1863,Standard,11,5/7/2022,May,6/7/2023,Jun,Inactive,Mexico,35,30-35,Female
+1864,Standard,15,7/7/2022,Jul,8/7/2023,Aug,Active,Spain,32,30-35,Male
+1865,Basic,15,8/7/2022,Aug,7/7/2023,Jul,Inactive,Italy,39,35-40,Male
+1866,Premium,12,7/13/2022,Jul,10/7/2023,Oct,Active,Spain,42,40-45,Male
+1867,Basic,11,7/15/2022,Jul,6/7/2023,Jun,Inactive,Spain,31,30-35,Male
+1868,Standard,14,1/8/2022,Jan,8/7/2023,Aug,Active,United States,38,35-40,Male
+1869,Premium,13,11/8/2022,Nov,8/7/2023,Aug,Active,Canada,48,45-50,Male
+1870,Basic,14,8/13/2022,Aug,9/7/2023,Sep,Active,United States,29,25-30,Male
+1871,Basic,10,8/15/2022,Aug,6/7/2023,Jun,Inactive,United States,43,40-45,Female
+1872,Basic,13,8/16/2022,Aug,8/7/2023,Aug,Active,Canada,49,45-50,Female
+1873,Standard,14,8/18/2022,Aug,8/7/2023,Aug,Active,United Kingdom,50,45-50,Male
+1874,Premium,14,8/25/2022,Aug,9/7/2023,Sep,Active,Australia,50,45-50,Male
+1875,Basic,14,8/29/2022,Aug,6/7/2023,Jun,Inactive,Germany,51,50-55,Male
+1876,Basic,11,4/9/2022,Apr,9/7/2023,Sep,Active,France,29,25-30,Male
+1877,Premium,11,9/13/2022,Sep,7/7/2023,Jul,Inactive,Brazil,50,45-50,Female
+1878,Standard,12,9/14/2022,Sep,8/7/2023,Aug,Active,Mexico,39,35-40,Female
+1879,Standard,10,9/17/2022,Sep,6/7/2023,Jun,Inactive,Spain,27,25-30,Female
+1880,Basic,15,9/18/2022,Sep,10/7/2023,Oct,Active,Italy,29,25-30,Male
+1881,Premium,15,9/23/2022,Sep,7/7/2023,Jul,Inactive,Spain,28,25-30,Male
+1882,Standard,11,9/27/2022,Sep,8/7/2023,Aug,Active,Spain,46,45-50,Male
+1883,Basic,14,4/10/2022,Apr,8/7/2023,Aug,Active,United States,50,45-50,Female
+1884,Standard,12,9/10/2022,Sep,11/7/2023,Nov,Active,Canada,33,30-35,Female
+1885,Premium,14,10/10/2022,Oct,7/7/2023,Jul,Inactive,United States,32,30-35,Female
+1886,Basic,12,11/10/2022,Nov,8/7/2023,Aug,Active,United States,38,35-40,Male
+1887,Premium,13,10/13/2022,Oct,9/7/2023,Sep,Active,Canada,49,45-50,Male
+1888,Standard,12,10/15/2022,Oct,10/7/2023,Oct,Active,United Kingdom,50,45-50,Male
+1889,Basic,13,10/20/2022,Oct,7/7/2023,Jul,Inactive,Australia,37,35-40,Female
+1890,Standard,15,10/21/2022,Oct,8/7/2023,Aug,Active,Germany,33,30-35,Female
+1891,Premium,11,10/23/2022,Oct,9/7/2023,Sep,Active,France,33,30-35,Female
+1892,Basic,15,10/25/2022,Oct,9/7/2023,Sep,Active,Brazil,46,45-50,Male
+1893,Standard,10,10/27/2022,Oct,7/7/2023,Jul,Inactive,Mexico,28,25-30,Male
+1894,Premium,11,10/30/2022,Oct,8/7/2023,Aug,Active,Spain,33,30-35,Male
+1895,Basic,15,1/11/2022,Jan,9/7/2023,Sep,Active,Italy,45,40-45,Male
+1896,Premium,14,2/11/2022,Feb,9/7/2023,Sep,Active,Spain,43,40-45,Male
+1897,Basic,11,4/11/2022,Apr,6/7/2023,Jun,Inactive,Spain,49,45-50,Female
+1898,Standard,13,6/11/2022,Jun,7/7/2023,Jul,Inactive,United States,41,40-45,Female
+1899,Standard,14,7/11/2022,Jul,9/7/2023,Sep,Active,Canada,39,35-40,Female
+1900,Basic,14,6/11/2022,Jun,8/7/2023,Aug,Active,United States,45,40-45,Female
+1901,Premium,15,7/11/2022,Jul,6/7/2023,Jun,Inactive,United States,38,35-40,Male
+1902,Basic,15,7/11/2022,Jul,10/7/2023,Oct,Active,Canada,30,25-30,Male
+1903,Standard,12,3/11/2022,Mar,8/7/2023,Aug,Active,United Kingdom,27,25-30,Female
+1904,Premium,15,3/11/2022,Mar,8/7/2023,Aug,Active,Australia,36,35-40,Female
+1905,Basic,15,10/31/2022,Oct,6/7/2023,Jun,Inactive,Germany,36,35-40,Female
+1906,Premium,11,10/28/2022,Oct,9/7/2023,Sep,Active,France,28,25-30,Male
+1907,Basic,10,9/28/2022,Sep,9/7/2023,Sep,Active,Brazil,45,40-45,Female
+1908,Standard,15,9/19/2022,Sep,9/7/2023,Sep,Active,Mexico,41,40-45,Male
+1909,Standard,12,9/16/2022,Sep,8/7/2023,Aug,Active,Spain,29,25-30,Male
+1910,Basic,15,9/17/2022,Sep,8/7/2023,Aug,Active,Italy,35,30-35,Male
+1911,Premium,12,9/17/2022,Sep,8/7/2023,Aug,Active,Spain,36,35-40,Female
+1912,Basic,11,9/15/2022,Sep,9/7/2023,Sep,Active,Spain,41,40-45,Male
+1913,Standard,11,9/14/2022,Sep,8/7/2023,Aug,Active,United States,46,45-50,Male
+1914,Premium,11,9/14/2022,Sep,8/7/2023,Aug,Active,Canada,46,45-50,Female
+1915,Basic,10,9/13/2022,Sep,8/7/2023,Aug,Active,United States,42,40-45,Male
+1916,Premium,13,8/13/2022,Aug,8/7/2023,Aug,Active,United States,40,35-40,Male
+1917,Basic,14,12/8/2022,Dec,8/7/2023,Aug,Active,Canada,32,30-35,Female
+1918,Standard,11,7/8/2022,Jul,10/7/2023,Oct,Active,United Kingdom,34,30-35,Female
+1919,Standard,11,7/8/2022,Jul,9/7/2023,Sep,Active,Australia,27,25-30,Female
+1920,Basic,11,4/8/2022,Apr,8/7/2023,Aug,Active,Germany,38,35-40,Male
+1921,Premium,14,7/24/2022,Jul,8/7/2023,Aug,Active,France,34,30-35,Female
+1922,Basic,13,7/18/2022,Jul,10/7/2023,Oct,Active,Brazil,28,25-30,Male
+1923,Standard,12,7/17/2022,Jul,8/7/2023,Aug,Active,Mexico,48,45-50,Male
+1924,Premium,13,7/17/2022,Jul,9/7/2023,Sep,Active,Spain,42,40-45,Female
+1925,Basic,10,7/14/2022,Jul,8/7/2023,Aug,Active,Italy,37,35-40,Female
+1926,Premium,11,6/7/2022,Jun,10/7/2023,Oct,Active,Spain,28,25-30,Female
+1927,Basic,13,7/7/2022,Jul,8/7/2023,Aug,Active,Spain,43,40-45,Female
+1928,Standard,10,7/7/2022,Jul,11/7/2023,Nov,Active,United States,44,40-45,Female
+1929,Standard,12,8/7/2022,Aug,7/7/2023,Jul,Inactive,Canada,33,30-35,Female
+1930,Basic,13,7/7/2022,Jul,9/7/2023,Sep,Active,United States,36,35-40,Male
+1931,Premium,14,8/7/2022,Aug,7/7/2023,Jul,Inactive,United States,27,25-30,Male
+1932,Basic,11,9/7/2022,Sep,11/7/2023,Nov,Active,Canada,41,40-45,Male
+1933,Standard,14,9/7/2022,Sep,7/7/2023,Jul,Inactive,United Kingdom,32,30-35,Male
+1934,Premium,12,9/7/2022,Sep,8/7/2023,Aug,Active,Australia,36,35-40,Female
+1935,Basic,12,12/7/2022,Dec,7/7/2023,Jul,Inactive,Germany,36,35-40,Female
+1936,Premium,13,7/15/2022,Jul,10/7/2023,Oct,Active,France,36,35-40,Male
+1937,Basic,14,7/16/2022,Jul,7/7/2023,Jul,Inactive,Brazil,32,30-35,Male
+1938,Standard,10,7/18/2022,Jul,8/7/2023,Aug,Active,Mexico,45,40-45,Female
+1939,Standard,11,8/13/2022,Aug,9/7/2023,Sep,Active,Spain,43,40-45,Female
+1940,Basic,10,8/14/2022,Aug,10/7/2023,Oct,Active,Italy,35,30-35,Male
+1941,Premium,13,8/16/2022,Aug,7/7/2023,Jul,Inactive,Spain,29,25-30,Female
+1942,Basic,14,8/17/2022,Aug,8/7/2023,Aug,Active,Spain,33,30-35,Female
+1943,Standard,14,8/25/2022,Aug,8/7/2023,Aug,Active,United States,49,45-50,Male
+1944,Premium,15,8/28/2022,Aug,9/7/2023,Sep,Active,Canada,27,25-30,Male
+1945,Basic,14,8/29/2022,Aug,7/7/2023,Jul,Inactive,United States,39,35-40,Female
+1946,Basic,10,11/9/2022,Nov,10/7/2023,Oct,Active,United States,34,30-35,Female
+1947,Basic,12,12/9/2022,Dec,8/7/2023,Aug,Active,Canada,39,35-40,Male
+1948,Standard,11,9/16/2022,Sep,9/7/2023,Sep,Active,United Kingdom,39,35-40,Female
+1949,Premium,15,9/17/2022,Sep,9/7/2023,Sep,Active,Australia,39,35-40,Female
+1950,Basic,10,9/21/2022,Sep,10/7/2023,Oct,Active,Germany,40,35-40,Female
+1951,Basic,15,9/23/2022,Sep,8/7/2023,Aug,Active,France,40,35-40,Male
+1952,Premium,14,9/27/2022,Sep,8/7/2023,Aug,Active,Brazil,31,30-35,Male
+1953,Standard,12,9/10/2022,Sep,9/7/2023,Sep,Active,Mexico,47,45-50,Male
+1954,Standard,11,10/10/2022,Oct,11/7/2023,Nov,Active,Spain,43,40-45,Male
+1955,Basic,13,11/10/2022,Nov,8/7/2023,Aug,Active,Italy,34,30-35,Male
+1956,Premium,12,12/10/2022,Dec,8/7/2023,Aug,Active,Spain,30,25-30,Female
+1957,Standard,15,10/13/2022,Oct,9/7/2023,Sep,Active,Spain,33,30-35,Female
+1958,Basic,12,10/19/2022,Oct,10/7/2023,Oct,Active,United States,29,25-30,Male
+1959,Standard,14,10/21/2022,Oct,7/7/2023,Jul,Inactive,Canada,35,30-35,Female
+1960,Premium,13,10/23/2022,Oct,8/7/2023,Aug,Active,United States,41,40-45,Female
+1961,Basic,14,10/24/2022,Oct,10/7/2023,Oct,Active,United States,34,30-35,Female
+1962,Premium,12,10/26/2022,Oct,9/7/2023,Sep,Active,Canada,28,25-30,Female
+1963,Standard,15,10/27/2022,Oct,7/7/2023,Jul,Inactive,United Kingdom,31,30-35,Male
+1964,Basic,15,1/11/2022,Jan,8/7/2023,Aug,Active,Australia,29,25-30,Male
+1965,Standard,12,2/11/2022,Feb,9/7/2023,Sep,Active,Germany,44,40-45,Female
+1966,Premium,10,4/11/2022,Apr,9/7/2023,Sep,Active,France,44,40-45,Female
+1967,Basic,13,5/11/2022,May,6/7/2023,Jun,Inactive,Brazil,29,25-30,Male
+1968,Standard,12,6/11/2022,Jun,9/7/2023,Sep,Active,Mexico,32,30-35,Female
+1969,Premium,11,7/11/2022,Jul,9/7/2023,Sep,Active,Spain,31,30-35,Male
+1970,Basic,14,8/11/2022,Aug,8/7/2023,Aug,Active,Italy,27,25-30,Male
+1971,Premium,13,8/11/2022,Aug,6/7/2023,Jun,Inactive,Spain,43,40-45,Female
+1972,Basic,14,9/11/2022,Sep,10/7/2023,Oct,Active,Spain,48,45-50,Male
+1973,Standard,15,9/11/2022,Sep,9/7/2023,Sep,Active,United States,37,35-40,Female
+1974,Standard,11,5/11/2022,May,8/7/2023,Aug,Active,Canada,42,40-45,Male
+1975,Basic,11,4/11/2022,Apr,7/7/2023,Jul,Inactive,United States,40,35-40,Male
+1976,Premium,13,10/19/2022,Oct,9/7/2023,Sep,Active,United States,37,35-40,Female
+1977,Basic,12,12/10/2022,Dec,9/7/2023,Sep,Active,Canada,31,30-35,Male
+1978,Standard,11,3/10/2022,Mar,9/7/2023,Sep,Active,United Kingdom,30,25-30,Male
+1979,Premium,15,9/28/2022,Sep,8/7/2023,Aug,Active,Australia,51,50-55,Female
+1980,Basic,15,9/17/2022,Sep,9/7/2023,Sep,Active,Germany,42,40-45,Female
+1981,Premium,13,9/16/2022,Sep,8/7/2023,Aug,Active,France,37,35-40,Female
+1982,Basic,14,9/15/2022,Sep,9/7/2023,Sep,Active,Brazil,44,40-45,Female
+1983,Standard,11,9/14/2022,Sep,8/7/2023,Aug,Active,Mexico,37,35-40,Male
+1984,Standard,11,9/15/2022,Sep,9/7/2023,Sep,Active,Spain,44,40-45,Male
+1985,Basic,11,6/9/2022,Jun,9/7/2023,Sep,Active,Italy,40,35-40,Male
+1986,Premium,15,8/28/2022,Aug,9/7/2023,Sep,Active,Spain,27,25-30,Male
+1987,Basic,12,7/8/2022,Jul,8/7/2023,Aug,Active,Spain,31,30-35,Male
+1988,Standard,15,7/8/2022,Jul,10/7/2023,Oct,Active,United States,39,35-40,Female
+1989,Premium,12,6/8/2022,Jun,9/7/2023,Sep,Active,Canada,47,45-50,Female
+1990,Basic,15,7/30/2022,Jul,9/7/2023,Sep,Active,United States,30,25-30,Male
+1991,Premium,12,7/30/2022,Jul,8/7/2023,Aug,Active,United States,35,30-35,Male
+1992,Basic,14,7/30/2022,Jul,10/7/2023,Oct,Active,Canada,39,35-40,Male
+1993,Standard,15,7/19/2022,Jul,8/7/2023,Aug,Active,United Kingdom,29,25-30,Female
+1994,Standard,11,7/17/2022,Jul,10/7/2023,Oct,Active,Australia,28,25-30,Male
+1995,Basic,11,12/7/2022,Dec,8/7/2023,Aug,Active,Germany,39,35-40,Male
+1996,Premium,10,11/7/2022,Nov,10/7/2023,Oct,Active,France,34,30-35,Male
+1997,Basic,14,10/7/2022,Oct,8/7/2023,Aug,Active,Brazil,47,45-50,Male
+1998,Standard,14,10/7/2022,Oct,11/7/2023,Nov,Active,Mexico,47,45-50,Female
+1999,Premium,13,8/7/2022,Aug,8/7/2023,Aug,Active,Spain,46,45-50,Male
+2000,Basic,12,9/7/2022,Sep,9/7/2023,Sep,Active,Italy,31,30-35,Male
+2001,Premium,10,9/7/2022,Sep,8/7/2023,Aug,Active,Spain,41,40-45,Female
+2002,Basic,10,9/7/2022,Sep,11/7/2023,Nov,Active,Spain,30,25-30,Female
+2003,Standard,11,10/7/2022,Oct,8/7/2023,Aug,Active,United States,41,40-45,Male
+2004,Standard,12,12/7/2022,Dec,8/7/2023,Aug,Active,Canada,48,45-50,Female
+2005,Basic,10,7/13/2022,Jul,9/7/2023,Sep,Active,United States,35,30-35,Female
+2006,Premium,13,7/16/2022,Jul,10/7/2023,Oct,Active,United States,41,40-45,Female
+2007,Basic,10,7/17/2022,Jul,7/7/2023,Jul,Inactive,Canada,39,35-40,Female
+2008,Standard,10,7/26/2022,Jul,9/7/2023,Sep,Active,United Kingdom,45,40-45,Male
+2009,Premium,10,7/31/2022,Jul,9/7/2023,Sep,Active,Australia,41,40-45,Male
+2010,Basic,13,3/8/2022,Mar,10/7/2023,Oct,Active,Germany,28,25-30,Male
+2011,Premium,10,8/15/2022,Aug,7/7/2023,Jul,Inactive,France,28,25-30,Female
+2012,Basic,15,8/18/2022,Aug,10/7/2023,Oct,Active,Brazil,48,45-50,Male
+2013,Standard,10,8/27/2022,Aug,8/7/2023,Aug,Active,Mexico,40,35-40,Female
+2014,Standard,12,8/29/2022,Aug,10/7/2023,Oct,Active,Spain,39,35-40,Male
+2015,Basic,12,5/9/2022,May,7/7/2023,Jul,Inactive,Italy,27,25-30,Male
+2016,Premium,10,6/9/2022,Jun,11/7/2023,Nov,Active,Spain,32,30-35,Female
+2017,Basic,10,9/14/2022,Sep,8/7/2023,Aug,Active,Spain,38,35-40,Male
+2018,Standard,10,9/16/2022,Sep,9/7/2023,Sep,Active,United States,41,40-45,Female
+2019,Premium,10,9/18/2022,Sep,10/7/2023,Oct,Active,Canada,32,30-35,Female
+2020,Basic,12,9/23/2022,Sep,11/7/2023,Nov,Active,United States,37,35-40,Male
+2021,Basic,12,9/25/2022,Sep,8/7/2023,Aug,Active,United States,50,45-50,Female
+2022,Basic,10,6/10/2022,Jun,9/7/2023,Sep,Active,Canada,48,45-50,Female
+2023,Standard,11,9/10/2022,Sep,10/7/2023,Oct,Active,United Kingdom,37,35-40,Male
+2024,Premium,13,11/10/2022,Nov,11/7/2023,Nov,Active,Australia,46,45-50,Female
+2025,Basic,13,12/10/2022,Dec,8/7/2023,Aug,Active,Germany,46,45-50,Male
+2026,Basic,15,10/13/2022,Oct,9/7/2023,Sep,Active,France,39,35-40,Male
+2027,Premium,13,10/17/2022,Oct,10/7/2023,Oct,Active,Brazil,42,40-45,Female
+2028,Standard,11,10/19/2022,Oct,10/7/2023,Oct,Active,Mexico,41,40-45,Female
+2029,Standard,10,10/21/2022,Oct,7/7/2023,Jul,Inactive,Spain,28,25-30,Male
+2030,Basic,14,10/23/2022,Oct,9/7/2023,Sep,Active,Italy,43,40-45,Male
+2031,Premium,14,10/25/2022,Oct,10/7/2023,Oct,Active,Spain,45,40-45,Female
+2032,Standard,10,10/27/2022,Oct,9/7/2023,Sep,Active,Spain,45,40-45,Male
+2033,Basic,13,10/31/2022,Oct,7/7/2023,Jul,Inactive,United States,48,45-50,Male
+2034,Standard,12,2/11/2022,Feb,9/7/2023,Sep,Active,Canada,30,25-30,Male
+2035,Premium,11,4/11/2022,Apr,10/7/2023,Oct,Active,United States,51,50-55,Female
+2036,Basic,12,5/11/2022,May,9/7/2023,Sep,Active,United States,48,45-50,Female
+2037,Premium,13,6/11/2022,Jun,7/7/2023,Jul,Inactive,Canada,41,40-45,Female
+2038,Standard,11,7/11/2022,Jul,10/7/2023,Oct,Active,United Kingdom,37,35-40,Female
+2039,Basic,11,8/11/2022,Aug,9/7/2023,Sep,Active,Australia,43,40-45,Male
+2040,Standard,15,8/11/2022,Aug,8/7/2023,Aug,Active,Germany,51,50-55,Male
+2041,Premium,10,9/11/2022,Sep,7/7/2023,Jul,Inactive,France,34,30-35,Female
+2042,Basic,10,9/11/2022,Sep,10/7/2023,Oct,Active,Brazil,35,30-35,Female
+2043,Standard,12,5/11/2022,May,9/7/2023,Sep,Active,Mexico,45,40-45,Female
+2044,Premium,12,5/11/2022,May,10/7/2023,Oct,Active,Spain,31,30-35,Male
+2045,Basic,15,2/11/2022,Feb,8/7/2023,Aug,Active,Italy,50,45-50,Female
+2046,Premium,12,10/30/2022,Oct,9/7/2023,Sep,Active,Spain,41,40-45,Male
+2047,Basic,11,10/30/2022,Oct,9/7/2023,Sep,Active,Spain,42,40-45,Female
+2048,Standard,11,10/24/2022,Oct,9/7/2023,Sep,Active,United States,41,40-45,Male
+2049,Standard,14,8/10/2022,Aug,8/7/2023,Aug,Active,Canada,34,30-35,Male
+2050,Basic,13,4/10/2022,Apr,9/7/2023,Sep,Active,United States,35,30-35,Female
+2051,Premium,10,9/28/2022,Sep,9/7/2023,Sep,Active,United States,48,45-50,Male
+2052,Basic,11,9/22/2022,Sep,9/7/2023,Sep,Active,Canada,39,35-40,Female
+2053,Standard,14,9/19/2022,Sep,9/7/2023,Sep,Active,United Kingdom,37,35-40,Female
+2054,Premium,10,9/13/2022,Sep,9/7/2023,Sep,Active,Australia,31,30-35,Male
+2055,Basic,14,5/9/2022,May,9/7/2023,Sep,Active,Germany,29,25-30,Female
+2056,Premium,10,8/20/2022,Aug,9/7/2023,Sep,Active,France,36,35-40,Male
+2057,Basic,10,10/8/2022,Oct,8/7/2023,Aug,Active,Brazil,32,30-35,Male
+2058,Standard,10,10/8/2022,Oct,11/7/2023,Nov,Active,Mexico,31,30-35,Female
+2059,Standard,14,6/8/2022,Jun,9/7/2023,Sep,Active,Spain,31,30-35,Male
+2060,Basic,12,3/8/2022,Mar,10/7/2023,Oct,Active,Italy,29,25-30,Male
+2061,Premium,10,1/8/2022,Jan,9/7/2023,Sep,Active,Spain,48,45-50,Male
+2062,Basic,14,7/28/2022,Jul,10/7/2023,Oct,Active,Spain,46,45-50,Male
+2063,Standard,15,7/22/2022,Jul,9/7/2023,Sep,Active,United States,35,30-35,Female
+2064,Premium,11,7/22/2022,Jul,11/7/2023,Nov,Active,Canada,37,35-40,Female
+2065,Basic,12,7/20/2022,Jul,9/7/2023,Sep,Active,United States,45,40-45,Female
+2066,Premium,15,12/7/2022,Dec,10/7/2023,Oct,Active,United States,48,45-50,Female
+2067,Basic,10,12/7/2022,Dec,9/7/2023,Sep,Active,Canada,44,40-45,Female
+2068,Standard,14,10/7/2022,Oct,11/7/2023,Nov,Active,United Kingdom,47,45-50,Female
+2069,Standard,12,11/7/2022,Nov,8/7/2023,Aug,Active,Australia,35,30-35,Male
+2070,Basic,10,11/7/2022,Nov,9/7/2023,Sep,Active,Germany,35,30-35,Female
+2071,Premium,11,9/7/2022,Sep,8/7/2023,Aug,Active,France,35,30-35,Male
+2072,Basic,15,10/7/2022,Oct,11/7/2023,Nov,Active,Brazil,49,45-50,Female
+2073,Standard,11,12/7/2022,Dec,8/7/2023,Aug,Active,Mexico,50,45-50,Female
+2074,Premium,14,7/13/2022,Jul,9/7/2023,Sep,Active,Spain,44,40-45,Male
+2075,Basic,14,7/15/2022,Jul,9/7/2023,Sep,Active,Italy,47,45-50,Female
+2076,Premium,15,7/16/2022,Jul,11/7/2023,Nov,Active,Spain,46,45-50,Female
+2077,Basic,11,7/19/2022,Jul,8/7/2023,Aug,Active,Spain,39,35-40,Female
+2078,Standard,15,7/23/2022,Jul,10/7/2023,Oct,Active,United States,34,30-35,Male
+2079,Standard,10,7/28/2022,Jul,9/7/2023,Sep,Active,Canada,31,30-35,Female
+2080,Basic,10,8/14/2022,Aug,11/7/2023,Nov,Active,United States,46,45-50,Female
+2081,Premium,15,8/18/2022,Aug,8/7/2023,Aug,Active,United States,30,25-30,Male
+2082,Basic,12,8/23/2022,Aug,12/7/2023,Dec,Active,Canada,29,25-30,Male
+2083,Standard,12,8/27/2022,Aug,9/7/2023,Sep,Active,United Kingdom,42,40-45,Male
+2084,Premium,13,1/9/2022,Jan,10/7/2023,Oct,Active,Australia,27,25-30,Female
+2085,Basic,15,2/9/2022,Feb,9/7/2023,Sep,Active,Germany,33,30-35,Male
+2086,Premium,13,4/9/2022,Apr,12/7/2023,Dec,Active,France,45,40-45,Female
+2087,Basic,13,11/9/2022,Nov,9/7/2023,Sep,Active,Brazil,50,45-50,Male
+2088,Standard,10,9/16/2022,Sep,9/7/2023,Sep,Active,Mexico,42,40-45,Female
+2089,Standard,10,9/19/2022,Sep,11/7/2023,Nov,Active,Spain,29,25-30,Male
+2090,Basic,12,9/20/2022,Sep,12/7/2023,Dec,Active,Italy,31,30-35,Female
+2091,Premium,13,5/10/2022,May,9/7/2023,Sep,Active,Spain,42,40-45,Female
+2092,Basic,10,7/10/2022,Jul,9/7/2023,Sep,Active,Spain,44,40-45,Female
+2093,Standard,10,10/10/2022,Oct,11/7/2023,Nov,Active,United States,34,30-35,Male
+2094,Premium,13,12/10/2022,Dec,11/7/2023,Nov,Active,Canada,40,35-40,Female
+2095,Basic,10,10/13/2022,Oct,8/7/2023,Aug,Active,United States,38,35-40,Male
+2096,Basic,15,10/15/2022,Oct,9/7/2023,Sep,Active,United States,42,40-45,Female
+2097,Basic,10,10/17/2022,Oct,11/7/2023,Nov,Active,Canada,47,45-50,Male
+2098,Standard,15,10/18/2022,Oct,10/7/2023,Oct,Active,United Kingdom,29,25-30,Female
+2099,Premium,11,10/20/2022,Oct,8/7/2023,Aug,Active,Australia,29,25-30,Male
+2100,Basic,14,10/22/2022,Oct,10/7/2023,Oct,Active,Germany,44,40-45,Female
+2101,Basic,12,10/25/2022,Oct,11/7/2023,Nov,Active,France,31,30-35,Male
+2102,Premium,14,10/27/2022,Oct,9/7/2023,Sep,Active,Brazil,48,45-50,Female
+2103,Standard,14,1/11/2022,Jan,7/7/2023,Jul,Inactive,Mexico,32,30-35,Female
+2104,Standard,13,2/11/2022,Feb,11/7/2023,Nov,Active,Spain,28,25-30,Female
+2105,Basic,11,4/11/2022,Apr,10/7/2023,Oct,Active,Italy,36,35-40,Female
+2106,Premium,10,6/11/2022,Jun,9/7/2023,Sep,Active,Spain,28,25-30,Female
+2107,Standard,14,7/11/2022,Jul,7/7/2023,Jul,Inactive,Spain,32,30-35,Female
+2108,Basic,15,8/11/2022,Aug,10/7/2023,Oct,Active,United States,50,45-50,Female
+2109,Standard,12,9/11/2022,Sep,10/7/2023,Oct,Active,Canada,44,40-45,Male
+2110,Premium,14,10/11/2022,Oct,10/7/2023,Oct,Active,United States,44,40-45,Female
+2111,Basic,14,9/11/2022,Sep,9/7/2023,Sep,Active,United States,47,45-50,Male
+2112,Premium,15,9/11/2022,Sep,10/7/2023,Oct,Active,Canada,39,35-40,Female
+2113,Standard,11,7/11/2022,Jul,10/7/2023,Oct,Active,United Kingdom,44,40-45,Female
+2114,Basic,12,3/11/2022,Mar,10/7/2023,Oct,Active,Australia,46,45-50,Female
+2115,Standard,10,4/11/2022,Apr,8/7/2023,Aug,Active,Germany,31,30-35,Female
+2116,Premium,12,1/11/2022,Jan,10/7/2023,Oct,Active,France,33,30-35,Female
+2117,Basic,13,10/27/2022,Oct,9/7/2023,Sep,Active,Brazil,27,25-30,Male
+2118,Standard,10,10/23/2022,Oct,10/7/2023,Oct,Active,Mexico,34,30-35,Male
+2119,Premium,14,10/14/2022,Oct,9/7/2023,Sep,Active,Spain,48,45-50,Male
+2120,Basic,14,9/28/2022,Sep,10/7/2023,Oct,Active,Italy,39,35-40,Female
+2121,Premium,14,9/25/2022,Sep,9/7/2023,Sep,Active,Spain,39,35-40,Male
+2122,Basic,11,9/23/2022,Sep,10/7/2023,Oct,Active,Spain,48,45-50,Female
+2123,Standard,12,9/23/2022,Sep,9/7/2023,Sep,Active,United States,37,35-40,Female
+2124,Standard,14,9/14/2022,Sep,11/7/2023,Nov,Active,Canada,40,35-40,Male
+2125,Basic,14,5/9/2022,May,9/7/2023,Sep,Active,United States,41,40-45,Female
+2126,Premium,12,8/13/2022,Aug,9/7/2023,Sep,Active,United States,35,30-35,Female
+2127,Basic,15,12/8/2022,Dec,9/7/2023,Sep,Active,Canada,46,45-50,Male
+2128,Standard,10,10/8/2022,Oct,11/7/2023,Nov,Active,United Kingdom,28,25-30,Female
+2129,Premium,14,5/8/2022,May,9/7/2023,Sep,Active,Australia,29,25-30,Female
+2130,Basic,10,4/8/2022,Apr,12/7/2023,Dec,Active,Germany,46,45-50,Female
+2131,Premium,11,7/28/2022,Jul,9/7/2023,Sep,Active,France,35,30-35,Male
+2132,Basic,12,7/24/2022,Jul,11/7/2023,Nov,Active,Brazil,27,25-30,Male
+2133,Standard,11,7/22/2022,Jul,9/7/2023,Sep,Active,Mexico,38,35-40,Male
+2134,Standard,13,7/22/2022,Jul,12/7/2023,Dec,Active,Spain,43,40-45,Male
+2135,Basic,15,7/19/2022,Jul,9/7/2023,Sep,Active,Italy,31,30-35,Female
+2136,Premium,13,7/17/2022,Jul,10/7/2023,Oct,Active,Spain,29,25-30,Female
+2137,Basic,10,7/16/2022,Jul,9/7/2023,Sep,Active,Spain,34,30-35,Female
+2138,Standard,11,12/7/2022,Dec,12/7/2023,Dec,Active,United States,39,35-40,Male
+2139,Premium,14,12/7/2022,Dec,8/7/2023,Aug,Active,Canada,34,30-35,Female
+2140,Basic,14,7/13/2022,Jul,10/7/2023,Oct,Active,United States,51,50-55,Male
+2141,Premium,14,7/13/2022,Jul,9/7/2023,Sep,Active,United States,47,45-50,Female
+2142,Basic,12,7/13/2022,Jul,11/7/2023,Nov,Active,Canada,46,45-50,Male
+2143,Standard,12,7/14/2022,Jul,8/7/2023,Aug,Active,United Kingdom,46,45-50,Female
+2144,Standard,14,7/15/2022,Jul,10/7/2023,Oct,Active,Australia,47,45-50,Female
+2145,Basic,14,7/16/2022,Jul,9/7/2023,Sep,Active,Germany,40,35-40,Female
+2146,Premium,12,7/18/2022,Jul,11/7/2023,Nov,Active,France,41,40-45,Female
+2147,Basic,12,7/23/2022,Jul,9/7/2023,Sep,Active,Brazil,30,25-30,Female
+2148,Standard,12,7/25/2022,Jul,11/7/2023,Nov,Active,Mexico,31,30-35,Female
+2149,Premium,14,7/30/2022,Jul,9/7/2023,Sep,Active,Spain,42,40-45,Male
+2150,Basic,12,6/8/2022,Jun,11/7/2023,Nov,Active,Italy,46,45-50,Female
+2151,Premium,13,8/14/2022,Aug,8/7/2023,Aug,Active,Spain,34,30-35,Female
+2152,Basic,14,8/23/2022,Aug,12/7/2023,Dec,Active,Spain,42,40-45,Male
+2153,Standard,13,8/27/2022,Aug,9/7/2023,Sep,Active,United States,45,40-45,Male
+2154,Standard,12,8/29/2022,Aug,10/7/2023,Oct,Active,Canada,30,25-30,Male
+2155,Basic,12,1/9/2022,Jan,9/7/2023,Sep,Active,United States,44,40-45,Male
+2156,Premium,10,7/9/2022,Jul,7/13/2023,Jul,Inactive,United States,37,35-40,Male
+2157,Basic,10,9/13/2022,Sep,10/7/2023,Oct,Active,Canada,43,40-45,Male
+2158,Standard,12,9/14/2022,Sep,10/7/2023,Oct,Active,United Kingdom,46,45-50,Male
+2159,Premium,11,9/17/2022,Sep,12/7/2023,Dec,Active,Australia,40,35-40,Female
+2160,Basic,11,9/23/2022,Sep,12/7/2023,Dec,Active,Germany,45,40-45,Female
+2161,Premium,10,9/27/2022,Sep,9/7/2023,Sep,Active,France,48,45-50,Female
+2162,Basic,10,3/10/2022,Mar,10/7/2023,Oct,Active,Brazil,43,40-45,Female
+2163,Standard,13,10/10/2022,Oct,11/7/2023,Nov,Active,Mexico,48,45-50,Male
+2164,Standard,10,12/10/2022,Dec,11/7/2023,Nov,Active,Spain,32,30-35,Female
+2165,Basic,12,10/14/2022,Oct,8/7/2023,Aug,Active,Italy,38,35-40,Male
+2166,Premium,13,10/16/2022,Oct,10/7/2023,Oct,Active,Spain,50,45-50,Male
+2167,Basic,11,10/18/2022,Oct,11/7/2023,Nov,Active,Spain,33,30-35,Female
+2168,Standard,14,10/20/2022,Oct,10/7/2023,Oct,Active,United States,27,25-30,Male
+2169,Premium,12,10/22/2022,Oct,8/7/2023,Aug,Active,Canada,47,45-50,Male
+2170,Basic,12,10/25/2022,Oct,10/7/2023,Oct,Active,United States,35,30-35,Female
+2171,Basic,12,10/26/2022,Oct,11/7/2023,Nov,Active,United States,41,40-45,Male
+2172,Basic,14,10/29/2022,Oct,10/7/2023,Oct,Active,Canada,39,35-40,Female
+2173,Standard,13,10/31/2022,Oct,7/7/2023,Jul,Inactive,United Kingdom,46,45-50,Female
+2174,Premium,14,4/11/2022,Apr,11/7/2023,Nov,Active,Australia,33,30-35,Female
+2175,Basic,11,6/11/2022,Jun,10/7/2023,Oct,Active,Germany,30,25-30,Male
+2176,Basic,13,7/11/2022,Jul,10/7/2023,Oct,Active,France,46,45-50,Male
+2177,Premium,15,8/11/2022,Aug,9/7/2023,Sep,Active,Brazil,42,40-45,Female
+2178,Standard,11,9/11/2022,Sep,11/7/2023,Nov,Active,Mexico,28,25-30,Female
+2179,Standard,10,10/11/2022,Oct,10/7/2023,Oct,Active,Spain,40,35-40,Male
+2180,Basic,14,10/11/2022,Oct,10/7/2023,Oct,Active,Italy,31,30-35,Female
+2181,Premium,13,10/11/2022,Oct,9/7/2023,Sep,Active,Spain,27,25-30,Male
+2182,Standard,14,9/11/2022,Sep,10/7/2023,Oct,Active,Spain,45,40-45,Female
+2183,Basic,10,9/11/2022,Sep,10/7/2023,Oct,Active,United States,49,45-50,Female
+2184,Standard,12,6/11/2022,Jun,11/7/2023,Nov,Active,Canada,28,25-30,Male
+2185,Premium,14,3/11/2022,Mar,8/7/2023,Aug,Active,United States,33,30-35,Male
+2186,Basic,15,10/27/2022,Oct,11/7/2023,Nov,Active,United States,38,35-40,Male
+2187,Premium,15,10/28/2022,Oct,10/7/2023,Oct,Active,Canada,44,40-45,Male
+2188,Standard,15,10/18/2022,Oct,10/7/2023,Oct,Active,United Kingdom,34,30-35,Female
+2189,Basic,15,4/10/2022,Apr,9/7/2023,Sep,Active,Australia,35,30-35,Male
+2190,Standard,10,9/29/2022,Sep,10/7/2023,Oct,Active,Germany,47,45-50,Male
+2191,Premium,12,9/29/2022,Sep,10/7/2023,Oct,Active,France,30,25-30,Male
+2192,Basic,12,9/23/2022,Sep,10/7/2023,Oct,Active,Brazil,50,45-50,Female
+2193,Standard,12,9/17/2022,Sep,9/7/2023,Sep,Active,Mexico,32,30-35,Male
+2194,Premium,14,12/9/2022,Dec,12/7/2023,Dec,Active,Spain,36,35-40,Female
+2195,Basic,14,8/16/2022,Aug,10/7/2023,Oct,Active,Italy,40,35-40,Female
+2196,Premium,15,8/16/2022,Aug,9/7/2023,Sep,Active,Spain,39,35-40,Male
+2197,Basic,11,8/13/2022,Aug,10/7/2023,Oct,Active,Spain,28,25-30,Male
+2198,Standard,12,12/8/2022,Dec,11/7/2023,Nov,Active,United States,29,25-30,Female
+2199,Standard,14,8/13/2022,Aug,9/7/2023,Sep,Active,Canada,49,45-50,Male
+2200,Basic,14,7/30/2022,Jul,12/7/2023,Dec,Active,United States,40,35-40,Male
+2201,Premium,12,7/25/2022,Jul,10/7/2023,Oct,Active,United States,29,25-30,Male
+2202,Basic,14,7/25/2022,Jul,11/7/2023,Nov,Active,Canada,35,30-35,Female
+2203,Standard,14,7/26/2022,Jul,10/7/2023,Oct,Active,United Kingdom,44,40-45,Male
+2204,Premium,11,7/25/2022,Jul,7/13/2023,Jul,Inactive,Australia,39,35-40,Male
+2205,Basic,12,7/23/2022,Jul,9/7/2023,Sep,Active,Germany,27,25-30,Male
+2206,Premium,11,7/18/2022,Jul,11/7/2023,Nov,Active,France,31,30-35,Male
+2207,Basic,13,7/13/2022,Jul,10/7/2023,Oct,Active,Brazil,39,35-40,Female
+2208,Standard,13,7/13/2022,Jul,12/7/2023,Dec,Active,Mexico,44,40-45,Male
+2209,Standard,10,7/13/2022,Jul,9/7/2023,Sep,Active,Spain,48,45-50,Female
+2210,Basic,11,7/13/2022,Jul,11/7/2023,Nov,Active,Italy,27,25-30,Male
+2211,Premium,13,7/13/2022,Jul,9/7/2023,Sep,Active,Spain,27,25-30,Male
+2212,Basic,14,7/14/2022,Jul,11/7/2023,Nov,Active,Spain,41,40-45,Male
+2213,Standard,15,7/15/2022,Jul,9/7/2023,Sep,Active,United States,44,40-45,Female
+2214,Premium,12,7/16/2022,Jul,12/7/2023,Dec,Active,Canada,29,25-30,Female
+2215,Basic,13,7/18/2022,Jul,9/7/2023,Sep,Active,United States,42,40-45,Female
+2216,Premium,15,7/21/2022,Jul,11/7/2023,Nov,Active,United States,45,40-45,Female
+2217,Basic,11,7/24/2022,Jul,9/7/2023,Sep,Active,Canada,39,35-40,Female
+2218,Standard,15,7/29/2022,Jul,12/7/2023,Dec,Active,United Kingdom,41,40-45,Female
+2219,Standard,10,6/8/2022,Jun,10/7/2023,Oct,Active,Australia,41,40-45,Female
+2220,Basic,15,11/8/2022,Nov,11/7/2023,Nov,Active,Germany,41,40-45,Male
+2221,Premium,14,8/16/2022,Aug,9/7/2023,Sep,Active,France,47,45-50,Female
+2222,Basic,10,8/21/2022,Aug,7/13/2023,Jul,Inactive,Brazil,49,45-50,Female
+2223,Standard,12,8/22/2022,Aug,10/7/2023,Oct,Active,Mexico,29,25-30,Male
+2224,Premium,10,8/24/2022,Aug,10/7/2023,Oct,Active,Spain,33,30-35,Male
+2225,Basic,13,2/9/2022,Feb,12/7/2023,Dec,Active,Italy,45,40-45,Female
+2226,Premium,13,6/9/2022,Jun,7/13/2023,Jul,Inactive,Spain,41,40-45,Female
+2227,Basic,11,11/9/2022,Nov,10/7/2023,Oct,Active,Spain,31,30-35,Male
+2228,Standard,15,9/16/2022,Sep,10/7/2023,Oct,Active,United States,51,50-55,Male
+2229,Standard,11,9/22/2022,Sep,12/7/2023,Dec,Active,Canada,43,40-45,Female
+2230,Basic,12,9/26/2022,Sep,12/7/2023,Dec,Active,United States,33,30-35,Female
+2231,Premium,10,2/10/2022,Feb,9/7/2023,Sep,Active,United States,47,45-50,Female
+2232,Basic,13,4/10/2022,Apr,10/7/2023,Oct,Active,Canada,40,35-40,Female
+2233,Standard,14,9/10/2022,Sep,12/7/2023,Dec,Active,United Kingdom,34,30-35,Female
+2234,Premium,15,11/10/2022,Nov,11/7/2023,Nov,Active,Australia,40,35-40,Male
+2235,Basic,15,10/15/2022,Oct,9/7/2023,Sep,Active,Germany,38,35-40,Male
+2236,Premium,11,10/16/2022,Oct,10/7/2023,Oct,Active,France,47,45-50,Male
+2237,Basic,13,10/18/2022,Oct,11/7/2023,Nov,Active,Brazil,29,25-30,Male
+2238,Standard,14,10/21/2022,Oct,10/7/2023,Oct,Active,Mexico,49,45-50,Female
+2239,Standard,12,10/22/2022,Oct,8/7/2023,Aug,Active,Spain,40,35-40,Male
+2240,Basic,12,10/25/2022,Oct,11/7/2023,Nov,Active,Italy,51,50-55,Female
+2241,Premium,11,10/29/2022,Oct,11/7/2023,Nov,Active,Spain,51,50-55,Female
+2242,Basic,12,10/30/2022,Oct,10/7/2023,Oct,Active,Spain,50,45-50,Female
+2243,Standard,10,4/11/2022,Apr,9/7/2023,Sep,Active,United States,47,45-50,Female
+2244,Premium,10,5/11/2022,May,12/7/2023,Dec,Active,Canada,40,35-40,Male
+2245,Basic,15,7/11/2022,Jul,10/7/2023,Oct,Active,United States,35,30-35,Female
+2246,Basic,15,8/11/2022,Aug,10/7/2023,Oct,Active,United States,37,35-40,Female
+2247,Basic,15,9/11/2022,Sep,10/7/2023,Oct,Active,Canada,30,25-30,Male
+2248,Standard,15,10/11/2022,Oct,11/7/2023,Nov,Active,United Kingdom,47,45-50,Female
+2249,Premium,12,11/11/2022,Nov,10/7/2023,Oct,Active,Australia,35,30-35,Male
+2250,Basic,14,10/11/2022,Oct,11/7/2023,Nov,Active,Germany,33,30-35,Male
+2251,Basic,13,10/11/2022,Oct,9/7/2023,Sep,Active,France,51,50-55,Female
+2252,Premium,12,11/11/2022,Nov,11/7/2023,Nov,Active,Brazil,31,30-35,Female
+2253,Standard,10,7/11/2022,Jul,11/7/2023,Nov,Active,Mexico,48,45-50,Female
+2254,Standard,11,4/11/2022,Apr,11/7/2023,Nov,Active,Spain,40,35-40,Male
+2255,Basic,15,10/31/2022,Oct,9/7/2023,Sep,Active,Italy,41,40-45,Female
+2256,Premium,15,10/29/2022,Oct,11/7/2023,Nov,Active,Spain,41,40-45,Male
+2257,Standard,12,10/20/2022,Oct,10/7/2023,Oct,Active,Spain,28,25-30,Female
+2258,Basic,13,10/14/2022,Oct,11/7/2023,Nov,Active,United States,45,40-45,Female
+2259,Standard,11,12/10/2022,Dec,10/7/2023,Oct,Active,Canada,32,30-35,Female
+2260,Premium,10,1/10/2022,Jan,11/7/2023,Nov,Active,United States,31,30-35,Male
+2261,Basic,10,9/25/2022,Sep,10/7/2023,Oct,Active,United States,40,35-40,Female
+2262,Premium,10,9/23/2022,Sep,10/7/2023,Oct,Active,Canada,40,35-40,Female
+2263,Standard,14,9/19/2022,Sep,9/7/2023,Sep,Active,United Kingdom,50,45-50,Male
+2264,Basic,12,2/9/2022,Feb,12/7/2023,Dec,Active,Australia,41,40-45,Male
+2265,Standard,10,8/30/2022,Aug,10/7/2023,Oct,Active,Germany,43,40-45,Male
+2266,Premium,15,8/16/2022,Aug,9/7/2023,Sep,Active,France,43,40-45,Male
+2267,Basic,11,8/15/2022,Aug,10/7/2023,Oct,Active,Brazil,36,35-40,Female
+2268,Standard,15,8/16/2022,Aug,11/7/2023,Nov,Active,Mexico,48,45-50,Male
+2269,Premium,15,1/8/2022,Jan,10/7/2023,Oct,Active,Spain,33,30-35,Female
+2270,Basic,14,7/27/2022,Jul,7/14/2023,Jul,Inactive,Italy,30,25-30,Female
+2271,Premium,14,7/26/2022,Jul,10/7/2023,Oct,Active,Spain,37,35-40,Female
+2272,Basic,13,7/26/2022,Jul,11/7/2023,Nov,Active,Spain,49,45-50,Male
+2273,Standard,15,7/27/2022,Jul,11/7/2023,Nov,Active,United States,47,45-50,Female
+2274,Standard,10,7/26/2022,Jul,7/13/2023,Jul,Inactive,Canada,45,40-45,Female
+2275,Basic,11,7/23/2022,Jul,9/7/2023,Sep,Active,United States,50,45-50,Male
+2276,Premium,12,7/20/2022,Jul,11/7/2023,Nov,Active,United States,36,35-40,Male
+2277,Basic,14,7/14/2022,Jul,10/7/2023,Oct,Active,Canada,37,35-40,Male
+2278,Standard,15,7/14/2022,Jul,12/7/2023,Dec,Active,United Kingdom,38,35-40,Female
+2279,Premium,10,7/14/2022,Jul,10/7/2023,Oct,Active,Australia,40,35-40,Male
+2280,Basic,13,7/13/2022,Jul,12/7/2023,Dec,Active,Germany,38,35-40,Female
+2281,Premium,14,7/14/2022,Jul,10/7/2023,Oct,Active,France,46,45-50,Female
+2282,Basic,10,7/15/2022,Jul,11/7/2023,Nov,Active,Brazil,40,35-40,Female
+2283,Standard,13,7/16/2022,Jul,10/7/2023,Oct,Active,Mexico,34,30-35,Male
+2284,Standard,12,7/18/2022,Jul,12/7/2023,Dec,Active,Spain,39,35-40,Female
+2285,Basic,13,7/19/2022,Jul,10/7/2023,Oct,Active,Italy,47,45-50,Male
+2286,Premium,15,7/22/2022,Jul,12/7/2023,Dec,Active,Spain,41,40-45,Male
+2287,Basic,12,7/27/2022,Jul,9/7/2023,Sep,Active,Spain,47,45-50,Female
+2288,Standard,13,2/8/2022,Feb,7/13/2023,Jul,Inactive,United States,50,45-50,Male
+2289,Premium,10,10/8/2022,Oct,10/7/2023,Oct,Active,Canada,31,30-35,Male
+2290,Basic,13,8/15/2022,Aug,11/7/2023,Nov,Active,United States,41,40-45,Male
+2291,Premium,11,8/18/2022,Aug,11/7/2023,Nov,Active,United States,31,30-35,Female
+2292,Basic,12,8/20/2022,Aug,7/14/2023,Jul,Inactive,Canada,41,40-45,Female
+2293,Standard,12,8/23/2022,Aug,11/7/2023,Nov,Active,United Kingdom,28,25-30,Male
+2294,Standard,14,8/24/2022,Aug,10/7/2023,Oct,Active,Australia,40,35-40,Female
+2295,Basic,11,8/30/2022,Aug,7/13/2023,Jul,Inactive,Germany,34,30-35,Female
+2296,Premium,10,6/9/2022,Jun,7/13/2023,Jul,Inactive,France,37,35-40,Male
+2297,Basic,13,9/13/2022,Sep,10/7/2023,Oct,Active,Brazil,30,25-30,Female
+2298,Standard,12,9/18/2022,Sep,10/7/2023,Oct,Active,Mexico,32,30-35,Male
+2299,Premium,14,9/22/2022,Sep,12/7/2023,Dec,Active,Spain,41,40-45,Male
+2300,Basic,13,9/28/2022,Sep,12/7/2023,Dec,Active,Italy,42,40-45,Female
+2301,Premium,13,3/10/2022,Mar,9/7/2023,Sep,Active,Spain,40,35-40,Male
+2302,Basic,11,5/10/2022,May,10/7/2023,Oct,Active,Spain,30,25-30,Female
+2303,Standard,14,9/10/2022,Sep,12/7/2023,Dec,Active,United States,43,40-45,Male
+2304,Standard,14,10/15/2022,Oct,11/7/2023,Nov,Active,Canada,31,30-35,Female
+2305,Basic,15,10/16/2022,Oct,9/7/2023,Sep,Active,United States,45,40-45,Male
+2306,Premium,10,10/18/2022,Oct,11/7/2023,Nov,Active,United States,33,30-35,Male
+2307,Basic,14,10/19/2022,Oct,12/7/2023,Dec,Active,Canada,41,40-45,Male
+2308,Standard,11,10/22/2022,Oct,11/7/2023,Nov,Active,United Kingdom,37,35-40,Male
+2309,Premium,12,10/23/2022,Oct,9/7/2023,Sep,Active,Australia,40,35-40,Female
+2310,Basic,10,10/29/2022,Oct,12/7/2023,Dec,Active,Germany,36,35-40,Male
+2311,Premium,14,10/30/2022,Oct,11/7/2023,Nov,Active,France,28,25-30,Male
+2312,Basic,12,3/11/2022,Mar,11/7/2023,Nov,Active,Brazil,38,35-40,Male
+2313,Standard,11,4/11/2022,Apr,9/7/2023,Sep,Active,Mexico,36,35-40,Female
+2314,Standard,12,5/11/2022,May,12/7/2023,Dec,Active,Spain,47,45-50,Female
+2315,Basic,12,7/11/2022,Jul,10/7/2023,Oct,Active,Italy,35,30-35,Female
+2316,Premium,14,9/11/2022,Sep,11/7/2023,Nov,Active,Spain,29,25-30,Female
+2317,Basic,14,10/11/2022,Oct,10/7/2023,Oct,Active,Spain,49,45-50,Female
+2318,Standard,11,11/11/2022,Nov,12/7/2023,Dec,Active,United States,34,30-35,Male
+2319,Premium,13,11/11/2022,Nov,11/7/2023,Nov,Active,Canada,37,35-40,Male
+2320,Basic,14,10/11/2022,Oct,11/7/2023,Nov,Active,United States,50,45-50,Male
+2321,Basic,12,11/11/2022,Nov,9/7/2023,Sep,Active,United States,38,35-40,Male
+2322,Basic,15,12/11/2022,Dec,11/7/2023,Nov,Active,Canada,37,35-40,Female
+2323,Standard,12,7/11/2022,Jul,11/7/2023,Nov,Active,United Kingdom,34,30-35,Male
+2324,Premium,13,4/11/2022,Apr,11/7/2023,Nov,Active,Australia,30,25-30,Male
+2325,Basic,13,3/11/2022,Mar,11/7/2023,Nov,Active,Germany,35,30-35,Male
+2326,Basic,12,1/11/2022,Jan,11/7/2023,Nov,Active,France,39,35-40,Male
+2327,Premium,10,10/29/2022,Oct,11/7/2023,Nov,Active,Brazil,47,45-50,Female
+2328,Standard,13,10/26/2022,Oct,11/7/2023,Nov,Active,Mexico,40,35-40,Female
+2329,Standard,12,10/25/2022,Oct,10/7/2023,Oct,Active,Spain,33,30-35,Male
+2330,Basic,12,10/22/2022,Oct,7/13/2023,Jul,Inactive,Italy,32,30-35,Female
+2331,Premium,13,10/16/2022,Oct,10/7/2023,Oct,Active,Spain,32,30-35,Male
+2332,Standard,10,10/15/2022,Oct,10/7/2023,Oct,Active,Spain,30,25-30,Female
+2333,Basic,12,9/19/2022,Sep,11/7/2023,Nov,Active,United States,49,45-50,Male
+2334,Standard,13,9/16/2022,Sep,12/7/2023,Dec,Active,Canada,39,35-40,Female
+2335,Premium,15,8/9/2022,Aug,10/7/2023,Oct,Active,United States,45,40-45,Male
+2336,Basic,14,8/21/2022,Aug,12/7/2023,Dec,Active,United States,43,40-45,Male
+2337,Premium,10,8/20/2022,Aug,10/7/2023,Oct,Active,Canada,41,40-45,Male
+2338,Standard,10,10/8/2022,Oct,11/7/2023,Nov,Active,United Kingdom,38,35-40,Female
+2339,Basic,13,7/31/2022,Jul,11/7/2023,Nov,Active,Australia,34,30-35,Female
+2340,Standard,15,7/30/2022,Jul,7/14/2023,Jul,Inactive,Germany,38,35-40,Male
+2341,Premium,11,7/31/2022,Jul,10/7/2023,Oct,Active,France,48,45-50,Male
+2342,Basic,11,7/30/2022,Jul,12/7/2023,Dec,Active,Brazil,38,35-40,Female
+2343,Standard,10,7/30/2022,Jul,11/7/2023,Nov,Active,Mexico,34,30-35,Female
+2344,Premium,10,7/27/2022,Jul,7/13/2023,Jul,Inactive,Spain,44,40-45,Female
+2345,Basic,11,7/21/2022,Jul,10/7/2023,Oct,Active,Italy,39,35-40,Male
+2346,Premium,10,7/20/2022,Jul,12/7/2023,Dec,Active,Spain,43,40-45,Female
+2347,Basic,13,7/16/2022,Jul,10/7/2023,Oct,Active,Spain,49,45-50,Female
+2348,Standard,10,7/16/2022,Jul,12/7/2023,Dec,Active,United States,48,45-50,Female
+2349,Standard,11,7/14/2022,Jul,11/7/2023,Nov,Active,Canada,47,45-50,Female
+2350,Basic,12,7/14/2022,Jul,7/13/2023,Jul,Inactive,United States,27,25-30,Female
+2351,Premium,14,7/15/2022,Jul,10/7/2023,Oct,Active,United States,40,35-40,Female
+2352,Basic,11,7/16/2022,Jul,12/7/2023,Dec,Active,Canada,43,40-45,Female
+2353,Standard,15,7/18/2022,Jul,10/7/2023,Oct,Active,United Kingdom,30,25-30,Female
+2354,Premium,13,7/19/2022,Jul,7/13/2023,Jul,Inactive,Australia,43,40-45,Female
+2355,Basic,13,7/22/2022,Jul,10/7/2023,Oct,Active,Germany,49,45-50,Male
+2356,Premium,13,7/25/2022,Jul,12/7/2023,Dec,Active,France,47,45-50,Male
+2357,Basic,13,7/26/2022,Jul,11/7/2023,Nov,Active,Brazil,33,30-35,Male
+2358,Standard,15,4/8/2022,Apr,7/14/2023,Jul,Inactive,Mexico,48,45-50,Female
+2359,Standard,13,12/8/2022,Dec,11/7/2023,Nov,Active,Spain,31,30-35,Male
+2360,Basic,13,8/14/2022,Aug,11/7/2023,Nov,Active,Italy,30,25-30,Male
+2361,Premium,14,8/16/2022,Aug,7/13/2023,Jul,Inactive,Spain,34,30-35,Female
+2362,Basic,12,8/17/2022,Aug,7/14/2023,Jul,Inactive,Spain,37,35-40,Male
+2363,Standard,11,8/22/2022,Aug,11/7/2023,Nov,Active,United States,44,40-45,Female
+2364,Premium,13,8/26/2022,Aug,11/7/2023,Nov,Active,Canada,28,25-30,Female
+2365,Basic,11,6/9/2022,Jun,7/13/2023,Jul,Inactive,United States,47,45-50,Male
+2366,Premium,11,9/9/2022,Sep,7/13/2023,Jul,Inactive,United States,43,40-45,Male
+2367,Basic,12,9/17/2022,Sep,10/7/2023,Oct,Active,Canada,51,50-55,Male
+2368,Standard,14,9/19/2022,Sep,11/7/2023,Nov,Active,United Kingdom,50,45-50,Male
+2369,Standard,11,9/24/2022,Sep,7/13/2023,Jul,Inactive,Australia,40,35-40,Female
+2370,Basic,11,9/29/2022,Sep,12/7/2023,Dec,Active,Germany,31,30-35,Female
+2371,Premium,15,3/10/2022,Mar,10/7/2023,Oct,Active,France,29,25-30,Female
+2372,Basic,15,7/10/2022,Jul,10/7/2023,Oct,Active,Brazil,38,35-40,Female
+2373,Standard,14,10/14/2022,Oct,7/13/2023,Jul,Inactive,Mexico,47,45-50,Male
+2374,Premium,15,10/16/2022,Oct,12/7/2023,Dec,Active,Spain,30,25-30,Male
+2375,Basic,13,10/18/2022,Oct,10/7/2023,Oct,Active,Italy,42,40-45,Male
+2376,Premium,12,10/19/2022,Oct,12/7/2023,Dec,Active,Spain,49,45-50,Male
+2377,Basic,14,10/20/2022,Oct,12/7/2023,Dec,Active,Spain,50,45-50,Female
+2378,Standard,11,10/22/2022,Oct,11/7/2023,Nov,Active,United States,51,50-55,Male
+2379,Standard,11,10/25/2022,Oct,9/7/2023,Sep,Active,Canada,47,45-50,Male
+2380,Basic,13,10/27/2022,Oct,12/7/2023,Dec,Active,United States,36,35-40,Female
+2381,Premium,12,10/30/2022,Oct,11/7/2023,Nov,Active,United States,30,25-30,Female
+2382,Basic,12,1/11/2022,Jan,11/7/2023,Nov,Active,Canada,34,30-35,Female
+2383,Standard,10,5/11/2022,May,10/7/2023,Oct,Active,United Kingdom,35,30-35,Female
+2384,Premium,14,7/11/2022,Jul,12/7/2023,Dec,Active,Australia,30,25-30,Male
+2385,Basic,14,8/11/2022,Aug,11/7/2023,Nov,Active,Germany,30,25-30,Male
+2386,Premium,11,10/11/2022,Oct,12/7/2023,Dec,Active,France,41,40-45,Female
+2387,Basic,15,11/11/2022,Nov,10/7/2023,Oct,Active,Brazil,39,35-40,Female
+2388,Standard,14,12/11/2022,Dec,12/7/2023,Dec,Active,Mexico,30,25-30,Male
+2389,Standard,12,11/11/2022,Nov,12/7/2023,Dec,Active,Spain,36,35-40,Female
+2390,Basic,11,11/11/2022,Nov,12/7/2023,Dec,Active,Italy,33,30-35,Female
+2391,Premium,11,12/11/2022,Dec,10/7/2023,Oct,Active,Spain,35,30-35,Female
+2392,Basic,14,11/11/2022,Nov,12/7/2023,Dec,Active,Spain,46,45-50,Male
+2393,Standard,12,7/11/2022,Jul,11/7/2023,Nov,Active,United States,51,50-55,Female
+2394,Premium,13,5/11/2022,May,12/7/2023,Dec,Active,Canada,42,40-45,Female
+2395,Basic,13,2/11/2022,Feb,11/7/2023,Nov,Active,United States,30,25-30,Female
+2396,Basic,10,10/31/2022,Oct,7/13/2023,Jul,Inactive,United States,45,40-45,Male
+2397,Basic,15,10/29/2022,Oct,11/7/2023,Nov,Active,Canada,27,25-30,Male
+2398,Standard,10,10/25/2022,Oct,11/7/2023,Nov,Active,United Kingdom,41,40-45,Male
+2399,Premium,14,10/23/2022,Oct,10/7/2023,Oct,Active,Australia,35,30-35,Male
+2400,Basic,10,10/17/2022,Oct,7/13/2023,Jul,Inactive,Germany,30,25-30,Male
+2401,Basic,11,10/16/2022,Oct,11/7/2023,Nov,Active,France,35,30-35,Female
+2402,Premium,12,5/10/2022,May,11/7/2023,Nov,Active,Brazil,47,45-50,Female
+2403,Standard,15,9/17/2022,Sep,11/7/2023,Nov,Active,Mexico,41,40-45,Male
+2404,Standard,12,9/17/2022,Sep,12/7/2023,Dec,Active,Spain,48,45-50,Female
+2405,Basic,12,6/9/2022,Jun,11/7/2023,Nov,Active,Italy,32,30-35,Female
+2406,Premium,13,8/30/2022,Aug,7/15/2023,Jul,Inactive,Spain,35,30-35,Female
+2407,Standard,11,8/29/2022,Aug,11/7/2023,Nov,Active,Spain,31,30-35,Female
+2408,Basic,12,8/25/2022,Aug,7/13/2023,Jul,Inactive,United States,45,40-45,Female
+2409,Standard,14,3/8/2022,Mar,11/7/2023,Nov,Active,Canada,38,35-40,Female
+2410,Premium,12,2/8/2022,Feb,7/14/2023,Jul,Inactive,United States,34,30-35,Male
+2411,Basic,15,2/8/2022,Feb,11/7/2023,Nov,Active,United States,37,35-40,Female
+2412,Premium,12,1/8/2022,Jan,7/13/2023,Jul,Inactive,Canada,27,25-30,Female
+2413,Standard,13,7/31/2022,Jul,11/7/2023,Nov,Active,United Kingdom,44,40-45,Female
+2414,Basic,10,7/22/2022,Jul,7/13/2023,Jul,Inactive,Australia,46,45-50,Male
+2415,Standard,14,7/22/2022,Jul,11/7/2023,Nov,Active,Germany,37,35-40,Male
+2416,Premium,14,7/19/2022,Jul,7/13/2023,Jul,Inactive,France,44,40-45,Male
+2417,Basic,15,7/17/2022,Jul,11/7/2023,Nov,Active,Brazil,29,25-30,Male
+2418,Standard,13,7/16/2022,Jul,7/13/2023,Jul,Inactive,Mexico,28,25-30,Female
+2419,Premium,14,7/16/2022,Jul,11/7/2023,Nov,Active,Spain,50,45-50,Male
+2420,Basic,13,7/16/2022,Jul,7/13/2023,Jul,Inactive,Italy,39,35-40,Male
+2421,Premium,10,7/16/2022,Jul,11/7/2023,Nov,Active,Spain,34,30-35,Female
+2422,Basic,14,7/17/2022,Jul,12/7/2023,Dec,Active,Spain,40,35-40,Male
+2423,Standard,12,7/19/2022,Jul,11/7/2023,Nov,Active,United States,30,25-30,Male
+2424,Standard,14,7/20/2022,Jul,7/14/2023,Jul,Inactive,Canada,41,40-45,Female
+2425,Basic,12,7/21/2022,Jul,10/7/2023,Oct,Active,United States,39,35-40,Male
+2426,Premium,15,7/23/2022,Jul,12/7/2023,Dec,Active,United States,51,50-55,Male
+2427,Basic,15,3/8/2022,Mar,7/14/2023,Jul,Inactive,Canada,28,25-30,Female
+2428,Standard,12,6/8/2022,Jun,7/15/2023,Jul,Inactive,United Kingdom,30,25-30,Female
+2429,Premium,11,10/8/2022,Oct,12/7/2023,Dec,Active,Australia,30,25-30,Female
+2430,Basic,10,8/13/2022,Aug,11/7/2023,Nov,Active,Germany,44,40-45,Female
+2431,Premium,12,8/15/2022,Aug,7/14/2023,Jul,Inactive,France,29,25-30,Female
+2432,Basic,11,8/19/2022,Aug,7/14/2023,Jul,Inactive,Brazil,28,25-30,Female
+2433,Standard,10,8/22/2022,Aug,11/7/2023,Nov,Active,Mexico,48,45-50,Male
+2434,Standard,11,8/28/2022,Aug,11/7/2023,Nov,Active,Spain,42,40-45,Female
+2435,Basic,14,6/9/2022,Jun,7/13/2023,Jul,Inactive,Italy,39,35-40,Male
+2436,Premium,14,9/16/2022,Sep,7/13/2023,Jul,Inactive,Spain,44,40-45,Female
+2437,Basic,11,9/18/2022,Sep,11/7/2023,Nov,Active,Spain,49,45-50,Male
+2438,Standard,12,9/23/2022,Sep,11/7/2023,Nov,Active,United States,49,45-50,Female
+2439,Premium,10,9/28/2022,Sep,7/13/2023,Jul,Inactive,Canada,36,35-40,Female
+2440,Basic,14,9/29/2022,Sep,12/7/2023,Dec,Active,United States,50,45-50,Female
+2441,Premium,10,7/10/2022,Jul,10/7/2023,Oct,Active,United States,49,45-50,Female
+2442,Basic,11,8/10/2022,Aug,12/7/2023,Dec,Active,Canada,36,35-40,Male
+2443,Standard,13,10/10/2022,Oct,7/13/2023,Jul,Inactive,United Kingdom,28,25-30,Female
+2444,Standard,15,10/14/2022,Oct,12/7/2023,Dec,Active,Australia,45,40-45,Female
+2445,Basic,14,10/16/2022,Oct,10/7/2023,Oct,Active,Germany,31,30-35,Female
+2446,Premium,11,10/18/2022,Oct,12/7/2023,Dec,Active,France,46,45-50,Male
+2447,Basic,14,10/21/2022,Oct,12/7/2023,Dec,Active,Brazil,27,25-30,Male
+2448,Standard,13,10/24/2022,Oct,12/7/2023,Dec,Active,Mexico,43,40-45,Male
+2449,Premium,10,10/27/2022,Oct,9/7/2023,Sep,Active,Spain,51,50-55,Female
+2450,Basic,13,10/29/2022,Oct,7/13/2023,Jul,Inactive,Italy,47,45-50,Female
+2451,Premium,15,10/31/2022,Oct,12/7/2023,Dec,Active,Spain,48,45-50,Female
+2452,Basic,14,4/11/2022,Apr,7/13/2023,Jul,Inactive,Spain,31,30-35,Female
+2453,Standard,15,6/11/2022,Jun,11/7/2023,Nov,Active,United States,48,45-50,Female
+2454,Standard,10,8/11/2022,Aug,7/13/2023,Jul,Inactive,Canada,36,35-40,Male
+2455,Basic,10,9/11/2022,Sep,11/7/2023,Nov,Active,United States,38,35-40,Female
+2456,Premium,13,11/11/2022,Nov,7/13/2023,Jul,Inactive,United States,39,35-40,Male
+2457,Basic,11,12/11/2022,Dec,10/7/2023,Oct,Active,Canada,48,45-50,Male
+2458,Standard,12,12/11/2022,Dec,12/7/2023,Dec,Active,United Kingdom,30,25-30,Female
+2459,Premium,12,12/11/2022,Dec,12/7/2023,Dec,Active,Australia,30,25-30,Male
+2460,Basic,15,12/11/2022,Dec,7/13/2023,Jul,Inactive,Germany,35,30-35,Female
+2461,Premium,13,11/13/2022,Nov,12/7/2023,Dec,Active,France,41,40-45,Male
+2462,Basic,11,11/13/2022,Nov,7/13/2023,Jul,Inactive,Brazil,40,35-40,Female
+2463,Standard,10,12/11/2022,Dec,11/7/2023,Nov,Active,Mexico,50,45-50,Male
+2464,Standard,12,5/11/2022,May,12/7/2023,Dec,Active,Spain,42,40-45,Female
+2465,Basic,15,3/11/2022,Mar,11/7/2023,Nov,Active,Italy,30,25-30,Male
+2466,Premium,12,10/30/2022,Oct,7/14/2023,Jul,Inactive,Spain,34,30-35,Male
+2467,Basic,15,10/26/2022,Oct,11/7/2023,Nov,Active,Spain,40,35-40,Female
+2468,Standard,14,10/24/2022,Oct,12/7/2023,Dec,Active,United States,47,45-50,Female
+2469,Premium,12,10/24/2022,Oct,11/7/2023,Nov,Active,Canada,36,35-40,Male
+2470,Basic,13,10/20/2022,Oct,7/13/2023,Jul,Inactive,United States,50,45-50,Female
+2471,Basic,10,10/17/2022,Oct,11/7/2023,Nov,Active,United States,46,45-50,Male
+2472,Basic,14,9/29/2022,Sep,7/14/2023,Jul,Inactive,Canada,27,25-30,Female
+2473,Standard,12,9/28/2022,Sep,11/7/2023,Nov,Active,United Kingdom,39,35-40,Female
+2474,Premium,10,6/9/2022,Jun,12/7/2023,Dec,Active,Australia,49,45-50,Male
+2475,Basic,12,5/9/2022,May,11/7/2023,Nov,Active,Germany,37,35-40,Female
+2476,Basic,13,8/31/2022,Aug,7/15/2023,Jul,Inactive,France,28,25-30,Male
+2477,Premium,12,8/30/2022,Aug,12/7/2023,Dec,Active,Brazil,40,35-40,Male
+2478,Standard,10,8/16/2022,Aug,7/13/2023,Jul,Inactive,Mexico,47,45-50,Male
+2479,Standard,11,8/16/2022,Aug,11/7/2023,Nov,Active,Spain,51,50-55,Female
+2480,Basic,13,7/8/2022,Jul,7/14/2023,Jul,Inactive,Italy,47,45-50,Male
+2481,Premium,10,5/8/2022,May,12/7/2023,Dec,Active,Spain,33,30-35,Female
+2482,Standard,13,6/8/2022,Jun,7/14/2023,Jul,Inactive,Spain,37,35-40,Female
+2483,Basic,15,7/28/2022,Jul,11/7/2023,Nov,Active,United States,42,40-45,Male
+2484,Standard,11,7/29/2022,Jul,7/13/2023,Jul,Inactive,Canada,50,45-50,Female
+2485,Premium,14,7/25/2022,Jul,12/7/2023,Dec,Active,United States,47,45-50,Female
+2486,Basic,10,7/25/2022,Jul,7/14/2023,Jul,Inactive,United States,40,35-40,Female
+2487,Premium,11,7/25/2022,Jul,12/7/2023,Dec,Active,Canada,35,30-35,Male
+2488,Standard,11,7/18/2022,Jul,7/13/2023,Jul,Inactive,United Kingdom,29,25-30,Female
+2489,Basic,11,7/17/2022,Jul,12/7/2023,Dec,Active,Australia,48,45-50,Female
+2490,Standard,10,7/17/2022,Jul,7/15/2023,Jul,Inactive,Germany,35,30-35,Male
+2491,Premium,13,7/18/2022,Jul,11/7/2023,Nov,Active,France,41,40-45,Female
+2492,Basic,14,7/19/2022,Jul,12/7/2023,Dec,Active,Brazil,29,25-30,Female
+2493,Standard,11,7/20/2022,Jul,11/7/2023,Nov,Active,Mexico,33,30-35,Male
+2494,Premium,12,7/21/2022,Jul,7/15/2023,Jul,Inactive,Spain,36,35-40,Male
+2495,Basic,15,7/23/2022,Jul,12/7/2023,Dec,Active,Italy,43,40-45,Female
+2496,Premium,14,7/25/2022,Jul,12/7/2023,Dec,Active,Spain,28,25-30,Female
+2497,Basic,15,4/8/2022,Apr,7/14/2023,Jul,Inactive,Spain,33,30-35,Female
+2498,Standard,12,9/8/2022,Sep,7/15/2023,Jul,Inactive,United States,38,35-40,Male
+2499,Standard,13,12/8/2022,Dec,12/7/2023,Dec,Active,Canada,48,45-50,Female
+2500,Basic,15,8/13/2022,Aug,12/7/2023,Dec,Active,United States,35,30-35,Female
